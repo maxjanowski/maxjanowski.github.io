@@ -5,7 +5,7 @@ permalink: /subscribe
 order: 2
 ---
 
-We send email to our mailing list when new editions and recordings become available.
+We send email to our [mailing list](//eepurl.com/h5UB4L) when new editions and recordings become available.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
