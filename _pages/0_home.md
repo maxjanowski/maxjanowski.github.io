@@ -19,4 +19,4 @@ We are excited about the many ways in which we are promoting
 Max’s legacy and grateful to our friends who are helping to
 make them happen.
 
-We are just getting started.  The web site will be coming soon.
+We are just getting started.

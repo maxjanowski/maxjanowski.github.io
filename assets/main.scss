@@ -17,3 +17,16 @@
 .footer-col-wrapper {
   font-size: 12px !important;
 }
+
+a, a:visited {
+  font-weight: bold;
+  color: #c44;
+}
+
+a:hover {
+  color: #f44;
+}
+
+.site-nav .page-link:nth-child(3) {
+  color: #c44;
+}
