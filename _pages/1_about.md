@@ -19,9 +19,9 @@ Janowski’s scores, recordings and publications.
 
 # Board of Directors
 
-- Jonathan Miller, president
-- Brad Rubenstein, treasurer
-- Howard Gilbert, Secretary
+- Jonathan Miller, *president*
+- Brad Rubenstein, *treasurer*
+- Howard Gilbert, *secretary*
 - Jordan Goodman
 - Cantor Cory Winter
 
