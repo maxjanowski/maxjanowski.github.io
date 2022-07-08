@@ -20,3 +20,9 @@ Max’s legacy and grateful to our friends who are helping to
 make them happen.
 
 We are just getting started.
+
+<script type="text/javascript">
+if (location.href.includes("utm_campaign=cd1")) {
+  location.href = '/cd1';
+}
+</script>
