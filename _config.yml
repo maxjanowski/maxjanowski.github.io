@@ -9,3 +9,9 @@ description: >-
   Janowski’s scores, recordings and publications.
 google_analytics: G-NWSXLYR4LN
 include: [ '_pages' ]
+
+header_pages:
+  - _pages/1_about.md
+  - _pages/2_music.md
+  - _pages/3_donate.md
+  - _pages/4_subscribe.md
