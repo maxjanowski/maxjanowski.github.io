@@ -2,13 +2,12 @@
 layout: default
 title: Subscribe
 permalink: /subscribe
-order: 2
 ---
 
 We send email to our [mailing list](//eepurl.com/h5UB4L) when new editions and recordings become available.
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
 </style>
@@ -39,11 +38,19 @@ We send email to our [mailing list](//eepurl.com/h5UB4L) when new editions and r
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/h5UznH" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+                <p class="brandingLogo"><a href="https://eepurl.com/h5UznH" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'>
+</script>
+<script type='text/javascript'>
+	(function($) {
+		window.fnames = ['EMAIL','FNAME','LNAME','ADDRESS','PHONE'];
+		window.ftypes = ['email','text','text','address','phone'];
+	}(jQuery));
+	var $mcj = jQuery.noConflict(true);
+</script>
 <!--End mc_embed_signup-->

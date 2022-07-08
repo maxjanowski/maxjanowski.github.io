@@ -2,7 +2,6 @@
 layout: default
 title: Donate
 permalink: /donate
-order: 2
 ---
 
 Thank you for joining us in supporting the Max Janowski Society.
