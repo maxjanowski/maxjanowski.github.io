@@ -5,11 +5,11 @@ permalink: /cd1
 
 # Coming Soon: Our First Music Recording
 
-The Max Janowski Society is proud to announce our upcoming music recording.
+The Max Janowski Society is proud to announce the upcoming release of our first recording.
 
 ## Max Janowski: The Great Works, Volume 1
 
-![CD Thumbnail](/images/CD1Art-300x300.jpg)
+<img style="width:300;height:300;margin:1em;" alt="CD Thumbnail" src="/images/CD1Art-300x300.jpg"/>
 
 To be released Summer 2022.
 
