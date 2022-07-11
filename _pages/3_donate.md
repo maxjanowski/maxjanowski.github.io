@@ -18,15 +18,4 @@ Click the button to donate by credit card or PayPal:
 </form>
 </div>
 
-## Thank You to Our Supporters
-
-- Howard Gilbert
-- Jordan Goodman
-- Holland & Knight LLP
-- Jonathan Miller
-- Brad Rubenstein
-- Liz Skavish and Michael Rubenstein
-- Rochelle Rubenstein
-- Bernadette Winter
-- Cory Winter
-- Zamir Choral Foundation
+We would like to [thank our generous supporters](/thanks).
