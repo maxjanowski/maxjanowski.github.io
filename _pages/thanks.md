@@ -5,7 +5,7 @@ permalink: /thanks
 sitemap: false
 ---
 
-Your generous support allows us to catalog, edit, distribute, and promote Jewish music.
+Your support allows us to catalog, edit, distribute, and promote Jewish music.
 
 ## Thank You to Our Supporters
 

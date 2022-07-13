@@ -4,17 +4,14 @@ title: Subscribe
 permalink: /subscribe
 ---
 
-We send email to our [mailing list](//eepurl.com/h5UB4L) when new editions and recordings become available.
+We send email to our newsletter [mailing list](//eepurl.com/h5UB4L) when new editions and recordings become available.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-</style>
 <div id="mc_embed_signup">
 <form action="https://maxjanowski.us11.list-manage.com/subscribe/post?u=9e80fd37a5d35e6453df13c7a&amp;id=8119d6a0d5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Join Our Mailing List</h2>
+	<h2>Subscribe to Our Newsletter</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

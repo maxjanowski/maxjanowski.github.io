@@ -33,4 +33,5 @@ The Max Janowski Society<br/>
 628 36th St<br/>
 Downers Grove, IL 60515
 
-Email: [info@maxjanowski.org](mailto:info@maxjanowski.org)
+Send us a message: [Contact Us](/Contact "Send message to maxjanowski.org") <br/>
+or via Email: [info@maxjanowski.org](mailto:info@maxjanowski.org)
