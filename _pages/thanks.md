@@ -5,11 +5,12 @@ permalink: /thanks
 sitemap: false
 ---
 
-Help us by making a tax-deductible [donation](/donate)!
-
 Your generous support allows us to catalog, edit, distribute, and promote Jewish music.
 
 ## Thank You to Our Supporters
+
+We'd like to acknowledge the generous support of our current donors.
+Please consider adding your name to this list, by making a tax-deductible [donation](/donate)!
 
 - Howard Gilbert
 - Jordan Goodman

@@ -9,7 +9,7 @@ We truly appreciate your generosity. Contributions will be used
 to develop and promote the music of Max Janowski, and to help
 underwrite new editions, performances, and recordings.
 
-<div style="margin-bottom: .5in">
+<div style="margin-bottom: .25in">
 Click the button to donate by credit card or PayPal:
 <form action="https://www.paypal.com/donate" method="post" target="_top" style="display: inline-block; position: relative; left: 10px; top: 6px;">
 <input type="hidden" name="hosted_button_id" value="FG9GJQ9PBZ86U" />
@@ -18,4 +18,4 @@ Click the button to donate by credit card or PayPal:
 </form>
 </div>
 
-We would like to [thank our generous supporters](/thanks).
+[A special thanks to our generous supporters!](/thanks "Donor Acknowledgements")
