@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /cd1
+sitemap: false
 ---
 
 # Coming Soon: Our First Music Recording
