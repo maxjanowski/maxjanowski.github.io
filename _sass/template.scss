@@ -1,0 +1,27 @@
+.home_img {
+  float: right;
+  padding: 5px 0 0 16px;
+  max-width: 40%;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.footer-col-wrapper {
+  font-size: 12px !important;
+}
+
+a, a:visited {
+  font-weight: bold;
+  color: #c44;
+}
+
+a:hover {
+  color: #f44;
+}
+
+.site-nav .page-link:nth-child(3) {
+  color: #c44;
+}
