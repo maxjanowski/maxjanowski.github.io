@@ -26,3 +26,5 @@ if (location.href.includes("utm_campaign=cd1")) {
   location.href = '/cd1?utm_source=cd&utm_medium=qr&utm_campaign=cd1';
 }
 </script>
+
+_Breaking News:_ [Our latest music CD is coming soon!](/cd1)

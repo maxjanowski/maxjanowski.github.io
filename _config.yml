@@ -9,7 +9,7 @@ description: >-
   to be the primary resource for information and discussion about
   Janowski’s scores, recordings and publications.
 google_analytics: G-NWSXLYR4LN
-include: [ '_pages' ]
+include: [ '_pages','downloads' ]
 
 header_pages:
   - _pages/1_about.md

@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /cd1
-sitemap: false
 ---
 
 # Coming Soon: Our First Music Recording
@@ -16,3 +15,5 @@ To be released Summer 2022.
 
 Please join our [mailing list](/subscribe), and we'll let you know when it's
 available.
+
+The progam booklet is available for download:  [click here!](/download/cd-janowski-vol-1-program-booklet.pdf)
