@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Subscribe
 permalink: /subscribe
+layout: default
 ---
 
 We send email to our newsletter [mailing list](//eepurl.com/h5UB4L) when new editions and recordings become available.
