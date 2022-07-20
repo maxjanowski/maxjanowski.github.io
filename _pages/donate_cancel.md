@@ -1,8 +1,8 @@
 ---
-layout: default
-permalink: /donate/cancel
-sitemap: false
 title: Thank You
+permalink: /donate/cancel
+layout: default
+sitemap: false
 ---
 
 # Please consider a donation

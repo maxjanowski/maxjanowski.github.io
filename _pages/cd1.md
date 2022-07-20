@@ -1,6 +1,7 @@
 ---
-layout: default
+title: The Great Works, Vol. 1
 permalink: /cd1
+layout: default
 ---
 
 # Coming Soon: Our First Music Recording

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Thank You
 permalink: /thanks
+layout: default
 sitemap: false
 ---
 

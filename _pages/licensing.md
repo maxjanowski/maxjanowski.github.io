@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Licensing
 permalink: /licensing
+layout: default
 sitemap: false
 ---
 

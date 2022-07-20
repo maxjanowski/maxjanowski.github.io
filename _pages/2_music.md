@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Music
 permalink: /music
+layout: default
 ---
 
 The Max Janowski Society is producing new editions of Janowski's music,

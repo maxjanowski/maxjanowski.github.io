@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Donate
 permalink: /donate
+layout: default
 ---
 
 Thank you for joining us in supporting the Max Janowski Society.

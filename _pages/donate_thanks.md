@@ -1,8 +1,8 @@
 ---
-layout: default
-permalink: /donate/thanks
-sitemap: false
 title: Thank You
+permalink: /donate/thanks
+layout: default
+sitemap: false
 ---
 
 # Thank you for your donation

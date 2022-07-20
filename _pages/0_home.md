@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Home
 permalink: /
+layout: default
 ---
 
 <div class="home_img" markdown=1>
