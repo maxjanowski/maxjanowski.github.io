@@ -1,0 +1,47 @@
+.buttonlist {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+
+
+  a.buttonbox {
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    color: white;
+    background: black;
+    padding: 0px;
+    border: solid black;
+    border-radius: 4px;
+    margin: 10px;
+    background-size: contain;
+    background-image: url(/images/button-bg-1-200x100.png);
+
+    &:focus, &:active, &:hover {
+      opacity: 80%;
+      outline-style: solid;
+      outline-offset: 2px;
+      outline-width: 2px;
+      outline-color: #444444;
+      text-decoration: none;
+    }
+    span {
+      display: block;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%); // vertically center text
+      left: 0;
+      width: 100%;
+      text-align: center;
+    }
+  }
+}
+
+@include media-query($on-palm) {
+  .buttonlist {
+    flex-flow: column;
+  }
+}
