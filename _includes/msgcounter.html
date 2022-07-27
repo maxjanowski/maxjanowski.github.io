@@ -1,0 +1,7 @@
+<script>
+  document.getElementById("message").onkeyup = (e) => {
+    var counter = document.getElementById("counter");
+    counter.innerHTML = `${e.target.value.length}/${e.target.maxLength}`;
+    counter.style.visibility = 'visible';
+  };
+</script>

@@ -1,0 +1,66 @@
+<div id="contactform">
+  <form class="contact" action="https://getform.io/f/85384775-656e-481d-abb8-b1e4aa9ef5b1" method="POST">
+    <input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
+      <label for="firstname">First Name
+      <input required type="text" id="firstname" name="firstname" placeholder=" ">
+    </label>
+    <label for="lastname">Last Name</label>
+    <input required type="text" id="lastname" name="lastname">
+    <label for="email">Email</label>
+    <input required type="email" id="email" name="email">
+    <label for="organization">Organization</label>
+    <input type="text" id="organization" name="organization" placeholder=" ">
+    <div class="address">
+      <label for="address">Address</label>
+      <input required type="text" id="address" name="address" placeholder="Street Address" maxlength="46">
+      <input required type="text" id="city" name="city" placeholder="City" maxlength="46">
+      <input required type="text" id="state" name="state" maxlength="2" pattern="[a-zA-z]{2}" placeholder="State">
+      <input required type="text" id="zipcode" name="zipcode" placeholder="Zip" maxlength="10" pattern="[0-9-]+">
+    </div>
+
+    <label>Donation</label>
+    <div class="formoptions">
+      <input type="radio" id="pledge250" data-amt="250" name="pledge" checked>
+      <label for="pledge250">I'd like to pledge a donation of $250 (suggested for use of all our editions for you, your organization, your chorus for the coming year).</label>
+      <input type="radio" id="pledge50" name="pledge" >
+      <label for="pledge50">I'd like to pledge a donation of $50 (suggested for use of one piece).</label>
+      <input type="radio" id="pledgeother" name="pledge" >
+      <label for="pledgeother">I'd like to pledge a donation of this amount:  $
+        <input type="text" id="pledgeamt" name="pledgeamt" maxlength=4 placeholder="amount">
+      </label>
+      <input type="checkbox" id="anonymous" name="anonymous">
+      <label for="anonymous">Make donation anonymous. We are pleased to credit all donations on our <a href="/thanks">Thank You</a> web page. If you'd like to remain anonymous, check here.</label>
+
+      <input type="checkbox" id="subscribe" name="subscribe" checked>
+      <label for="subscribe">Stay informed about new releases and other news. Subscribe to our newsletter.</label>
+    </div>
+    <div id="message">
+      <label for="message">Additional message
+      </label>
+      <span id="counter">0/1000</span>
+      <textarea maxlength="1000" rows="8" id="message" name="message"></textarea>
+    </div>
+
+
+    <center>
+      <button type="submit">Send</button>
+    </center>
+  </form>
+</div>
+
+<script>
+var pledgeamt = document.getElementById("pledgeamt");
+function updateamt(e, amt) {
+  if (e.checked) {
+    pledgeamt.value = amt;
+  }
+}
+document.getElementById("pledge250").onchange = (e) => updateamt(e.target, 250);
+document.getElementById("pledge50").onchange = (e) => updateamt(e.target, 50);
+pledgeamt.onfocus = (e) => document.getElementById("pledgeother").checked = true;
+
+</script>
+
+
+{%- include msgcounter.html -%}
+{%- include recaptcha.html -%}

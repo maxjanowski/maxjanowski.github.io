@@ -18,24 +18,33 @@ $textcolor: rgb(36, 28, 21);
   label {
     display: block;
     font-weight: 500;
-    margin-bottom: 6px;
-    margin-top: 24px;
+    margin: 20px 0 2px 0;
     color: inherit;
   }
+  .validation {
+    display: none;
+    color: red;
+    background: pink;
+    border-style: dashed;
+    border-width: 1px;
+    padding: 2px;
+    font-style: italic;
+  }
+
   input {
     display: inline-block;
     width: 100%;
-    padding: 10px 16px;
+    padding: 4px 16px;
+    margin: 4px 0;
     color: inherit;
     font: inherit;
     border-radius: 0;
+
+    &:invalid:not(:focus):not(:placeholder-shown) ~ .validation {
+      display: block;
+    }
   }
-  input#subscribe {
-    width: 24px;
-    height: 24px;
-    margin-right: 16px;
-    display: inline-block;
-  }
+
   div#message {
     position: relative;
     margin-top: 24px;
@@ -53,20 +62,41 @@ $textcolor: rgb(36, 28, 21);
         font-weight: 400;
         color: #aaa;
         float: right;
-        visibility: visible;
+        visibility: hidden;
         position: relative;
         right: 0;
     }
-    &.focus #counter {
-      visibility: visible;
+  }
+  h3 {
+    margin: 20px 0 6px 0;
+  }
+  .formoptions {
+    margin-top: 12px;
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    grid-row-gap: 1em;
+    grid-column-gap: 1em;
+    align-items: baseline;
+    input[type="checkbox"], input[type="radio"] {
+      display: block;
+      width: 24px;
+      height: 24px;
+      margin-right: 0;
+    }
+    label {
+      display: block;
+      max-width: 70%;
+      font-weight: 400;
+      margin: 0;
+    }
+    input#pledgeamt {
+      display: inline !important;
+      max-width: 5em;
+      padding: 0 4px;
     }
 
   }
-  label[for=subscribe] {
-    display: inline-block;
-    font-weight: 400;
-    font-size: inherit;
-  }
+
   button {
     background: $itemcolor;
     color: white;
@@ -87,5 +117,15 @@ $textcolor: rgb(36, 28, 21);
     outline: 2px solid $itemcolor;
     outline-offset: 1px;
     box-shadow: inset -2px 0 transparent;
+  }
+
+  input#city {
+    width: 50%;
+  }
+  input#state {
+    max-width: 4em;
+  }
+  input#zipcode {
+    max-width: 6em;
   }
 }
