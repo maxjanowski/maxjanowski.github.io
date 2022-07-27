@@ -9,12 +9,15 @@ function setupMessageCounter(textareaId = "message", counterId = "counter") {
 // Control code for /order form
 function setupPledgeControl() {
   const pledgeamt = document.getElementById("pledgeamt");
-  function updateamt(radioBtn, amt) {
-    if (radioBtn.checked) {
-      pledgeamt.value = amt;
+  function updateamt(e) {
+    if (e.target.checked) {
+      pledgeamt.value = e.target.value;
     }
   }
-  document.getElementById("pledge250").onchange = (e) => updateamt(e.target, 250);
-  document.getElementById("pledge50").onchange = (e) => updateamt(e.target, 50);
-  pledgeamt.onfocus = (e) => document.getElementById("pledgeother").checked = true;
+  pledgeamt.onfocus = ((e) => {
+    document.getElementById("pledgeother").checked = true;
+  });
+  [ "pledge250", "pledge50" ].forEach( (id) => {
+    document.getElementById(id).onchange = updateamt;
+  });
 }

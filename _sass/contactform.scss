@@ -76,12 +76,14 @@ $textcolor: rgb(36, 28, 21);
     grid-template-columns: 30px 1fr;
     grid-row-gap: 1em;
     grid-column-gap: 1em;
-    align-items: baseline;
+    grid-auto-flow: dense;
     input[type="checkbox"], input[type="radio"] {
       display: block;
       width: 24px;
       height: 24px;
-      margin-right: 0;
+      margin: 0;
+      position: relative;
+      top: 4px;
     }
     label {
       display: block;
