@@ -20,13 +20,13 @@
 
     <label>Donation</label>
     <div class="formoptions">
-      <input type="radio" id="pledge250" data-amt="250" name="pledge" checked>
+      <input type="radio" id="pledge250" value="250" name="pledge" checked>
       <label for="pledge250">I'd like to pledge a donation of $250 (suggested for use of all our editions for you, your organization, your chorus for the coming year).</label>
-      <input type="radio" id="pledge50" name="pledge" >
+      <input type="radio" id="pledge50" value="50" name="pledge" >
       <label for="pledge50">I'd like to pledge a donation of $50 (suggested for use of one piece).</label>
-      <input type="radio" id="pledgeother" name="pledge" >
+      <input type="radio" id="pledgeother" value="other" name="pledge" >
       <label for="pledgeother">I'd like to pledge a donation of this amount:  $
-        <input type="text" id="pledgeamt" name="pledgeamt" maxlength=4 placeholder="amount">
+        <input required type="text" id="pledgeamt" name="pledgeamt" maxlength=4 value="250">
       </label>
       <input type="checkbox" id="anonymous" name="anonymous">
       <label for="anonymous">Make donation anonymous. We are pleased to credit all donations on our <a href="/thanks">Thank You</a> web page. If you'd like to remain anonymous, check here.</label>
@@ -49,18 +49,11 @@
 </div>
 
 <script>
-var pledgeamt = document.getElementById("pledgeamt");
-function updateamt(e, amt) {
-  if (e.checked) {
-    pledgeamt.value = amt;
-  }
+window.onload = () => {
+  setupPledgeControl();
+  setupMessageCounter();
 }
-document.getElementById("pledge250").onchange = (e) => updateamt(e.target, 250);
-document.getElementById("pledge50").onchange = (e) => updateamt(e.target, 50);
-pledgeamt.onfocus = (e) => document.getElementById("pledgeother").checked = true;
-
 </script>
 
 
-{%- include msgcounter.html -%}
 {%- include recaptcha.html -%}
