@@ -1,0 +1,66 @@
+.cd-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  img {
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  .credits {
+    max-width: 300px;
+    text-align: center;
+    font-size: 12px;
+    p {
+      margin: 0;
+      &.r2 {
+        font-size: 120%;
+        font-weight: bold;
+      }
+      &.r3 {
+        font-style: italic;
+        font-size: 80%;
+      }
+      &.r4 {
+        font-size: 80%;
+      }
+      &.pad {
+        margin-top: 8px;
+      }
+    }
+
+  }
+
+}
+
+$buttonColor: #64212a;
+
+.store-buttons {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  a {
+    display: block;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    background-color: $buttonColor;
+    color: white;
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 50px;
+      height: 50px;
+      border-radius: 4px;
+    }
+    &:hover, &:active {
+      text-decoration: none;
+      outline-offset: 1px;
+      outline-width: 2px;
+      outline-style: dashed;
+      outline-color: $buttonColor;
+    }
+  }
+}
