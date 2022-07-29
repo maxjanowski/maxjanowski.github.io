@@ -41,7 +41,6 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
 
 ## Listen, Download, Stream
 
-Note: Physical CDs (with printed program booklets) will be available soon.
 
 <div class="store-buttons">
 <a href="http://itunes.apple.com/album/id1633870004?ls=1&app=itunes" title="Listen on iTunes" target="_blank">Apple<img src="/images/logo-itunes-50x50.jpg"/></a>
@@ -49,3 +48,4 @@ Note: Physical CDs (with printed program booklets) will be available soon.
 <a href="https://open.spotify.com/album/3TTkr1B6Gp4yPXwSxMNP4y" title="Listen on Spotify" target="_blank">Spotify<img src="/images/logo-spotify-50x50.jpg"/></a>
 <a href="https://www.pandora.com/artist/the-max-janowski-society/max-janowski-the-great-works-volume-1/ALm75Xkfp9J66p6" title="Listen on Pandora" target="_blank">Pandora<img src="/images/logo-pandora-50x50.jpg"/></a>
 </div>
+Note: Physical CDs (with printed program booklets) will be available soon.
