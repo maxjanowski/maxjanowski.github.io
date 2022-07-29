@@ -27,22 +27,21 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
 </div>
 
 
-<div class="buttonlist" style="margin-bottom: 2em;">
-  <a href="/download/cd-janowski-vol-1-program-booklet.pdf" target="_blank" class="buttonbox">
+<div class="button-wrapper image-buttons">
+  <a href="/download/cd-janowski-vol-1-program-booklet.pdf" target="_blank">
     <span>Download<br />Program<br />Booklet</span>
   </a>
-  <a href="/subscribe" target="_blank" class="buttonbox" >
+  <a href="/subscribe" target="_blank" >
     <span>Subscribe<br />to get<br />Updates</span>
   </a>
-  <a href="" title="Not yet available" class="buttonbox">
+  <a href="" title="Not yet available" >
     <span>Buy Our CD<br/>[available soon]</span>
   </a>
 </div>
 
 ## Listen, Download, Stream
 
-
-<div class="store-buttons">
+<div class="button-wrapper logo-buttons">
 <a href="http://itunes.apple.com/album/id1633870004?ls=1&app=itunes" title="Listen on iTunes" target="_blank">Apple<img src="/images/logo-itunes-50x50.jpg"/></a>
 <a href="https://www.amazon.com/dp/B0B66QDCZH" title="Listen on Amazon" target="_blank">Amazon<img src="/images/logo-amazon-50x50.jpg"/></a>
 <a href="https://open.spotify.com/album/3TTkr1B6Gp4yPXwSxMNP4y" title="Listen on Spotify" target="_blank">Spotify<img src="/images/logo-spotify-50x50.jpg"/></a>
