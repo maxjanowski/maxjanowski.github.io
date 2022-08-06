@@ -39,6 +39,7 @@ function loadZipLinks(json) {
     });
 
   document.getElementById('editions-list').innerHTML = '<div>Number</div><div>Title</div>'+list.join('');
+  return true;
 }
 </script>
 <script src="https://script.google.com/macros/s/AKfycbwkRx-88AXcAr-8_NIpuBIsNicULEi3AkqASbOu1h0sQfXdl6l0uXYGMR9TH_pd9OnD/exec?callback=loadZipLinks">
