@@ -1,0 +1,21 @@
+.editions-list {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 80px auto;
+  grid-column-gap: 0;
+
+  div {
+    padding: 10px;
+
+    &:nth-child(4n+1), &:nth-child(4n+2) {
+      background: #ddd;
+    }
+    &:nth-child(1), &:nth-child(2) {
+      font-weight: bold;
+      background: #444 !important;
+      color: white;
+
+    }
+
+  }
+}
