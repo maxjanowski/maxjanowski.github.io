@@ -21,20 +21,3 @@ function setupPledgeControl() {
     document.getElementById(id).onchange = updateamt;
   });
 }
-
-function loadZipLinks(jsonp) {
-  let list = JSON.parse(jsonp)
-    .sort((a,b)=> {
-      return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
-    })
-    .map( e => {
-      return `
-        <div>${e.sku}</div>
-        <div>
-          <a href="${e.url}" title="Access and download this piece.">
-            ${e.title}
-          </a>
-        </div>`;
-    })
-  document.getElementById('editions-list').innerHTML = '<div>Number</div><div>Title</div>'+list.join('');
-}

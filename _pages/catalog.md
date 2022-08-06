@@ -18,7 +18,7 @@ with your performers (you don't need to buy a copy for each person).
 * Click on a link below.
 * Log in to your Google account.
 * Click the "Request Access" button (if you don't already have access)
-* Download the entire package by clicking the download icon.
+* Download the entire package by clicking the download icon on the upper right.
 
 <div id="editions-list" class="editions-list">
 <span class="loading">Loading...</span>
