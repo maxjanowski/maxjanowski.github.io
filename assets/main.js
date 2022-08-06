@@ -22,26 +22,19 @@ function setupPledgeControl() {
   });
 }
 
-
-function catalogFetchZipLinks(e) {
-  // google app script brad@maxjanowski.org Download Zip JSON
-  let url = "https://script.google.com/macros/s/AKfycbxNyTjSm-oszb460VEILC60UoYwVWggb7sbXuCOj7UeUEQ5kRP6nidVgfEQ2hduOIE3/exec";
-  fetch(url)
-    .then( res => res.json())
-    .then( json => {
-      let list = json
-        .sort((a,b)=> {
-          return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
-        })
-        .map( e => {
-          return `
-            <div>${e.sku}</div>
-            <div>
-              <a href="${e.url}" title="Access and download this piece.">
-                ${e.title}
-              </a>
-            </div>`;
-        })
-      e.innerHTML = list.join('')
-    });
+function loadZipLinks(jsonp) {
+  let list = JSON.parse(jsonp)
+    .sort((a,b)=> {
+      return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
+    })
+    .map( e => {
+      return `
+        <div>${e.sku}</div>
+        <div>
+          <a href="${e.url}" title="Access and download this piece.">
+            ${e.title}
+          </a>
+        </div>`;
+    })
+  document.getElementById('editions-list').innerHTML = '<div>Number</div><div>Title</div>'+list.join('');
 }
