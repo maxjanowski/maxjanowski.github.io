@@ -15,7 +15,7 @@ with your performers (you don't need to buy a copy for each person).
 
 # Instructions
 
-We distribute these packages from Google Drive. You'll need a Google account to download them.
+We distribute these packages from Google Drive. You'll need a Google account to download them. If you have any problems, [contact us](/contact).
 
 * Click on a link below for the music you want.
 * Log in to your Google account.
