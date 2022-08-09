@@ -18,24 +18,5 @@ Our latest recording, ***Max Janowski: The Great Works, Volume 1*** will be avai
 
 ## Catalog of New Editions
 
-Our initial release of editions will include Max Janowski compositions and arrangements:
-
-- Al Hanisim
-- Ashira Ladonai
-- Avinu Malkeynu (for Leiv Shaleim)
-- Avinu Malkeynu (for Machzor Chadash)
-- Avinu Malkeynu (for Mishkan Hanefesh)
-- Ba'ah M'nuchah
-- Bimey Matityahu
-- Der Rebbe Elimelech
-- Hal'luyah (Psalm 150)
-- Kol Nidrey
-- Nachamu, Nachamu Ami
-- Shabbat Hamalka
-- Shir Hachalutsim
-- Shiru Ladonai (Psalm 98)
-- Sim Shalom
-- Un'taneh Tokef, Uv'shofar Gadol
-- Ush'avtem Mayim
-- Vay'chulu
-- Vayachalom
+We are constantly adding new editions of Janowski compositions to our catalog.
+The current list can be found [here](/catalog).
