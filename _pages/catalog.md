@@ -15,32 +15,17 @@ with your performers (you don't need to buy a copy for each person).
 
 # Instructions
 
-* Click on a link below.
+We distribute these packages from Google Drive. You'll need a Google account to download them.
+
+* Click on a link below for the music you want.
 * Log in to your Google account.
-* Click the "Request Access" button (if you don't already have access)
-* Download the entire package by clicking the download icon on the upper right.
+* If you don't already have, click the "Request Access" button and wait for confirmation e-mail.
+* Once you have access, just download the set of files (Google's download button is at the upper right).
 
 <div id="editions-list" class="editions-list">
 <span class="loading">Loading...</span>
 </div>
 
 <script>
-function loadZipLinks(json) {
-  let list = json
-    .sort((a,b)=> {
-      return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
-    })
-    .map( e => {
-      return `<div>${e.sku}</div><div>
-          <a href="${e.url}" title="Access and download this piece.">
-            ${e.title}
-          </a>
-        </div>`;
-    });
-
-  document.getElementById('editions-list').innerHTML = '<div>Number</div><div>Title</div>'+list.join('');
-  return true;
-}
-</script>
-<script src="https://script.google.com/macros/s/AKfycbwkRx-88AXcAr-8_NIpuBIsNicULEi3AkqASbOu1h0sQfXdl6l0uXYGMR9TH_pd9OnD/exec?callback=loadZipLinks">
+window.onload = e => loadZipLinks(document.getElementById('editions-list'))
 </script>
