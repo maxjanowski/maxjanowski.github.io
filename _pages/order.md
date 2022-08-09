@@ -3,6 +3,7 @@ title: Request Editions
 permalink: /order
 layout: default
 google_recaptcha: 6LdM1gUhAAAAAJxv23v32M_GSnUWLSqy3ygmD1md
+sitemap: false
 ---
 
 We have produced new editions of the pieces listed below, and we encourage you
