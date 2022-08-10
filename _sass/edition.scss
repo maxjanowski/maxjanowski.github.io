@@ -1,0 +1,56 @@
+@import url(//db.onlinewebfonts.com/c/596ad608a41bd28960c777827cdd6af1?family=Apple+Chancery);
+
+.edition-landing {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-family: 'Times Roman', serif;
+  margin-bottom: .25in;
+
+
+  .cover-page {
+    width: 400px;
+    height: 518px;
+    border: thin solid black;
+    box-shadow: 2px 2px 2px;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    margin-bottom: 10px;
+  }
+  .sheet-preview {
+    img {
+      width: 300px;
+      height: 388px;
+      border: thin solid black;
+      box-shadow: 2px 2px 2px;
+    }
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 12px;
+  }
+  #head {
+    margin-bottom: .65in;
+  }
+  #blurb {
+    font-style: italic;
+    margin-top: .5in;
+    margin-bottom: .5in;
+  }
+  #title {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .catalog-number {
+    font-size: 12px;
+    bottom: 12px;
+    position: absolute;
+  }
+  .copyright {
+    position: absolute;
+    bottom: 10px;
+    font-size: 10px;
+  }
+}
