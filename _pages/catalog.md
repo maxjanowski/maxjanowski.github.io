@@ -13,6 +13,9 @@ performance packages that contain tools for your performers:
 Once you have downloaded a performance packet, we encourage you to share it
 with your performers (you don't need to buy a copy for each person).
 
+If you'd like early access to the entire catalog containing ***all*** these
+editions, become a [platinum supporter](/platinum)!
+
 # Instructions
 
 We distribute these packages from Google Drive. You'll need a Google account to download them. If you have any problems, [contact us](/contact).
