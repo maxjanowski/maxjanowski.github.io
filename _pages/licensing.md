@@ -20,7 +20,7 @@ The Max Janowski Society, NFP.
 For the purpose of non-commercial performance: The Max Janowski
 Society grants you the right to distribute copies of these files
 (in printed or electronic form) within your own chorus or performing
-organization, and use them for your own non-commercial performances.
+organization, and use them for your own non-commercial live performances.
 This right is not transferable or assignable. Edition files may not
 be uploaded to any internet site that makes the files accessible
 to people outside your chorus or performing organization.
