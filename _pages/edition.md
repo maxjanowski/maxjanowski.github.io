@@ -31,7 +31,7 @@ layout: default
 The performance package contains the sheet music and all the associated files
 for performance preparation.
 
-<a id="zipFileUrl" href="#">Download Performance Package</a>
+<a id="zipFileUrl" href="#" target="_blank">Download Performance Package</a>
 
 <script>
   window.onload = (e) => {
@@ -47,11 +47,11 @@ for performance preparation.
                 document.title = v + ' | The Max Janowski Society';
               }
               if ( k == 'sheetPreviewId' ) {
-                document.getElementById('sheetPreviewUrl').src = `http://drive.google.com/uc?export=view&id=${v}`;
+                document.getElementById('sheetPreviewUrl').src = `//drive.google.com/uc?export=view&id=${v}`;
 
               }
               if ( k == 'zipFileId' ) {
-                document.getElementById('zipFileUrl').href = `http://drive.google.com/uc?export=download&id=${v}`;
+                document.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
 
               }
               n = document.getElementById(k);
