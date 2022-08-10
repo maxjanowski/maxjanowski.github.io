@@ -11,7 +11,7 @@ By downloading or otherwise receiving digital files published by
 The Max Janowski Society, you agree to these Terms of Use.
 
 The Max Janowski Society Editions ("Editions") are published by the
-Max Janowski Society ("TMJS"), and distributed by TMJS other
+Max Janowski Society ("TMJS"), and distributed by TMJS and other
 authorized distributors. Each Edition consists of a set of digital
 files representing sheet music, audio tracks for rehearsal preparation,
 and additional files. These files are owned by and copyrighted by
