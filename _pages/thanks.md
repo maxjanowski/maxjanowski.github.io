@@ -6,15 +6,12 @@ sitemap: false
 ---
 
 Your support allows us to catalog, edit, distribute, and promote Jewish music.
+We'd like to acknowledge the generous support of our current donors, and appreciate your [donation](/donate), large or small.
 
-## Thank You to Our Supporters
-
-We'd like to acknowledge the generous support of our current donors.
-Please consider adding your name to this list, by making a tax-deductible [donation](/donate)!
+## Platinum Supporters ($250+)
 
 - Howard Gilbert
 - Jordan Goodman
-- Holland & Knight LLP
 - Jonathan Miller
 - Brad Rubenstein
 - Liz Skavish and Michael Rubenstein
@@ -22,3 +19,5 @@ Please consider adding your name to this list, by making a tax-deductible [donat
 - Bernadette Winter
 - Cory Winter
 - Zamir Choral Foundation
+
+Become a [Platinum Supporter](/platinum "Become a platinum supporter today by making a tax deductible donation of $250 or more.") today!
