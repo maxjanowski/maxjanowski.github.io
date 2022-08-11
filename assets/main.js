@@ -47,3 +47,38 @@ function loadZipLinks(e) {
     });
   return true;
 }
+
+function loadEditionPage(e) {
+  const doc = e.target;
+
+  id = new URL(doc.URL).searchParams.get('id')
+  fetch('/assets/editions.json')
+    .then ( res => res.json())
+    .then ( res => {
+      let item = res.find((e) => e['id'] === id);
+      if (!item) {
+        location.href = '/404';
+        return false;
+      }
+      Object.keys(item).forEach(k => {
+        const v = item[k];
+        if ( k == 'title' ) {
+          doc.title = v + ' | The Max Janowski Society';
+        }
+        if ( k == 'sheetPreviewId' ) {
+          doc.getElementById('preview-image').onload = e => (e.target.style.opacity = 1);
+          doc.getElementById('preview-image').src = `//drive.google.com/uc?export=view&id=${v}`;
+        }
+        if ( k == 'zipFileId' ) {
+          doc.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
+
+        }
+        n = doc.getElementById(k);
+        if (n) {
+          n.innerHTML = v;
+        }
+      })
+      doc.getElementById('edition-landing').style.opacity = "1";
+    })
+  return true;
+}

@@ -5,28 +5,24 @@ layout: default
 ---
 
 
-<div class="edition-landing">
+<div id="edition-landing" class="edition-landing">
   <div class="cover-page">
-    <center>
-      <p id="head">The Max Janowski Society Performance Editions Series</p>
-      <p id="title">Loading...</p>
-      <p id="author"></p>
-      <p id="edited"></p>
-      <p id="blurb"></p>
-      <img src="/images/pagebreak-300x87.png" alt="pagebreak" />
-    </center>
-
-
-    <p class="catalog-number">TMJS Catalog Number: <span id='id'></span>-<span id='release'></span></p>
-
-    <div class="copyright">© <span id="year"></span> The Max Janowski Society NFP</div>
+    <p id="head">The Max Janowski Society Performance Editions Series</p>
+    <p id="title">Loading...</p>
+    <p id="author"></p>
+    <p id="edited"></p>
+    <p id="blurb"></p>
+    <img src="/images/pagebreak-300x87.png" alt="pagebreak" />
+    <div class="cover-footer">
+      <p class="catalog-number">TMJS Catalog Number: <span id='id'></span>-<span id='release'></span></p>
+      <p>© <span id="year"></span> The Max Janowski Society, NFP.</p>
+      <p>www.maxjanowski.org</p>
+    </div>
   </div>
   <div class="sheet-preview">
-    <img id="sheetPreviewUrl" src="#" />
+    <img id="preview-image" src="#" />
   </div>
-</div>
-
----
+</div>---
 
 The performance package contains the sheet music and all the associated files
 for performance preparation.
@@ -34,35 +30,5 @@ for performance preparation.
 <a id="zipFileUrl" href="#" target="_blank">Download Performance Package</a>
 
 <script>
-  window.onload = (e) => {
-    id = new URL(location.href).searchParams.get('id')
-    fetch('/assets/editions.json')
-      .then ( res => res.json())
-      .then ( res => {
-        res.forEach( item => {
-          if (parseInt(item['id']) === parseInt(id)) {
-            Object.keys(item).forEach(k => {
-              const v = item[k];
-              if ( k == 'title' ) {
-                document.title = v + ' | The Max Janowski Society';
-              }
-              if ( k == 'sheetPreviewId' ) {
-                document.getElementById('sheetPreviewUrl').src = `//drive.google.com/uc?export=view&id=${v}`;
-
-              }
-              if ( k == 'zipFileId' ) {
-                document.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
-
-              }
-              n = document.getElementById(k);
-              if (n) {
-                n.innerHTML = v;
-              }
-            })
-          }
-        })
-
-      })
-    return true;
-  }
+  window.onload = e => loadEditionPage(e);
 </script>

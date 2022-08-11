@@ -1,4 +1,3 @@
-@import url(//db.onlinewebfonts.com/c/596ad608a41bd28960c777827cdd6af1?family=Apple+Chancery);
 
 .edition-landing {
   display: flex;
@@ -7,17 +6,43 @@
   flex-wrap: wrap;
   font-family: 'Times Roman', serif;
   margin-bottom: .25in;
-
+  transition: opacity 2s;
+  opacity: 0;
 
   .cover-page {
     width: 350px;
     height: 453px;
+    display: flex;
+    flex-flow: column nowrap;
     border: thin solid black;
     box-shadow: 2px 2px 2px;
     padding: 20px;
     box-sizing: border-box;
-    position: relative;
     margin-bottom: 10px;
+    justify-content: space-between;
+    p {
+      text-align: center;
+      font-size: 12px;
+    }
+    #blurb {
+      font-style: italic;
+      font-size: 70%;
+      margin: .25in 0;
+    }
+    #title {
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .cover-footer {
+      margin-top: .25in;
+      p {
+        text-align: left;
+        font-size: 8px;
+        margin: 0;
+        padding: 0;
+      }
+    }
   }
   .sheet-preview {
     img {
@@ -25,32 +50,9 @@
       height: 453px;
       border: thin solid black;
       box-shadow: 2px 2px 2px;
+      opacity: 0;
+      transition: opacity 2s;
     }
     margin-bottom: 10px;
-  }
-  p {
-    font-size: 12px;
-  }
-  #head {
-    margin-bottom: .5in;
-  }
-  #blurb {
-    font-style: italic;
-    margin: .4in auto;
-    font-size: 70%;
-  }
-  #title {
-    font-size: 1.5rem;
-    font-weight: 700;
-  }
-  .catalog-number {
-    font-size: 10px;
-    bottom: 10px;
-    position: absolute;
-  }
-  .copyright {
-    position: absolute;
-    bottom: 10px;
-    font-size: 10px;
   }
 }
