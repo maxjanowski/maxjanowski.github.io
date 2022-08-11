@@ -4,10 +4,14 @@ permalink: /donate
 layout: default
 ---
 
-Thank you for joining us in supporting the Max Janowski Society.
-We truly appreciate your generosity. Contributions will be used
-to develop and promote the music of Max Janowski, and to help
-underwrite new editions, performances, and recordings.
+Thank you for joining us in supporting the Max Janowski Society. We truly
+appreciate your generosity. Contributions will be used to develop and promote
+the music of Max Janowski, and to help underwrite new editions, performances,
+and recordings.
+
+Your tax-deductible contribution is an important act in the ongoing work to
+preserve and raise awareness of these jewels of Jewish-American musical history
+and tradition.
 
 <div style="margin-bottom: .25in; text-align: center;">
   <p>Click the button to donate by credit card or PayPal:</p>
