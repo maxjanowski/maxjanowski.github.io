@@ -79,6 +79,7 @@ function loadEditionPage(e) {
         const v = item[k];
         if ( k == 'title' ) {
           doc.title = v + ' | The Max Janowski Society';
+          doc.getElementById('h1').innerHTML = v;
         }
         if ( k == 'sheetPreviewId' ) {
           loadImage = new Promise( resolve => {
@@ -88,7 +89,6 @@ function loadEditionPage(e) {
         }
         if ( k == 'zipFileId' ) {
           doc.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
-
         }
         n = doc.getElementById(k);
         if (n) {
@@ -98,9 +98,7 @@ function loadEditionPage(e) {
       return loadImage;
     })
     .then( res => {
-      doc.getElementById('spinner').style.display = "none";
-      doc.getElementById('cover-page').style.opacity = "1";
-      doc.getElementById('sheet-preview').style.opacity = "1";
+      doc.getElementById('edition-wrapper').classList.add('ready');
     });
   return true;
 }

@@ -1,66 +1,100 @@
 
-.edition-landing {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  font-family: 'Times Roman', serif;
-  margin-bottom: .25in;
+.edition-wrapper {
   position: relative;
-
-  .cover-page {
-    opacity: 0;
-    transition: opacity 2s;
-    width: 350px;
-    height: 453px;
-    display: flex;
-    flex-flow: column nowrap;
-    border: thin solid black;
-    box-shadow: 2px 2px 2px;
-    padding: 20px;
-    box-sizing: border-box;
-    margin-bottom: 10px;
-    justify-content: space-between;
-    p {
-      text-align: center;
-      font-size: 12px;
-    }
-    #blurb {
-      font-style: italic;
-      font-size: 70%;
-      margin: .25in 0;
-    }
-    #title {
-      font-size: 1.5rem;
-      font-weight: 700;
-    }
-
-    .cover-footer {
-      margin-top: .25in;
-      p {
-        text-align: left;
-        font-size: 8px;
-        margin: 0;
-        padding: 0;
-      }
-    }
-  }
-  .sheet-preview {
-    opacity: 0;
-    transition: opacity 2s;
-    img {
-      width: 350px;
-      height: 453px;
-      border: thin solid black;
-      box-shadow: 2px 2px 2px;
-    }
-    margin-bottom: 10px;
-  }
   .spinner {
     position: absolute;
     width: 200px;
     height: 200px;
     left: calc(50% - 100px);
   }
+  &.ready .spinner {
+    display: none;
+  }
+  .view-window {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 2s;
+    text-align: center;
+  }
+  &.ready .view-window {
+    visibility: visible;
+    opacity: 1;
+  }
 
+
+  .page-pair {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: 'Times New Roman', serif;
+    margin-bottom: .25in;
+    position: relative;
+
+    .cover-page {
+      width: 350px;
+      height: 453px;
+      display: flex;
+      flex-flow: column nowrap;
+      border: thin solid black;
+      box-shadow: 2px 2px 2px;
+      padding: 20px;
+      box-sizing: border-box;
+      margin-bottom: 10px;
+      justify-content: space-between;
+      p {
+        text-align: center;
+        font-size: 12px;
+      }
+      #blurb {
+        font-style: italic;
+        font-size: 70%;
+        margin: .25in 0;
+      }
+      #title {
+        font-size: 1.5rem;
+        font-weight: 700;
+      }
+
+      .cover-footer {
+        margin-top: .25in;
+        p {
+          text-align: left;
+          font-size: 8px;
+          margin: 0;
+          padding: 0;
+        }
+      }
+    }
+    .sheet-preview {
+      img {
+        width: 350px;
+        height: 453px;
+        border: thin solid black;
+        box-shadow: 2px 2px 2px;
+      }
+      margin-bottom: 10px;
+    }
+  }
+
+  .button {
+    display: inline-block;
+    padding: 10px;
+    background: #ddd;
+    border-radius: 4px;
+    margin-top: 1em;
+    border: 2px outset #888;
+    text-align: center;
+    box-shadow: 2px 2px 2px #888;
+    margin: 0 auto;
+    &:hover {
+      text-decoration: none;
+      background: #dcc;
+    }
+  }
+}
+
+img.download-button {
+  height: 20px;
+  width: 20px;
 }
