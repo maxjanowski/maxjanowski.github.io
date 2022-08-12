@@ -4,10 +4,10 @@ permalink: /edition
 layout: default
 ---
 
-
 <div id="edition-landing" class="edition-landing">
-  <div class="cover-page">
-    <p id="head">The Max Janowski Society Performance Editions Series</p>
+  <img id="spinner" class="spinner" src="/images/spinner.gif"/>
+  <div id="cover-page" class="cover-page">
+    <p id="head">The Max Janowski Society · Performance Editions Series</p>
     <p id="title">Loading...</p>
     <p id="author"></p>
     <p id="edited"></p>
@@ -19,10 +19,12 @@ layout: default
       <p>www.maxjanowski.org</p>
     </div>
   </div>
-  <div class="sheet-preview">
+  <div id="sheet-preview" class="sheet-preview">
     <img id="preview-image" src="#" />
   </div>
-</div>---
+</div>
+
+---
 
 The performance package contains the sheet music and all the associated files
 for performance preparation.
