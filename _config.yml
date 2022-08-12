@@ -9,6 +9,7 @@ header_pages:
   - _pages/2_music.md
   - _pages/3_donate.md
   - _pages/4_subscribe.md
+  - _pages/5_contact.md
 
 plugins:
   - jekyll-sitemap

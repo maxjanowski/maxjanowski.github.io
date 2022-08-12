@@ -13,7 +13,9 @@ Your tax-deductible contribution is an important act in the ongoing work to
 preserve and raise awareness of these jewels of Jewish-American musical history
 and tradition.
 
-<div style="margin-bottom: .25in; text-align: center;">
+## Donate Online
+
+<div style="margin-bottom: .25in;">
   <p>Click the button to donate by credit card or PayPal:</p>
   <div id="donate-button-container">
     <div id="donate-button"></div>
@@ -38,5 +40,17 @@ and tradition.
     </noscript>
   </div>
 </div>
+
+## Donation by Check
+
+Checks can be mailed to us at:
+
+```
+The Max Janowski Society
+628 36th St
+Downers Grove, IL 60515
+```
+
+## Thank You
 
 [A special thanks to our generous supporters!](/thanks "Donor Acknowledgements")
