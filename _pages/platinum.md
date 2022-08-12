@@ -17,7 +17,7 @@ of Max Janowski's music, including both sheet music and audio tracks to assist
 in choral performance preparation.
 
 We are pleased to share with our Platinum Supporters:
-* Early access to all the solo and choral editions in our [catalog](/catalog) for you to perform.
+* Early access to all the solo and choral editions in our [catalog](/download) for you to perform.
 * Our Platinum Newsletter, alerting you to new editions as they are made available, and events at which TMJS is presenting our music.
 * We also gratefully acknowledge supporters on our [web site](/thanks).
 

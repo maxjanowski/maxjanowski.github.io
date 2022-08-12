@@ -22,4 +22,4 @@ Our latest recording, ***Max Janowski: The Great Works, Volume 1*** will be avai
 ## Catalog of New Editions
 
 We are constantly adding new editions of Janowski compositions to our catalog.
-The current list can be found [here](/catalog).
+The current list can be found [here](/download).

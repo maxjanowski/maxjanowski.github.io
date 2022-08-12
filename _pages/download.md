@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Music Catalog
-permalink: /catalog
+title: Download Editions
+permalink: /download
 ---
 
-For each of the Max Janowski compositions in our library, we have created
+# How To Download Our New Editions
+
+For each of the Max Janowski compositions in our catalog, we have created
 performance packages that contain tools for your performers:
 
 * Sheet music in one or more keys.
@@ -14,7 +16,7 @@ Once you have downloaded a performance packet, we encourage you to share it
 with your performers (you don't need to buy a copy for each person).
 
 If you'd like early access to the entire catalog containing ***all*** these
-editions, become a [platinum supporter](/platinum)!
+editions, please become a [platinum supporter](/platinum)!
 
 # Instructions
 
