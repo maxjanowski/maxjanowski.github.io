@@ -8,7 +8,8 @@ function setupMessageCounter(textareaId = "message", counterId = "counter") {
 
 function setupPreamble() {
   const msgs = {
-    "t1": "I have a question that is so long it takes multiple lines!",
+    "t1": "I have a question!",
+    "cd1": "Physical CDs aren't available quite yet, but send us a message below with your postal address, and we'll get in touch with you when they are."
   }
   const msgId = new URL(document.URL).searchParams.get('msg');
   const preamble = document.getElementById('preamble');

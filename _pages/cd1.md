@@ -34,7 +34,7 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
   <a href="/subscribe" target="_blank" >
     <span>Subscribe<br />to get<br />Updates</span>
   </a>
-  <a href="" title="Not yet available" >
+  <a href="/contact?msg=cd1" title="Not yet available" >
     <span>Buy Our CD<br/>[available soon]</span>
   </a>
 </div>
