@@ -2,7 +2,7 @@ theme: minima
 title: The Max Janowski Society
 description: Discovering and sharing the music of Jewish composer Max Janowski (1912-1991).
 google_analytics: G-NWSXLYR4LN
-include: [ '_pages','downloads' ]
+include: [ '_pages','downloads','_staging' ]
 
 header_pages:
   - _pages/1_about.md
