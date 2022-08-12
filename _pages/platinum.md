@@ -18,7 +18,7 @@ in choral performance preparation.
 
 We are pleased to share with our Platinum Supporters:
 * Early access to all the solo and choral editions in our [catalog](/catalog) for you to perform.
-* Our Platinum Newsletter, alerting you to new editions as they are made available, and events at which TMJS is presenting our work.
+* Our Platinum Newsletter, alerting you to new editions as they are made available, and events at which TMJS is presenting our music.
 * We also gratefully acknowledge supporters on our [web site](/thanks).
 
 <div style="margin-bottom: .25in; text-align: center;">

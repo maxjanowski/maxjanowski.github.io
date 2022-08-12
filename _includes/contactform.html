@@ -1,6 +1,6 @@
 <div id="contactform">
   <img title="Send us an email!" alt="contact banner" src="/images/DearMax-Banner-600x300.png" />
-
+  <div id="preamble"></div>
   <form class="contact" action="https://getform.io/f/{{ page.getform }}" method="POST">
     <input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
     <label for="firstname">First Name</label>
@@ -28,6 +28,7 @@
 <script>
 window.onload = () => {
   setupMessageCounter();
+  setupPreamble();
 }
 </script>
 

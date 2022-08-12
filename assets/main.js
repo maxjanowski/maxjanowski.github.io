@@ -6,6 +6,18 @@ function setupMessageCounter(textareaId = "message", counterId = "counter") {
   };
 }
 
+function setupPreamble() {
+  const msgs = {
+    "t1": "I have a question that is so long it takes multiple lines!",
+  }
+  const msgId = new URL(document.URL).searchParams.get('msg');
+  const preamble = document.getElementById('preamble');
+  const msgText = msgs[msgId];
+  if (msgText) {
+    preamble.innerHTML = msgText;
+  }
+}
+
 // Control code for /order form
 function setupPledgeControl() {
   const pledgeamt = document.getElementById("pledgeamt");

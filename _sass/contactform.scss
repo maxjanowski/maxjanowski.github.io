@@ -45,6 +45,12 @@ $textcolor: rgb(36, 28, 21);
     }
   }
 
+  #preamble {
+    color: red;
+    font-style: italic;
+    display: inline-block;
+  }
+
   div#message {
     position: relative;
     margin-top: 24px;
@@ -125,7 +131,7 @@ $textcolor: rgb(36, 28, 21);
     width: 50%;
   }
   input#state {
-    max-width: 4em;
+    max-width: 5em;
   }
   input#zipcode {
     max-width: 6em;
