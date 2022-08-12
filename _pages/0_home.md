@@ -8,6 +8,8 @@ layout: default
 ![Max Janowski](/images/mj.png)
 </div>
 
+# Welcome
+
 The mission of the Max Janowski Society is to increase audiences
 and enthusiasm for the music of Max Janowski (1912-1991); to
 collect, catalog, distribute, adapt, and publish new editions

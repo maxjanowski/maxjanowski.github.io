@@ -4,6 +4,8 @@ permalink: /donate
 layout: default
 ---
 
+# Donate
+
 Thank you for joining us in supporting the Max Janowski Society. We truly
 appreciate your generosity. Contributions will be used to develop and promote
 the music of Max Janowski, and to help underwrite new editions, performances,

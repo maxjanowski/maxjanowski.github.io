@@ -2,9 +2,10 @@
 title: About
 permalink: /about
 layout: default
+contact_email: "&#105;&#110;&#102;&#111;&#064;maxjanowski.org"
 ---
 
-# Our Mission
+# About Us
 
 The Max Janowski Society is a non-profit organization founded in 2020.
 
@@ -16,7 +17,7 @@ the general public about Janowski’s musical legacy; and to
 be the primary resource for information and discussion about
 Janowski’s scores, recordings and publications.
 
-# Board of Directors
+## Board of Directors
 
 - Jonathan Miller, *president*
 - Brad Rubenstein, *treasurer*
@@ -24,14 +25,19 @@ Janowski’s scores, recordings and publications.
 - Jordan Goodman
 - Cantor Cory Winter
 
-# Contact Us
+## Contact Us
 
 The Max Janowski Society, NFP is a 501(c)3 non-profit
 organization, EIN: 86-1484593.
-
-The Max Janowski Society<br/>
-628 36th St<br/>
+```
+The Max Janowski Society
+628 36th St
 Downers Grove, IL 60515
+```
 
-Send us a message: [Contact Us](/Contact "Send message to maxjanowski.org") <br/>
-or via Email: [info@maxjanowski.org](mailto:info@maxjanowski.org)
+<div>
+  <a href="/contact" title="Send message to maxjanowski.org">
+    Send us a message online</a>, or send email to
+  <a href="mailto:&#105;&#110;&#102;&#111;&#064;maxjanowski.org">
+    &#105;&#110;&#102;&#111;&#064;maxjanowski.org</a>.
+</div>

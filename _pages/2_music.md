@@ -4,9 +4,12 @@ permalink: /music
 layout: default
 ---
 
+# Music
+
 The Max Janowski Society is producing new editions of Janowski's music,
 which we will be making available in the summer of 2022. They are designed
-especially for cantors, cantorial soloists, and Jewish synagogue choirs.
+especially for cantors, cantorial soloists, Jewish synagogue choirs, and anyone
+who loves Jewish music.
 
 If you want to hear when they become available, sign up for our [mailing list](/subscribe). If you would like to help us create and distribute these new editions, please consider making a [donation](/donate).
 
