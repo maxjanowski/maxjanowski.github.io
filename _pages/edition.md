@@ -27,8 +27,10 @@ files for preparing the music for performance. You'll need a Google Account.
         <p id="title"></p>
         <p id="author"></p>
         <p id="edited"></p>
+        <p id="forces"></p>
         <p id="blurb"></p>
-        <img src="/images/pagebreak-300x87.png" alt="pagebreak" />
+        <img class="page-break" src="/images/pagebreak-300x87.png" alt="pagebreak" />
+        <div class="qr-code"></div>
         <div class="cover-footer">
           <p class="catalog-number">TMJS Catalog Number: <span id='id'></span>-<span id='release'></span></p>
           <p>© <span id="year"></span> The Max Janowski Society, NFP.</p>
