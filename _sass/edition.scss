@@ -39,18 +39,18 @@
       border: thin solid black;
       box-shadow: 2px 2px 2px;
       padding: 20px;
-      box-sizing: border-box;
-      justify-content: flex-start;
+      justify-content: space-between;
       align-items: center;
       position: relative;
+      padding-bottom: 1in;
       p {
         text-align: center;
         font-size: 12px;
-        white-space: no-wrap;
+        white-space: nowrap;
         text-size-adjust: none;
         overflow: hidden;
         text-overflow: ellipsis;
-
+        margin-bottom: 6px;
       }
       #head {
         font-size: 10px;
@@ -58,7 +58,6 @@
       #blurb,#forces {
         font-style: italic;
         font-size: 10px;
-        margin:  0;
       }
       #title {
         font-size: 14px;
@@ -66,10 +65,10 @@
         white-space: nowrap;
       }
       img.page-break {
-        padding-top: .5in;
         width: 150px;
         height: 45px;
         display: block;
+        padding-top: 1in;
       }
       div.qr-code {
         width: 40px;

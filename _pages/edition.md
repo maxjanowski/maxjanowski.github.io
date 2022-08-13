@@ -24,10 +24,14 @@ files for preparing the music for performance. You'll need a Google Account.
     <div id="page-pair" class="page-pair">
       <div id="cover-page" class="cover-page">
         <p id="head">The Max Janowski Society · Performance Editions Series</p>
+        <div>
         <p id="title"></p>
+        <p id="forces"></p>
+        </div>
+        <div>
         <p id="author"></p>
         <p id="edited"></p>
-        <p id="forces"></p>
+        </div>
         <p id="blurb"></p>
         <img class="page-break" src="/images/pagebreak-300x87.png" alt="pagebreak" />
         <div class="qr-code"></div>
