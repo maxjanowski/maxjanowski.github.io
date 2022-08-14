@@ -85,6 +85,7 @@ function loadEditionPage(e) {
         }
         if ( k == 'zipFileId' ) {
           doc.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
+          doc.getElementById('zipFileUrl').innerHTML = 'Download Performance Package';
         }
         n = doc.getElementById(k);
         if (n) {

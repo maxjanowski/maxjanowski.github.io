@@ -46,7 +46,9 @@ files for preparing the music for performance. You'll need a Google Account.
       </div>
     </div>
     <center>
-      <a id="zipFileUrl" class="button" href="#" target="_blank">Download Performance Package</a>
+      <a id="zipFileUrl" class="button" href="/subscribe" target="_blank">
+        Edition Not Yet Ready — Subscribe for Updates
+      </a>
     </center>
   </div>
 </div>
