@@ -15,7 +15,9 @@ If you want to hear when they become available, sign up for our [mailing list](/
 
 ## Our Latest Recording
 
-Our latest recording, ***Max Janowski: The Great Works, Volume 1*** will be available this Summer on CD and streaming platforms.
+Our latest recording, ***Max Janowski: The Great Works, Volume 1*** is
+now available on digital platforms (Apple, Amazon, Spotify, Pandora).
+[Give it a listen](/cd1)!
 
 [Stay tuned!](/subscribe)
 
