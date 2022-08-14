@@ -37,26 +37,21 @@ function setupPledgeControl() {
   });
 }
 
-function loadZipLinks(e) {
-  let list = fetch('/assets/downloads.json')
+function loadEditionLinks(e) {
+  let list = fetch('/assets/editions.json')
     .then( res => res.json())
     .then ( res => {
-      const list = res.filter( e => e['MimeType'] === 'application/zip' )
-      .map( e => {
-        const [x,sku,title] = /([0-9]+)\s*(.*)\.zip/.exec(e['Name']);
-        const url = `https://drive.google.com/file/d/${e['ID']}/view`
-        return { sku, url, title }
-      })
-      .sort((a,b)=> {
-        return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
-      })
-      .map( e => {
-        return `<div>${e.sku}</div><div>
-            <a href="${e.url}" title="Access and download this piece." target="_blank">
-              ${e.title}
-            </a>
-          </div>`;
-      });
+      const list = res.filter( e => 'id' in e && 'title' in e )
+        .sort((a,b) => {
+          return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
+        })
+        .map( e => {
+          return `<div>${e.id}</div><div>
+              <a href="/edition?id=${e.id}" title="Access and download this piece.">
+                ${e.title}
+              </a>
+            </div>`;
+        });
       e.innerHTML = '<div>Number</div><div>Title</div>'+list.join('');
       console.log(list)
     });
@@ -84,6 +79,7 @@ function loadEditionPage(e) {
         if ( k == 'sheetPreviewId' ) {
           loadImage = new Promise( resolve => {
             doc.getElementById('preview-image').onload = resolve;
+            doc.getElementById('preview-image').onerror = resolve;
           })
           doc.getElementById('preview-image').src = `//drive.google.com/uc?export=view&id=${v}`;
         }

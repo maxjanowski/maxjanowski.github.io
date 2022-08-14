@@ -22,15 +22,12 @@ editions, please become a [platinum supporter](/platinum)!
 
 We distribute these packages from Google Drive. You'll need a Google account to download them. If you have any problems, [contact us](/contact).
 
-* Click on a link below for the music you want.
-* Log in to your Google account.
-* If you don't already have, click the "Request Access" button and wait for confirmation e-mail.
-* Once you have access, just download the set of files (Google's download button is at the upper right).
+Pick the piece you are interested in.
 
 <div id="editions-list" class="editions-list">
 <span class="loading">Loading...</span>
 </div>
 
 <script>
-window.onload = e => loadZipLinks(document.getElementById('editions-list'))
+window.onload = e => loadEditionLinks(document.getElementById('editions-list'))
 </script>
