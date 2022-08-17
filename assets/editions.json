@@ -6,10 +6,13 @@
     "forces": "for Solo, SATB Chorus, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
-    "year": 2022,
-    "sheetPreviewId": "1tWytrd_aiXzwYzq6UqyOnIQGAhgVxKEp",
-    "zipFileId": "1-Yd-06to7PaiJQl4vjufbkWQJaD8vRO0",
-    "blurb": "A beloved setting of Sim Shalom for use during the High Holidays."
+    "blurb": "A beloved setting of Sim Shalom for use during the High Holidays.",
+    "keywords": "High Holidays, Rosh Hashanah, Yom Kippur",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "Arrangements in multiple keys: d-minor, c-minor.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
   },
   {
     "id": "03510",
@@ -18,9 +21,224 @@
     "forces": "for Solo, SAATBB Choir, and Piano",
     "author": "traditional, arr. Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
-    "year": 2022,
-    "blurb": ""
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "Arrangements in multiple keys: g-minor, e-minor",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Additional synthesized audio files highlighting each choral part."
+    ]
   },
   {
+    "id": "00070",
+    "release": "20220804",
+    "title": "Vayachalom",
+    "forces": "for Soli, SSAATTBB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+  },
+  {
+    "id": "05020",
+    "release": "20220726",
+    "title": "Ushʼavtem Mayim",
+    "forces": "for Soli, SSAATTBB Choir, and Piano",
+    "author": "traditional, arr. Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman<br/>accompaniment transcribed by Daniel Zarb-Cousin",
+    "blurb": "You shall draw water joyfully from the springs of salvation...",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Additional synthesized audio files highlighting each choral part."
+
+    ]
+
+  },
+  {
+    "id": "05010",
+    "release": "20220801",
+    "title": "Shir Hachalutsim",
+    "forces": "for Solo, Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Arrangements in multiple keys: d-minor, e-minor."
+    ]
+  },
+  {
+    "id": "03530",
+    "release": "20220728",
+    "title": "Ashira Ladonai",
+    "forces": "for Solo, SAATB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "dedication": "Dedicated to Rabbi Louis J. Swichkow.",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Additional synthesized audio files highlighting each choral part."
+
+    ]
+  },
+  {
+    "id": "03480",
+    "release": "20220801",
+    "title": "Shabbat Hamalka",
+    "forces": "for Solo, Choir & Congregation, and Piano",
+    "author": "music by Max Janowski, lyrics by Chayim Nachman Bialik",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "dedication": "Dedicated to my friend, Louise Groffman.",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "03430",
+    "release": "20220801",
+    "title": "Avinu Malkeynu",
+    "forces": "for Solo, SSAATTBB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "dedication": "dedicated to Rabbi Jacob J. Weinstein",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Arrangements in multiple keys: d-minor, c-minor, f-minor.",
+      "Multiple settings to accommodate variation in liturgy: machzors Leiv Shaleim, Mishkan Hanefesh, and Machzor Chadash.",
+      "Both solo and choral arrangements."
+    ]
+
+  },
+  {
+    "id": "03400",
+    "release": "20220801",
+    "title": "Hashkiveynu",
+    "forces": "for Solo, SATB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "dedication": "dedicated to Cantor Anshel Freedman of blessed memory",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Additional audio files demonstrating the ossias in the score.",
+      "Multiple settings to accommodate variation in liturgy: a traditional setting, and a setting for Mishkan Tʼfilah."
+    ]
+
+  },
+  {
+    "id": "03380",
+    "release": "20220727",
+    "title": "Unʼtaneh Tokef, Uvʼshofar Gadol",
+    "forces": "for Solo, SAATTBB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "keywords": "High Holidays, Yom Kippur, Rosh Hashanah",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation.",
+      "Additional synthesized audio files highlighting each choral part.",
+      "Arrangements in multiple keys: b-flat minor, a-minor."
+    ]
+
+  },
+  {
+    "id": "03320",
+    "release": "20220804",
+    "title": "Al Hanisim",
+    "forces": "for Solo, Unison Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "keywords": "Chanukah",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "03310",
+    "release": "20220803",
+    "title": "Baʼah Mʼnuchah",
+    "forces": "for Solo, SATB Choir, and Piano",
+    "author": "music by Max Janowski, lyrics by Nathan Alterman",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "03300",
+    "release": "20220726",
+    "title": "Vayʼchulu",
+    "forces": "for Solo, SATB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "03280",
+    "release": "20220804",
+    "title": "Nachamu, Nachamu Ami",
+    "forces": "for Alto and Tenor Solo, SATB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "blurb": "Take comfort, my people.",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "03270",
+    "release": "20220801",
+    "title": "Shiru Ladonai",
+    "forces": "for Solo or Soprano and Tenor Duet, SATB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "03010",
+    "release": "20220804",
+    "title": "Bimey Matityahu",
+    "forces": "for Solo, SSAATTBB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
+  },
+  {
+    "id": "00080",
+    "release": "20220804",
+    "title": "Halʼluyah",
+    "forces": "for Solo, SSAATTBB Choir, and Piano",
+    "author": "by Max Janowski",
+    "edited": "edited by Cantor Cory Winter and Jordan Goodman",
+    "dedication": "dedicated to Karen and Mortin Levy in friendship",
+    "features": [
+      "Sheet music (PDF format) for you to share with your performers.",
+      "A synthesized audio file of the piece, to aid rehearsal preparation."
+    ]
+
   }
 ]

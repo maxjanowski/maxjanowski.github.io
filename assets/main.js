@@ -70,22 +70,26 @@ function loadEditionPage(e) {
         return false;
       }
       let loadImage = false;
+      loadImage = new Promise( (resolve, reject) => {
+        doc.getElementById('preview-image').onload = resolve;
+        doc.getElementById('preview-image').onerror = reject;
+      })
+      doc.getElementById('preview-image').src = `/images/preview/${id}-620x800.png`;
+      doc.getElementById('preview-pdf').href = `/download/preview/${id}.pdf`;
       Object.keys(item).forEach(k => {
         const v = item[k];
         if ( k == 'title' ) {
           doc.title = v + ' | The Max Janowski Society';
           doc.getElementById('h1').innerHTML = v;
         }
-        if ( k == 'sheetPreviewId' ) {
-          loadImage = new Promise( resolve => {
-            doc.getElementById('preview-image').onload = resolve;
-            doc.getElementById('preview-image').onerror = resolve;
-          })
-          doc.getElementById('preview-image').src = `//drive.google.com/uc?export=view&id=${v}`;
-        }
         if ( k == 'zipFileId' ) {
           doc.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
           doc.getElementById('zipFileUrl').innerHTML = 'Download Performance Package';
+        }
+        if ( k == 'features' ) {
+          const featureList = v.map( e => `<li>${e}</li>`);
+          doc.getElementById('feature-list').innerHTML =
+            `This downloadable edition includes:<ul>${featureList.join('')}</ul>`;
         }
         n = doc.getElementById(k);
         if (n) {

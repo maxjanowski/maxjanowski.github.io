@@ -42,12 +42,15 @@ files for preparing the music for performance. You'll need a Google Account.
         </div>
       </div>
       <div id="sheet-preview" class="sheet-preview">
+        <a id="preview-pdf" title="Click to preview a page of the sheet music." href="#" target="_blank">
         <img id="preview-image" src="#" />
+        </a>
       </div>
     </div>
+    <div id="feature-list" class="feature-list"></div>
     <center>
       <a id="zipFileUrl" class="button" href="/subscribe" target="_blank">
-        Edition Not Yet Ready — Subscribe for Updates
+        Coming soon — Subscribe to get announcements.
       </a>
     </center>
   </div>

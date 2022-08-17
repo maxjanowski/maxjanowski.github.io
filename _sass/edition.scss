@@ -26,6 +26,7 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
     margin-bottom: .25in;
     position: relative;
@@ -44,6 +45,7 @@
       align-items: center;
       position: relative;
       padding-bottom: 1in;
+      margin-bottom: 10px;
       p {
         text-align: center;
         font-size: 12px;
@@ -98,10 +100,14 @@
         width: 350px;
         height: 453px;
         border: thin solid black;
-        box-shadow: 2px 2px 2px;
+        box-shadow: 2px 2px 2px black;
       }
       margin-bottom: 10px;
     }
+  }
+
+  .feature-list {
+    text-align: left;
   }
 
   .button {
@@ -124,13 +130,4 @@
 img.download-button {
   height: 20px;
   width: 20px;
-}
-
-.shrink-to-fitx {
-
-  width: 100%;
-  word-wrap: break-word;
-  display: block;
-  line-height: 1em; /* a */
-  max-height: 2em; /* a x number of line to show (ex : 2 line)  */
 }
