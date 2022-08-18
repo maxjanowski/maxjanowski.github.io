@@ -41,8 +41,7 @@ We are just getting started.
 
 ## [Music Editions for Chorus](/download)
 
-  Sheet music and chorus preparation tracks are available for our initial release
-  of [new editions](/download).
+  Sheet music and chorus preparation tracks will soon be available for our initial release of [new editions](/download).
 
 ## [Become a Platinum Supporter Today](/platinum)
 
