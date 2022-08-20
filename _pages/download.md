@@ -37,6 +37,17 @@ Pick the piece you are interested in.
 <span class="loading">Loading...</span>
 </div>
 
+## Coming soon
+
+<div id="coming-soon-list" class="editions-list">
+<span class="loading">Loading...</span>
+</div>
+
+
 <script>
-window.onload = e => loadEditionLinks(document.getElementById('editions-list'))
+window.onload = e => {
+  loadEditionLinks(1, document.getElementById('editions-list'));
+  loadEditionLinks(0, document.getElementById('coming-soon-list'));
+}
+
 </script>

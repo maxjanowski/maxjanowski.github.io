@@ -37,11 +37,11 @@ function setupPledgeControl() {
   });
 }
 
-function loadEditionLinks(e) {
+function loadEditionLinks(available, e) {
   let list = fetch('/assets/editions.json')
     .then( res => res.json())
     .then ( res => {
-      const list = res.filter( e => 'id' in e && 'title' in e )
+      const list = res.filter( e => e.id && e.title && !!available === !!e.folderId)
         .sort((a,b) => {
           return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
         })
