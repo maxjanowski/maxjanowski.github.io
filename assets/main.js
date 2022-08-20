@@ -82,9 +82,9 @@ function loadEditionPage(e) {
           doc.title = v + ' | The Max Janowski Society';
           doc.getElementById('h1').innerHTML = v;
         }
-        if ( k == 'zipFileId' ) {
-          doc.getElementById('zipFileUrl').href = `https://drive.google.com/file/d/${v}/view`;
-          doc.getElementById('zipFileUrl').innerHTML = 'Download Performance Package';
+        if ( k == 'folderId' ) {
+          doc.getElementById('folderUrl').href = `https://drive.google.com/drive/folders/${v}?usp=sharing`;
+          doc.getElementById('folderUrl').innerHTML = 'Download Performance Package';
         }
         if ( k == 'features' ) {
           const featureList = v.map( e => `<li>${e}</li>`);

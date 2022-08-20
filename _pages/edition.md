@@ -49,7 +49,7 @@ files for preparing the music for performance. You'll need a Google Account.
     </div>
     <div id="feature-list" class="feature-list"></div>
     <center>
-      <a id="zipFileUrl" class="button" href="/subscribe" target="_blank">
+      <a id="folderUrl" class="button" href="/subscribe" target="_blank">
         Coming soon — Subscribe to get announcements.
       </a>
     </center>
