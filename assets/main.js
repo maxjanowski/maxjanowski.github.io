@@ -72,7 +72,7 @@ function loadEditionPage(e) {
       let loadImage = false;
       loadImage = new Promise( (resolve, reject) => {
         doc.getElementById('preview-image').onload = resolve;
-        doc.getElementById('preview-image').onerror = reject;
+        doc.getElementById('preview-image').onerror = resolve;
       })
       doc.getElementById('preview-image').src = `/images/preview/${id}-620x800.png`;
       doc.getElementById('preview-pdf').href = `/download/preview/${id}.pdf`;
