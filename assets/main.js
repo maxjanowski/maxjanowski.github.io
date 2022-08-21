@@ -84,7 +84,7 @@ function loadEditionPage(e) {
         }
         if ( k == 'folderId' ) {
           doc.getElementById('folderUrl').href = `https://drive.google.com/drive/folders/${v}?usp=sharing`;
-          doc.getElementById('folderUrl').innerHTML = 'Download Performance Package';
+          doc.getElementById('folderUrl').innerHTML = 'Download Performance Files';
         }
         if ( k == 'features' ) {
           const featureList = v.map( e => `<li>${e}</li>`);

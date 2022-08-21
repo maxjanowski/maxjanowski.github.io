@@ -11,7 +11,7 @@ to share them with your chorus, congregation, audience.
 
 For a musical preview, listen to them on [our latest recording](/cd1).
 
-Each composition is offered as a set of files (ZIP) including printable sheet music (PDF) and one or more audio tracks for rehearsal preparation (MP3).
+Each composition is offered as a set of files including printable sheet music (PDF) and one or more audio tracks for rehearsal preparation (MP3).
 
 We request a donation in order to help us create and distribute these editions and recordings, and to help us continue to do so in the future. If you would like to access our entire repository of editions, consider becoming a [Platinum Supporter](/platinum).
 
