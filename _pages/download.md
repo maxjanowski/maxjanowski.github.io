@@ -43,6 +43,8 @@ Pick the piece you are interested in.
 <span class="loading">Loading...</span>
 </div>
 
+Are there pieces you are interested that you don't see here?
+[Let us know!](/contact)
 
 <script>
 window.onload = e => {
