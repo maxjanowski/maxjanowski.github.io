@@ -16,8 +16,9 @@ We'd like to acknowledge the generous support of our current donors, and appreci
 - Brad Rubenstein
 - Liz Skavish and Michael Rubenstein
 - Rochelle Rubenstein
+- Cantor Steve Stoehr, Congregation Beth Shalom
 - Bernadette Winter
-- Cory Winter
+- Cantor Cory Winter
 - Zamir Choral Foundation
 
 Become a [Platinum Supporter](/platinum "Become a platinum supporter today by making a tax deductible donation of $250 or more.") today!
