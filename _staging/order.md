@@ -24,3 +24,7 @@ All fields are required.
 <div>
   {%- include orderform.html -%}
 </div>
+
+<script>
+navigator.location.href = '/download'
+</script>
