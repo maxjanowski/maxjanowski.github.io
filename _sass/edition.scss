@@ -3,21 +3,24 @@
   width: 100%;
   grid-template-columns: 80px auto;
   grid-column-gap: 0;
-  margin-bottom: .5in;
+  margin-bottom: 0.5in;
 
   div {
     padding: 10px;
 
-    &:nth-child(4n+1), &:nth-child(4n+2) {
+    &:nth-child(4n+1),
+    &:nth-child(4n+2) {
       background: #ddd;
     }
-    &:nth-child(1), &:nth-child(2) {
+
+    &:nth-child(1),
+    &:nth-child(2) {
       font-weight: bold;
       background: #444 !important;
       color: white;
-
     }
   }
+
   .loading {
     font-style: italic;
     color: #888;
@@ -26,26 +29,29 @@
 
 .edition-wrapper {
   position: relative;
+
   .spinner {
     position: absolute;
     width: 200px;
     height: 200px;
     left: calc(50% - 100px);
   }
+
   &.ready .spinner {
     display: none;
   }
+
   .view-window {
     visibility: hidden;
     opacity: 0;
     transition: opacity 2s;
     text-align: center;
   }
+
   &.ready .view-window {
     visibility: visible;
     opacity: 1;
   }
-
 
   .page-pair {
     display: flex;
@@ -53,7 +59,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    margin-bottom: .25in;
+    margin-bottom: 0.25in;
     position: relative;
 
     .cover-page {
@@ -71,6 +77,7 @@
       position: relative;
       padding-bottom: 1in;
       margin-bottom: 10px;
+
       p {
         text-align: center;
         font-size: 12px;
@@ -78,26 +85,31 @@
         text-size-adjust: none;
         overflow: hidden;
         text-overflow: ellipsis;
-        margin-bottom: 6px;
+        margin-bottom: 1em;
       }
+
       #head {
         font-size: 10px;
       }
-      #blurb,#forces {
+
+      #blurb,
+      #version {
         font-style: italic;
         font-size: 10px;
       }
+
       #title {
         font-size: 14px;
         font-weight: 700;
         white-space: nowrap;
       }
+
       img.page-break {
-        width: 150px;
-        height: 45px;
+        width: 50%;
         display: block;
-        padding-top: 1in;
+        padding-top: 5em;
       }
+
       div.qr-code {
         width: 40px;
         height: 40px;
@@ -112,6 +124,7 @@
         position: absolute;
         bottom: 20px;
         left: 20px;
+
         p {
           text-align: left;
           font-size: 8px;
@@ -120,6 +133,7 @@
         }
       }
     }
+
     .sheet-preview {
       img {
         width: 350px;
@@ -145,6 +159,7 @@
     text-align: center;
     box-shadow: 2px 2px 2px #888;
     margin: 0 auto;
+
     &:hover {
       text-decoration: none;
       background: #dcc;
@@ -155,4 +170,96 @@
 img.download-button {
   height: 20px;
   width: 20px;
+}
+
+.break-after {
+  break-after: always;
+}
+.print-page {
+  font-size: 24px;
+  width: 8.5in;
+  height: 11in;
+  padding: .25in;
+  box-sizing: border-box;
+  font-family: 'Garamond', serif;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+
+  p {
+    text-align: center;
+    font-size: 120%;
+    white-space: nowrap;
+    text-size-adjust: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+  }
+
+  .head {
+    font-size: 90%;
+    letter-spacing: 1.25px;
+  }
+
+  .blurb,
+  .version {
+    font-style: italic;
+  }
+
+  .title {
+    font-size: 200%;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .author {
+    font-size: 180%;
+  }
+
+
+  .page-break {
+    width: 50%;
+    display: block;
+    padding-top: 5em;
+  }
+
+  .texts {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+  }
+  .hebrew {
+    width: 45%;
+    white-space: normal;
+    text-align: right;
+    font-size: .9em;
+  }
+  .transliteration {
+    width: 45%;
+    white-space: normal;
+    font-size: .7em;
+    text-align: left;
+  }
+  .translation {
+    width: 100%;
+    white-space: normal;
+    font-size: .7em;
+    text-align: left;
+    padding-top: 1em;
+  }
+  .footer {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    p {
+      text-align: left;
+      margin: 0;
+      padding: 0;
+      font-size: .6em;
+    }
+  }
 }

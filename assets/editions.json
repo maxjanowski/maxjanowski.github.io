@@ -1,9 +1,8 @@
-[
-  {
+[{
     "id": "03080",
     "release": "20220808",
     "title": "Sim Shalom, BʼSeyfer Chaim",
-    "forces": "for Solo, SATB Chorus, and Piano",
+    "version": "for Solo, SATB Chorus, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "blurb": "A beloved setting of Sim Shalom for use during the High Holidays.",
@@ -13,13 +12,26 @@
       "Arrangements in multiple keys: d-minor, c-minor.",
       "A synthesized audio file of the piece, to aid rehearsal preparation."
     ],
-    "folderId": "1bFRXI5-B_ngKwTTP52EEWjwG04CmiKQU"
+    "versions": {
+      "00": {
+        "version": "for Solo, SATB Chorus, and Piano (d-minor)"
+      },
+      "01": {
+        "version": "for Solo, SATB Chorus, and Piano (c-minor)"
+      }
+    },
+
+    "translation": "Grant peace, goodness, and blessing, favor, kindness and compassion upon us and upon all Yisrael, Your people. Bless us, our Father, all of us as one with the light of Your countenance. For by the light of Your countenance You gave us Adonoy our God, a Torah of life and the love of kindliness, righteousness, blessing, compassion, life, and peace. And may it be good in Your eyes and to bless Your people Yisrael, at all times and at every moment with Your peace. In the book of life, blessing, peace and abundant maintenance, may we be remembered and inscribed before You; we and all Your people, the House of Yisrael for a good life and peace. Blessed are You, Adonoy, Who makes the peace.<br/>— The Metsudah Machzor.  Metsudah Publications, New York (CC-BY)",
+    "transliteration": "Sim shalom tovah uverachah chen vachesed verachamim aleinu ve'al kol Yisra'el ammecha, barechenu avinu kullanu ke'echad be'or paneicha ki ve'or paneicha natatta lanu Adonai Eloheinu torat chayyim ve'ahavat chesed utzedakah uverachah verachamim vechayyim veshalom, vetov be'eineicha levarech et ammecha Yisra'el, v'et kol haamim, bechol et uvechol sha'ah bishlomecha. Besefer chayyim berachah veshalom ufarnasah tovah nizzacher venikkatev (venechatem) lefaneicha anachnu vechol ammecha beit yisra'el lechayyim tovim uleshalom: baruch attah Adonai oseh hashalom.",
+    "hebrew": "שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָחֶֽסֶד וְרַחֲמִים עָלֵֽינוּ וְעַל כָּל יִשְׂרָאֵל עַמֶּֽךָ, בָּרְכֵֽנוּ אָבִֽינוּ כֻּלָּֽנוּ כְּאֶחָד בְּאוֹר פָּנֶֽיךָ כִּי בְאוֹר פָּנֶֽיךָ נָתַֽתָּ לָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ תּוֹרַת חַיִּים וְאַהֲבַת חֶֽסֶד וּצְדָקָה וּבְרָכָה וְרַחֲמִים וְחַיִּים וְשָׁלוֹם, וְטוֹב בְּעֵינֶֽיךָ לְבָרֵךְ אֶת עַמְּךָ יִשְׂרָאֵל בְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶֽךָ. בְּסֵֽפֶר חַיִּים בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה נִזָּכֵר וְנִכָּתֵב לְפָנֶֽיךָ אֲנַֽחְנוּ וְכָל עַמְּךָ בֵּית יִשְׂרָאֵל לְחַיִּים טוֹבִים וּלְשָׁלוֹם: בָּרוּךְ אַתָּה יְהֹוָה עֹשֶׂה הַשָּׁלוֹם"
+
+
   },
   {
     "id": "03510",
     "release": "20220804",
     "title": "Kol Nidrey",
-    "forces": "for Solo, SAATBB Choir, and Piano",
+    "version": "for Solo, SAATBB Choir, and Piano",
     "author": "traditional, arr. Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
@@ -33,7 +45,7 @@
     "id": "00070",
     "release": "20220804",
     "title": "Vayachalom",
-    "forces": "for Soli, SSAATTBB Choir, and Piano",
+    "version": "for Soli, SSAATTBB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
@@ -45,7 +57,7 @@
     "id": "05020",
     "release": "20220726",
     "title": "Ushʼavtem Mayim",
-    "forces": "for Soli, SSAATTBB Choir, and Piano",
+    "version": "for Soli, SSAATTBB Choir, and Piano",
     "author": "traditional, arr. Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman<br/>accompaniment transcribed by Daniel Zarb-Cousin",
     "blurb": "You shall draw water joyfully from the springs of salvation...",
@@ -61,7 +73,7 @@
     "id": "05010",
     "release": "20220801",
     "title": "Shir Hachalutsim",
-    "forces": "for Solo, Choir, and Piano",
+    "version": "for Solo, Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter",
     "features": [
@@ -74,7 +86,7 @@
     "id": "03530",
     "release": "20220728",
     "title": "Ashira Ladonai",
-    "forces": "for Solo, SAATB Choir, and Piano",
+    "version": "for Solo, SAATB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "dedication": "Dedicated to Rabbi Louis J. Swichkow.",
@@ -89,7 +101,7 @@
     "id": "03480",
     "release": "20220801",
     "title": "Shabbat Hamalka",
-    "forces": "for Solo, Choir & Congregation, and Piano",
+    "version": "for Solo, Choir & Congregation, and Piano",
     "author": "music by Max Janowski, lyrics by Chayim Nachman Bialik",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "dedication": "Dedicated to my friend, Louise Groffman.",
@@ -103,7 +115,7 @@
     "id": "03430",
     "release": "20220801",
     "title": "Avinu Malkeynu",
-    "forces": "for Solo, SSAATTBB Choir, and Piano",
+    "version": "for Solo, SSAATTBB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "dedication": "Dedicated to Rabbi Jacob J. Weinstein.",
@@ -120,7 +132,7 @@
     "id": "03400",
     "release": "20220801",
     "title": "Hashkiveynu",
-    "forces": "for Solo, SATB Choir, and Piano",
+    "version": "for Solo, SATB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "dedication": "Dedicated to Cantor Anshel Freedman of blessed memory.",
@@ -136,7 +148,7 @@
     "id": "03380",
     "release": "20220727",
     "title": "Unʼtaneh Tokef, Uvʼshofar Gadol",
-    "forces": "for Solo, SAATTBB Choir, and Piano",
+    "version": "for Solo, SAATTBB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "keywords": "High Holidays, Yom Kippur, Rosh Hashanah",
@@ -152,7 +164,7 @@
     "id": "03320",
     "release": "20220804",
     "title": "Al Hanisim",
-    "forces": "for Solo, Unison Choir, and Piano",
+    "version": "for Solo, Unison Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "keywords": "Chanukah",
@@ -169,7 +181,7 @@
     "id": "03310",
     "release": "20220803",
     "title": "Baʼah Mʼnuchah",
-    "forces": "for Solo, SATB Choir, and Piano",
+    "version": "for Solo, SATB Choir, and Piano",
     "author": "music by Max Janowski, lyrics by Nathan Alterman",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
@@ -182,7 +194,7 @@
     "id": "03300",
     "release": "20220726",
     "title": "Vayʼchulu",
-    "forces": "for Solo, SATB Choir, and Piano",
+    "version": "for Solo, SATB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
@@ -196,7 +208,7 @@
     "id": "03280",
     "release": "20220804",
     "title": "Nachamu, Nachamu Ami",
-    "forces": "for Alto and Tenor Solo, SATB Choir, and Piano",
+    "version": "for Alto and Tenor Solo, SATB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "blurb": "Take comfort, my people.",
@@ -211,7 +223,7 @@
     "id": "03270",
     "release": "20220801",
     "title": "Shiru Ladonai",
-    "forces": "for Solo or Soprano and Tenor Duet, SATB Choir, and Piano",
+    "version": "for Solo or Soprano and Tenor Duet, SATB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
@@ -225,7 +237,7 @@
     "id": "03010",
     "release": "20220804",
     "title": "Bimey Matityahu",
-    "forces": "for Solo, SSAATTBB Choir, and Piano",
+    "version": "for Solo, SSAATTBB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
@@ -239,7 +251,7 @@
     "id": "00080",
     "release": "20220804",
     "title": "Halʼluyah",
-    "forces": "for Solo, SSAATTBB Choir, and Piano",
+    "version": "for Solo, SSAATTBB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "dedication": "Dedicated to Karen and Mortin Levy in friendship.",
@@ -252,29 +264,25 @@
     "id": "03250",
     "release": "20220804",
     "title": "Ana Dodi",
-    "forces": "for Solo and Piano",
+    "version": "for Solo and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "dedication": "My beloved speaks...",
     "features": [
       "Sheet music (PDF format) for you to share with your performers.",
       "A synthesized audio file of the piece, to aid rehearsal preparation."
-    ],
-    "folderId": "1z_9qm7hVO_UScS0rQS02J0YlJ__dQMj-"
+    ]
   },
   {
     "id": "03340",
     "release": "20220804",
     "title": "Adonai Roi",
-    "forces": "for Solo, SSATTBBB Choir, and Piano",
+    "version": "for Solo, SSATTBBB Choir, and Piano",
     "author": "by Max Janowski",
     "edited": "edited by Cantor Cory Winter and Jordan Goodman",
     "features": [
       "Sheet music (PDF format) for you to share with your performers.",
       "A synthesized audio file of the piece, to aid rehearsal preparation."
-    ],
-    "folderId": "10VhU2GHUQIZzvzJALd7LqiQE3im-SiNe"
+    ]
   }
-
-
 ]

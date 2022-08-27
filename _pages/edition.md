@@ -26,7 +26,7 @@ files for preparing the music for performance. You'll need a Google Account.
         <p id="head">The Max Janowski Society · Performance Editions Series</p>
         <div>
         <p id="title"></p>
-        <p id="forces"></p>
+        <p id="version"></p>
         </div>
         <div>
         <p id="author"></p>

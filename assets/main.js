@@ -79,6 +79,51 @@ function loadEditionLinks(available, e) {
     })
 }
 
+function loadCover(e) {
+  const doc = e.target;
+  const id = new URL(doc.URL).searchParams.get('id');
+  const version = new URL(doc.URL).searchParams.get('version') || '00';
+
+  return fetch('/assets/editions.json')
+    .then ( res => res.json())
+    .then ( res => {
+      let item = res.find((e) => e.id === id);
+      if (!item) {
+        location.href = '/404';
+        return false;
+      }
+      item.sku = item.sku || `${item.id}-${version}-${item.release}`
+      item.year = item.release.slice(0,4);
+      let q = new URLSearchParams({
+        id: id,
+        version: version,
+        utm_source: 'sm',
+        utm_medium: 'qr',
+        utm_campaign: item.sku,
+      })
+      for (n of doc.getElementsByClassName('qr-code')) {
+        new QRCode(n,{
+          text: `https://www.maxjanowski.org/edition?${q.toString()}`,
+          correctLevel: QRCode.CorrectLevel.M,
+          width: 80,
+          height: 80
+        });
+      }
+      Object.keys(item).forEach(k => {
+        const v = item[k];
+        if (v) {
+          for ( n of doc.getElementsByClassName(k)) {
+            n.innerHTML = v;
+          }
+        }
+      })
+      return true;
+    })
+    // .catch( e => {
+    //   console.error("Unable to read editions file. " + e.message)
+    // });
+}
+
 function loadEditionPage(e) {
   const doc = e.target;
   const id = new URL(doc.URL).searchParams.get('id')
