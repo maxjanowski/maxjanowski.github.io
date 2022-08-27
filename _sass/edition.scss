@@ -62,86 +62,30 @@
     margin-bottom: 0.25in;
     position: relative;
 
-    .cover-page {
-      box-sizing: border-box;
-      font-family: 'Garamond', serif;
+    .preview-page {
       width: 350px;
       height: 453px;
-      display: flex;
-      flex-flow: column nowrap;
       border: thin solid black;
       box-shadow: 2px 2px 2px;
-      padding: 20px;
-      justify-content: space-between;
-      align-items: center;
-      position: relative;
-      padding-bottom: 1in;
+      box-sizing: border-box;
       margin-bottom: 10px;
+    }
 
-      p {
-        text-align: center;
-        font-size: 12px;
-        white-space: nowrap;
-        text-size-adjust: none;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        margin-bottom: 1em;
-      }
+    .cover-page {
+      font-size: 10px;
+      padding: 10px;
 
-      #head {
-        font-size: 10px;
-      }
-
-      #blurb,
-      #version {
-        font-style: italic;
-        font-size: 10px;
-      }
-
-      #title {
-        font-size: 14px;
-        font-weight: 700;
-        white-space: nowrap;
-      }
-
-      img.page-break {
-        width: 50%;
-        display: block;
-        padding-top: 5em;
-      }
-
-      div.qr-code {
-        width: 40px;
-        height: 40px;
-        float: right;
-        background: #444;
-        position: absolute;
-        bottom: 20px;
-        right: 20px;
-      }
-
-      .cover-footer {
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-
-        p {
-          text-align: left;
-          font-size: 8px;
-          margin: 0;
-          padding: 0;
-        }
+      .qr-code {
+        width: 30px;
+        height: 30px;
       }
     }
 
     .sheet-preview {
       img {
-        width: 350px;
-        height: 453px;
-        border: thin solid black;
-        box-shadow: 2px 2px 2px black;
+        width: 100%;
+        height: 100%;
       }
-      margin-bottom: 10px;
     }
   }
 
@@ -181,6 +125,9 @@ img.download-button {
   width: 8.5in;
   height: 11in;
   padding: 0.25in;
+}
+
+.cover-page {
   box-sizing: border-box;
   font-family: 'Garamond', serif;
   display: flex;

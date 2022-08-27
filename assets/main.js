@@ -94,6 +94,10 @@ function loadCover(e) {
       }
       item.sku = item.sku || `${item.id}-${version}-${item.release}`
       item.year = item.release.slice(0,4);
+      // version values override item values
+      if (item.versions && item.versions[version]) {
+        item = { ...item, ...item.versions[version]};
+      }
       let q = new URLSearchParams({
         id: id,
         version: version,
@@ -117,7 +121,7 @@ function loadCover(e) {
           }
         }
       })
-      return true;
+      return item;
     })
     // .catch( e => {
     //   console.error("Unable to read editions file. " + e.message)
@@ -134,44 +138,30 @@ function loadEditionPage(e) {
       doc.getElementById('folderUrl').href = `https://drive.google.com/drive/folders/${folderMap[id]}?usp=sharing`;
       doc.getElementById('folderUrl').innerHTML = 'Download Performance Files';
     }
-    return fetch('/assets/editions.json')
-      .then ( res => res.json())
-      .then ( res => {
-        let item = res.find((e) => e.id === id);
-        if (!item) {
-          location.href = '/404';
-          return false;
-        }
-        let loadImage = false;
-        loadImage = new Promise( (resolve, reject) => {
-          doc.getElementById('preview-image').onload = resolve;
-          doc.getElementById('preview-image').onerror = resolve;
-        })
-        doc.getElementById('preview-image').src = `/images/preview/${id}-620x800.png`;
-        doc.getElementById('preview-pdf').href = `/download/preview/${id}.pdf`;
-        Object.keys(item).forEach(k => {
-          const v = item[k];
-          if ( k == 'title' ) {
-            doc.title = v + ' | The Max Janowski Society';
-            doc.getElementById('h1').innerHTML = v;
-          }
-          if ( k == 'features' ) {
-            const featureList = v.map( e => `<li>${e}</li>`);
-            doc.getElementById('feature-list').innerHTML =
-              `This downloadable edition includes:<ul>${featureList.join('')}</ul>`;
-          }
-          n = doc.getElementById(k);
-          if (n) {
-            n.innerHTML = v;
-          }
-        })
-        return loadImage;
+    return loadCover(e)
+    .then ( item => {
+      let loadImage = false;
+      loadImage = new Promise( (resolve, reject) => {
+        doc.getElementById('preview-image').onload = resolve;
+        doc.getElementById('preview-image').onerror = resolve;
       })
-      .then( res => {
-        doc.getElementById('edition-wrapper').classList.add('ready');
-      })
-      .catch( e => {
-        console.error("Unable to read editions file. " + e.message)
-      });
+      doc.getElementById('preview-image').src = `/images/preview/${item.id}-620x800.png`;
+      doc.getElementById('preview-pdf').href = `/download/preview/${item.id}.pdf`;
+      doc.title = item.title + ' | The Max Janowski Society';
+      doc.getElementById('h1').innerHTML = item.title;
+      if (item.features) {
+        const featureList = item.features.map( e => `<li>${e}</li>`);
+        doc.getElementById('feature-list').innerHTML =
+          `This downloadable edition includes:<ul>${featureList.join('')}</ul>`;
+      }
+
+      return loadImage;
+    })
+    .then ( res => {
+      doc.getElementById('edition-wrapper').classList.add('ready');
+    })
+    .catch( e => {
+      console.error("Unable to read editions file. " + e.message)
+    });
   })
 }
