@@ -1,6 +1,5 @@
 ---
 title: Request Editions
-permalink: /order
 layout: default
 google_recaptcha: 6LdM1gUhAAAAAJxv23v32M_GSnUWLSqy3ygmD1md
 sitemap: false
