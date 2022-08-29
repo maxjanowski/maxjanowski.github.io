@@ -188,7 +188,7 @@ function loadPage(wrapper) {
     const v = item[k];
     if (v) {
       for (n of document.getElementsByClassName(k)) {
-        n.innerHTML = v;
+        n.innerHTML = v.replace("\n","<br/><br/>");
       }
     }
   })

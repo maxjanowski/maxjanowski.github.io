@@ -184,7 +184,7 @@ img.download-button {
   .transliteration {
     width: 45%;
     white-space: normal;
-    font-size: 0.7em;
+    font-size: 0.65em;
     text-align: left;
   }
 
@@ -193,7 +193,13 @@ img.download-button {
     white-space: normal;
     font-size: 0.7em;
     text-align: left;
-    padding-top: 1em;
+  }
+
+  .translation_credit {
+    white-space: normal;
+    font-size: 0.7em;
+    text-align: left;
+    font-style: italic;
   }
 
   .footer {

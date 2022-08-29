@@ -16,27 +16,29 @@ versions:
   "01":
     version: for Solo, SATB Chorus, and Piano (c-minor)
 hebrew: "
- שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָחֶֽסֶד וְרַחֲמִים עָלֵֽינוּ וְעַל כָּל יִשְׂרָאֵל עַמֶּֽךָ‪.‬
-בָּרְכֵֽנוּ אָבִֽינוּ כֻּלָּֽנוּ כְּאֶחָד בְּאוֹר פָּנֶֽיךָ כִּי בְאוֹר פָּנֶֽיךָ נָתַֽתָּ לָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ. 
-תּוֹרַת חַיִּים וְאַהֲבַת חֶֽסֶד וּצְדָקָה וּבְרָכָה וְרַחֲמִים וְחַיִּים וְשָׁלוֹם‪.‬
-וְטוֹב בְּעֵינֶֽיךָ לְבָרֵךְ אֶת עַמְּךָ יִשְׂרָאֵל בְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶֽךָ.  
-<br/><br/>
-בְּסֵֽפֶר חַיִּים בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה נִזָּכֵר. 
-וְנִכָּתֵב (וְנֵחָתֵם) לְפָנֶֽיךָ אֲנַֽחְנוּ וְכָל עַמְּךָ בֵּית יִשְׂרָאֵל לְחַיִּים טוֹבִים וּלְשָׁלוֹם:  
-בָּרוּךְ אַתָּה יְהֹוָה (בָּרוּךְ הוּא וּבָרוּךְ שְׁמוֹ) עֹשֶׂה הַשָּׁלוֹם: אָמֵן:  
+שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָחֶֽסֶד וְרַחֲמִים עָלֵֽינוּ וְעַל כָּל יִשְׂרָאֵל עַמֶּֽךָ.
+בָּרְכֵֽנוּ אָבִֽינוּ כֻּלָּֽנוּ כְּאֶחָד בְּאוֹר פָּנֶֽיךָ כִּי בְאוֹר פָּנֶֽיךָ נָתַֽתָּ לָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ
+תּוֹרַת חַיִּים וְאַהֲבַת חֶֽסֶד וּצְדָקָה וּבְרָכָה וְרַחֲמִים וְחַיִּים וְשָׁלוֹם.
+וְטוֹב בְּעֵינֶֽיךָ לְבָרֵךְ אֶת עַמְּךָ יִשְׂרָאֵל בְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶֽךָ.
+
+בְּסֵֽפֶר חַיִּים בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה נִזָּכֵר
+וְנִכָּתֵב (וְנֵחָתֵם) לְפָנֶֽיךָ אֲנַֽחְנוּ וְכָל עַמְּךָ בֵּית יִשְׂרָאֵל לְחַיִּים טוֹבִים וּלְשָׁלוֹם:
+בָּרוּךְ אַתָּה יְהֹוָה (בָּרוּךְ הוּא וּבָרוּךְ שְׁמוֹ) עֹשֶׂה הַשָּׁלוֹם:
+אָמֵן:
 "
+sefaria_url: https://www.sefaria.org/Machzor_Rosh_Hashanah_Ashkenaz%2C_Musaf%2C_First_Day_of_Rosh_Hashana%2C_Amidah.65
 transliteration: >
-  Sim shalom tovah uverachah chen vachesed verachamim aleinu veʼal
-  kol Yisraʼel ammecha, barechenu avinu kullanu keʼechad beʼor
-  paneicha ki veʼor paneicha natatta lanu Adonai Eloheinu torat
-  chayyim veʼahavat chesed utzedakah uverachah verachamim vechayyim
-  veshalom, vetov beʼeineicha levarech et ammecha Yisraʼel, vʼet
-  kol haamim, bechol et uvechol shaʼah bishlomecha.
-  <br/><br/>
-  Besefer chayyim berachah veshalom ufarnasah tovah nizzacher
-  venikkatev (venechatem) lefaneicha anachnu vechol ammecha beit
-  yisraʼel lechayyim tovim uleshalom: Baruch attah Adonai (baruch
-  hu uvaruch shemo) oseh hashalom. Ameyn.
+  Sim sha·lom to·vah u·ve·ra·chah chen va·che·sed ve·ra·cha·mim a·lei·nu ve·'al
+  kol Yis·ra·'el am·me·cha. Ba·re·che·nu a·vi·nu kul·la·nu ke·'e·chad be·'or
+  pa·nei·cha ki ve·'or pa·nei·cha na·tat·ta la·nu A·do·nai E·lo·hei·nu to·rat
+  chay·yim ve·'a·ha·vat che·sed u·tze·da·kah u·ve·ra·chah ve·ra·cha·mim
+  ve·chay·yim ve·sha·lom. Ve·tov be·'ei·nei·cha le·va·rech et am·me·cha
+  Yis·ra·'el be·chol et u·ve·chol sha·'ah bish·lo·me·cha.
+
+  Be·se·fer chay·yim be·ra·chah ve·sha·lom u·far·na·sah to·vah niz·za·cher
+  ve·nik·ka·tev (ve·ne·cha·tem) le·fa·nei·cha a·nach·nu ve·chol am·me·cha beit
+  Yis·ra·'el le·chay·yim to·vim u·le·sha·lom: Ba·ruch at·tah A·do·nai (Ba·ruch
+  hu u·va·ruch she·mo) o·seh ha·sha·lom: A·men:
 translation: >
   Grant peace, goodness, and blessing, favor, kindness and compassion
   upon us and upon all Yisrael, Your people. Bless us, our Father,
@@ -46,10 +48,9 @@ translation: >
   compassion, life, and peace. And may it be good in Your eyes
   and to bless Your people Yisrael, at all times and at every moment
   with Your peace.
-  <br/><br/>
+
   In the book of life, blessing, peace and abundant maintenance,
   may we be remembered and inscribed (sealed) before You; we and
   all Your people, the House of Yisrael for a good life and peace.
   Blessed are You, Adonoy, Who makes the peace.
-  <br/>
-  — The Metsudah Machzor.  Metsudah Publications, New York (CC-BY)
+translation_credit: "— The Metsudah Machzor.  Metsudah Publications, New York (CC-BY)"
