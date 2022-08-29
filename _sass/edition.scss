@@ -55,7 +55,6 @@
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 0.25in;
-    position: relative;
 
     .preview-page {
       width: 350px;
@@ -67,13 +66,9 @@
     }
 
     .cover-page {
+      text-size-adjust: none;
       font-size: 10px;
       padding: 10px;
-
-      .qr-code {
-        width: 30px;
-        height: 30px;
-      }
     }
 
     .sheet-preview {
@@ -131,6 +126,7 @@ img.download-button {
   align-items: center;
 
   p {
+    text-size-adjust: none;
     text-align: center;
     font-size: 120%;
     white-space: nowrap;
@@ -213,6 +209,12 @@ img.download-button {
       margin: 0;
       padding: 0;
       font-size: 0.6em;
+    }
+
+    .qr-code {
+      img {
+        height: 3.6em;
+      }
     }
   }
 }

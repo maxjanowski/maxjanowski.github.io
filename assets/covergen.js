@@ -170,6 +170,7 @@ function loadPage(wrapper) {
   }
   const q = new URLSearchParams({
     id: item.id,
+    release: item.release,
     version: version,
     utm_source: 'sm',
     utm_medium: 'qr',
@@ -179,9 +180,7 @@ function loadPage(wrapper) {
     n.innerHTML = '';
     new QRCode(n, {
       text: `https://www.maxjanowski.org/edition?${q.toString()}`,
-      correctLevel: QRCode.CorrectLevel.M,
-      width: 80,
-      height: 80
+      correctLevel: QRCode.CorrectLevel.M
     });
   }
   Object.keys(item).forEach(k => {
