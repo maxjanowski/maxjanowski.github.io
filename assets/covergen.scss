@@ -1,0 +1,50 @@
+---
+---
+#pageselect {
+  border-bottom: 2px dashed blue;
+  padding: 4em;
+  font-size: 12px;
+
+  #dragdrop {
+    margin: .25in;
+    padding: .25in;
+    display: inline-block;
+    width: 2in;
+    height: .5in;
+    background: #844;
+    color: white;
+    font-weight: bold;
+  }
+
+  #select-version {
+    display: inline;
+    width: 3in;
+    font-size: 9px;
+    visibility: hidden;
+    &.ready {
+      visibility: visible;
+    }
+  }
+
+  #errormsg {
+    visibility: hidden;
+    color: red;
+    font-weight: bold;
+    &.active {
+      visibility: visible;
+    }
+  }
+}
+
+#pages {
+  visibility: hidden;
+  &.ready {
+    visibility: visible;
+  }
+}
+
+@media print {
+  #pageselect {
+    display: none !important;
+  }
+}

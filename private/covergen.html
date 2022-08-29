@@ -1,0 +1,98 @@
+---
+sitemap: false
+layout: none
+---
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>TMJS Cover Generator</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.js" defer></script>
+  <script src="https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.min.js" defer></script>
+  <script src="/assets/main.js"></script>
+  <script src="/assets/covergen.js"></script>
+  <link rel="stylesheet" href="/assets/main.css" />
+  <link rel="stylesheet" href="/assets/covergen.css" />
+  <script>
+    window.addEventListener("load", coverGenInit);
+  </script>
+</head>
+
+<body>
+  <div id="pageselect">
+    <h1>Cover page generator. For internal use only.</h1>
+    <p>
+      When printing (or saving to PDF for insertion into sheet music):
+      <ul>
+        <li>
+          Paper size: U.S. Letter
+        </li>
+        <li>
+          Orientation: Portrait
+        </li>
+        <li>
+          Margins: None
+        </li>
+        <li>
+          Scaling: 100%
+        </li>
+        <li>
+          Headers/Footers: off
+        </li>
+      </ul>
+
+    </p>
+    </p>
+    <div id="errormsg"></div>
+    <div id="dragdrop">Drop yaml file here!</div>
+    Version:
+    <select id="select-version" name="version">
+      <option value="00" selected>00</option>
+    </select>
+  </div>
+  <div id="pages" class="">
+    <div class="print-page cover-page break-after">
+      <p class="head">The Max Janowski Society · Performance Editions Series</p>
+      <div>
+        <p class="title"></p>
+        <p class="version"></p>
+      </div>
+      <div>
+        <p class="author"></p>
+        <p class="edited"></p>
+      </div>
+      <p class="blurb"></p>
+      <img class="page-break" src="https://www.maxjanowski.org/images/pagebreak-300x87.png" alt="pagebreak" />
+      <div class="footer">
+        <div class="catalog">
+          <p class="catalog-number">TMJS Catalog Number: <span class='sku'></span< /p>
+              <p>© <span class="year"></span> The Max Janowski Society, NFP.</p>
+              <p>www.maxjanowski.org</p>
+        </div>
+        <div class="qr-code"></div>
+      </div>
+    </div>
+    <div class="print-page cover-page">
+      <p class="head">The Max Janowski Society · Performance Editions Series</p>
+      <div>
+        <p class="title"></p>
+        <p class="version"></p>
+      </div>
+      <div class="texts">
+        <p class="transliteration"></p>
+        <p class="hebrew"></p>
+      </div>
+      <p class="translation"></p>
+      <div class="footer">
+        <div class="catalog">
+          <p class="catalog-number">TMJS Catalog Number: <span class='sku'></span< /p>
+              <p>© <span class="year"></span> The Max Janowski Society, NFP.</p>
+              <p>www.maxjanowski.org</p>
+        </div>
+        <div class="qr-code"></div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

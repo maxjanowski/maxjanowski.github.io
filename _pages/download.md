@@ -33,15 +33,13 @@ We distribute these packages from Google Drive. You'll need a Google account to 
 
 Pick the piece you are interested in.
 
-<div id="editions-list" class="editions-list">
-<span class="loading">Loading...</span>
-</div>
+<table id="editions-list" class="editions-list">
+</table>
 
 ## Coming soon
 
-<div id="coming-soon-list" class="editions-list">
-<span class="loading">Loading...</span>
-</div>
+<table id="coming-soon-list" class="editions-list">
+</table>
 
 Are there pieces you are interested that you don't see here?
 [Let us know!](/contact)

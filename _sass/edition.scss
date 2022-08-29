@@ -1,24 +1,19 @@
 .editions-list {
-  display: grid;
-  width: 100%;
-  grid-template-columns: 80px auto;
-  grid-column-gap: 0;
+  width: 80%;
+  margin: 0 auto;
   margin-bottom: 0.5in;
 
-  div {
+  &:nth-child(odd) {
+    background: #ddd;
+  }
+
+  td:nth-child(even) {
+    font-style: italic;
+    font-size: 90%;
+  }
+
+  td {
     padding: 10px;
-
-    &:nth-child(4n+1),
-    &:nth-child(4n+2) {
-      background: #ddd;
-    }
-
-    &:nth-child(1),
-    &:nth-child(2) {
-      font-weight: bold;
-      background: #444 !important;
-      color: white;
-    }
   }
 
   .loading {
@@ -129,7 +124,7 @@ img.download-button {
 
 .cover-page {
   box-sizing: border-box;
-  font-family: 'Garamond', serif;
+  font-family: 'Times New Roman', serif;
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;

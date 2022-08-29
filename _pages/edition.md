@@ -4,8 +4,11 @@ permalink: /edition
 layout: default
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.js" defer></script>
+<script src="https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.min.js" defer></script>
+<script src="/assets/covergen.js"></script>
 
 <div>
+  <a id="backlink" href="/download#instructions">&lt; Back to List</a>
   <h1 id="h1">Performance Editions</h1>
 </div>
 
@@ -59,5 +62,5 @@ files for preparing the music for performance. You'll need a Google Account.
   </div>
 </div>
 <script>
-  window.onload = e => loadEditionPage(e);
+  window.onload = e => editionLandingInit();
 </script>
