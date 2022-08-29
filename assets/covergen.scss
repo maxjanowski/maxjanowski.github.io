@@ -2,8 +2,13 @@
 ---
 #pageselect {
   border-bottom: 2px dashed blue;
-  padding: 4em;
+  padding: 3em;
   font-size: 12px;
+
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
 
   #dragdrop {
     margin: .25in;

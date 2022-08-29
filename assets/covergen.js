@@ -180,7 +180,8 @@ function loadPage(wrapper) {
     n.innerHTML = '';
     new QRCode(n, {
       text: `https://www.maxjanowski.org/edition?${q.toString()}`,
-      correctLevel: QRCode.CorrectLevel.M
+      correctLevel: QRCode.CorrectLevel.M,
+      useSVG: true
     });
   }
   Object.keys(item).forEach(k => {
