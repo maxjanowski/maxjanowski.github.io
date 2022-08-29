@@ -66,7 +66,6 @@
     }
 
     .cover-page {
-      text-size-adjust: none;
       font-size: 10px;
       padding: 10px;
     }
@@ -126,11 +125,9 @@ img.download-button {
   align-items: center;
 
   p {
-    text-size-adjust: none;
     text-align: center;
     font-size: 120%;
     white-space: nowrap;
-    text-size-adjust: none;
     overflow: hidden;
     text-overflow: ellipsis;
     margin: 0;
