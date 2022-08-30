@@ -117,25 +117,16 @@ img.download-button {
 }
 
 .cover-page {
-  box-sizing: border-box;
-  font-family: 'Times New Roman', serif;
+  font-family: 'Noto Serif';
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;
   align-items: center;
 
   p {
+    max-width: 100%;
     text-align: center;
-    font-size: 120%;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
     margin: 0;
-    text-size-adjust: none;
-    -moz-text-size-adjust: none;
-    -webkit-text-size-adjust: none;
-    -ms-text-size-adjust: none;
-
   }
 
   .head {
@@ -151,11 +142,14 @@ img.download-button {
   .title {
     font-size: 200%;
     font-weight: 700;
-    white-space: nowrap;
   }
 
   .author {
     font-size: 180%;
+  }
+
+  .edited {
+    font-size: 120%;
   }
 
   .page-break {
