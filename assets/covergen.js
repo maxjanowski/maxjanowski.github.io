@@ -27,20 +27,20 @@ function editionLandingInit() {
       })
   }
 
-  function setPreviewImage(elem, id) {
+  function setPreviewImage(elem, pdfElem, id) {
     const promise = new Promise( (resolve, reject) => {
-      previewImageElem.onload = resolve;
-      previewImageElem.onerror = resolve;
+      elem.onload = resolve;
+      elem.onerror = resolve;
     });
-    previewImageElem.src = `/images/preview/${id}-620x800.png`;
-    previewPdfElem.href = `/download/preview/${id}.pdf`;
+    elem.src = `/images/preview/${id}-620x800.png`;
+    pdfElem.href = `/download/preview/${id}.pdf`;
     return promise;
   }
 
   return initItemFromQueryParms()
     .then(item => {
       const p1 = setFolderLink(folderUrlElem, item.id);
-      const p2 = setPreviewImage(previewImageElem, item.id);
+      const p2 = setPreviewImage(previewImageElem, previewPdfElem, item.id);
 
       document.title = item.title + ' | The Max Janowski Society';
       h1Elem.innerHTML = item.title;
