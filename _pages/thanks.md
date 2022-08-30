@@ -14,7 +14,7 @@ We'd like to acknowledge the generous support of our current donors, and appreci
 - Jordan Goodman
 - Jonathan Miller
 - Brad Rubenstein
-- Liz Skavish and Michael Rubenstein
+- Elizabeth Skavish and Michael Rubenstein
 - Rochelle Rubenstein
 - Cantor Steve Stoehr, Congregation Beth Shalom
 - Bernadette Winter
@@ -22,3 +22,17 @@ We'd like to acknowledge the generous support of our current donors, and appreci
 - Zamir Choral Foundation
 
 Become a [Platinum Supporter](/platinum "Become a platinum supporter today by making a tax deductible donation of $250 or more.") today!
+
+## Individual Supporters
+
+- Abraham Cherrick
+- Gerald Pam
+
+## Help Making Things Happen
+
+- Holland & Knight, LLP
+- Rabbi Irwin Keller
+- Gabrielle Pescador
+- Margo Schwartz-Newton
+- Josh Wiczer
+- Daniel Zarb-Cousin
