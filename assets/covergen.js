@@ -63,6 +63,10 @@ function editionLandingInit() {
 }
 
 function initItemFromQueryParms() {
+  function fixid(id) {
+    // an id is a five character string always. add leading zeroes and convert
+    return `00000${id}`.slice(-5);
+  }
   // get $coverGen item based on query parameters
   ['id', 'version', 'release'].forEach(parm => {
     $coverGen[parm] = new URL(document.URL).searchParams.get(parm);
@@ -71,11 +75,13 @@ function initItemFromQueryParms() {
     console.log('no query parameters for id and release')
     return Promise.resolve();
   }
+  $coverGen.id = fixid($coverGen.id);
   $coverGen.filename = `${$coverGen.id}-${$coverGen.release}.yaml`;
   return fetch(`/assets/release/${$coverGen.filename}`)
     .then(res => res.text())
     .then(text => {
       $coverGen.item = jsyaml.load(text);
+      $coverGen.item.id = fixid($coverGen.item.id);
       return $coverGen.item;
     })
     .catch(err => {
