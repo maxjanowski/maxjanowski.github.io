@@ -3,6 +3,8 @@ var $coverGen = {};
 function coverGenInit() {
   return initItemFromQueryParms()
     .then(item => {
+      document.title = `${item.id}-${item.release}-cover`;
+
       initDragDrop();
       console.log('init complete')
     })
@@ -188,7 +190,11 @@ function loadPage(wrapper) {
     const v = item[k];
     if (v) {
       for (n of document.getElementsByClassName(k)) {
-        n.innerHTML = v.replace("\n","<br/><br/>");
+        if (['hebrew','translation','transliteration'].includes(k)) {
+          n.innerHTML = `<p>${v.replace("\n","</p><p>")}</p>`;
+        } else {
+          n.innerHTML = v;
+        }
       }
     }
   })

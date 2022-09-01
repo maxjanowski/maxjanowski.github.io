@@ -1,7 +1,7 @@
 ---
 id: '03080'
 release: '20220808'
-title: Sim Shalom, B’Seyfer Chaim
+title: Sim Shalom, B’Seyfer Chayim
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 blurb: A beloved setting of Sim Shalom for use during the High Holidays.
@@ -9,12 +9,12 @@ keywords: High Holidays, Rosh Hashanah, Yom Kippur
 features:
 - Sheet music (PDF format) for you to share with your performers.
 - A synthesized audio file of the piece, to aid rehearsal preparation.
-- 'Arrangements in multiple keys: d-minor, c-minor.'
+- 'Arrangements in multiple keys: D minor, C minor.'
 versions:
   '00':
-    version: for Solo, SATB Chorus, and Piano (d-minor)
+    version: for Solo, SATB Chorus, and Piano (in D Minor)
   '01':
-    version: for Solo, SATB Chorus, and Piano (c-minor)
+    version: for Solo, SATB Chorus, and Piano (in C Minor)
 hebrew: ' שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָחֶֽסֶד וְרַחֲמִים עָלֵֽינוּ וְעַל כָּל
   יִשְׂרָאֵל עַמֶּֽךָ. בָּרְכֵֽנוּ אָבִֽינוּ כֻּלָּֽנוּ כְּאֶחָד בְּאוֹר פָּנֶֽיךָ
   כִּי בְאוֹר פָּנֶֽיךָ נָתַֽתָּ לָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ תּוֹרַת חַיִּים וְאַהֲבַת
@@ -25,33 +25,31 @@ hebrew: ' שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָ�
   לְפָנֶֽיךָ אֲנַֽחְנוּ וְכָל עַמְּךָ בֵּית יִשְׂרָאֵל לְחַיִּים טוֹבִים וּלְשָׁלוֹם:
   בָּרוּךְ אַתָּה יְהֹוָה (בָּרוּךְ הוּא וּבָרוּךְ שְׁמוֹ) עֹשֶׂה הַשָּׁלוֹם: אָמֵן: '
 sefaria_url: https://www.sefaria.org/Machzor_Rosh_Hashanah_Ashkenaz%2C_Musaf%2C_First_Day_of_Rosh_Hashana%2C_Amidah.65
-transliteration: 'S<u>i</u>m sha·l<u>o</u>m to·v<u>a</u>h u·ve·ra·ch<u>a</u>h ch<u>e</u>n
-  va·ch<u>e</u>·sed ve·ra·cha·m<u>i</u>m a·l<u>ei</u>·nu ve·’<u>a</u>l k<u>o</u>l
-  yis·ra·’<u>e</u>l am·m<u>e</u>·cha. ba·re·ch<u>e</u>·nu a·v<u>i</u>·nu kul·l<u>a</u>·nu
-  ke·’e·ch<u>a</u>d be·’<u>o</u>r pa·n<u>ei</u>·cha k<u>i</u> ve·’<u>o</u>r pa·n<u>ei</u>·cha
-  na·t<u>a</u>t·ta l<u>a</u>·nu A·do·nai E·lo·h<u>ei</u>·nu to·r<u>a</u>t chay·y<u>i</u>m
-  ve·’a·ha·v<u>a</u>t ch<u>e</u>·sed u·tze·da·k<u>a</u>h u·ve·ra·ch<u>a</u>h ve·ra·cha·m<u>i</u>m
-  ve·chay·y<u>i</u>m ve·sha·l<u>o</u>m. ve·t<u>o</u>v be·’ei·n<u>ei</u>·cha le·va·r<u>e</u>ch
-  <u>e</u>t am·me·ch<u>a</u> yis·ra·’<u>e</u>l be·ch<u>o</u>l <u>e</u>t u·ve·ch<u>o</u>l
-  sha·’<u>a</u>h bish·lo·m<u>e</u>·cha.
+transliteration: 'Sim sha-lom to-vah u-ve-ra-chah chen va-<strong>che</strong>-sed
+  ve-ra-cha-mim a-<strong>lei</strong>-nu ve-’al kol yis-ra-’el am-<strong>me</strong>-cha.
+  Ba-re-<strong>che</strong>-nu a-<strong>vi</strong>-nu kul-<strong>la</strong>-nu
+  ke-’e-chad be-’or pa-<strong>nei</strong>-cha ki ve-’or pa-<strong>nei</strong>-cha
+  na-<strong>tat</strong>-ta <strong>la</strong>-nu A-do-nai e-lo-<strong>hei</strong>-nu
+  to-rat chay-yim ve-’a-ha-vat <strong>che</strong>-sed u-tze-da-kah u-ve-ra-chah
+  ve-ra-cha-mim ve-chay-yim ve-sha-lom. Ve-tov be-’ei-<strong>nei</strong>-cha le-va-rech
+  et am-me-cha yis-ra-’el be-chol et u-ve-chol sha-’ah bish-lo-<strong>me</strong>-cha.
 
-  Be·s<u>e</u>·fer chay·y<u>i</u>m be·ra·ch<u>a</u>h
-  ve·sha·l<u>o</u>m u·far·na·s<u>a</u>h to·v<u>a</u>h niz·za·ch<u>e</u>r ve·nik·ka·t<u>e</u>v
-  (ve·ne·cha·t<u>e</u>m) le·fa·n<u>ei</u>·cha a·n<u>a</u>ch·nu ve·ch<u>o</u>l am·me·ch<u>a</u>
-  b<u>ei</u>t yis·ra·’<u>e</u>l le·chay·y<u>i</u>m to·v<u>i</u>m u·le·sha·l<u>o</u>m:
-  Ba·r<u>u</u>ch at·t<u>a</u>h A·do·nai (Ba·r<u>u</u>ch h<u>u</u> u·va·r<u>u</u>ch
-  she·m<u>o</u>) o·s<u>e</u>h ha·sha·l<u>o</u>m: A·m<u>e</u>n:'
+  Be-<strong>se</strong>-fer chay-yim be-ra-chah ve-sha-lom u-far-na-sah to-vah niz-za-cher
+  ve-nik-ka-tev (ve-ne-cha-tem) le-fa-<strong>nei</strong>-cha a-<strong>nach</strong>-nu
+  ve-chol am-me-cha beit yis-ra-’el le-chay-yim to-vim u-le-sha-lom: Ba-ruch at-tah
+  A-do-nai (Ba-ruch hu u-va-ruch she-mo) o-seh ha-sha-lom: A-men:'
 translation: 'Grant peace, goodness, and blessing, favor, kindness and compassion
   upon us and upon all Yisrael, Your people. Bless us, our Father, all of us as one
   with the light of Your countenance. For by the light of Your countenance You gave
-  us Adonoy our God, a Torah of life and the love of kindliness, righteousness, blessing,
-  compassion, life, and peace. And may it be good in Your eyes and to bless Your people
+  us, Adonoy our God, a Torah of life and the love of kindliness, righteousness, blessing,
+  compassion, life, and peace. And may it be good in Your eyes to bless Your people
   Yisrael, at all times and at every moment with Your peace.
 
-  In the book of life, blessing, peace and abundant maintenance, may we be remembered
-  and inscribed (sealed) before You; we and all Your people, the House of Yisrael
-  for a good life and peace. Blessed are You, Adonoy, Who makes the peace.
+  In the book of life, blessing, peace and good fortune, may we be remembered and
+  inscribed (sealed) before You; we and all Your people, the House of Yisrael for
+  a good life and peace. Blessed are You, Adonoy, (Blessed is He and blessed is His
+  name), who makes the peace.
 
   '
-translation_credit: — The Metsudah Machzor.  Metsudah Publications, New York (CC-BY), www.sefaria.org
-transliteration_credit: Transliteration courtesy of Aaron Eby, www.alittlehebrew.com
+translation_credit: Translation from The Metsudah Machzor, Metsudah Publications,
+  New York (CC-BY) at www.sefaria.org. <br/>Transliteration courtesy of www.alittlehebrew.com.

@@ -1,7 +1,6 @@
 .editions-list {
   width: 80%;
-  margin: 0 auto;
-  margin-bottom: 0.5in;
+  margin: 0 auto 0.5in;
 
   &:nth-child(odd) {
     background: #ddd;
@@ -113,43 +112,44 @@ img.download-button {
   font-size: 24px;
   width: 8.5in;
   height: 11in;
-  padding: 0.25in;
+  padding: 0.375in;
 }
 
 .cover-page {
+  box-sizing: border-box;
   font-family: 'Noto Serif';
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;
   align-items: center;
 
-  p {
-    max-width: 100%;
-    text-align: center;
-    margin: 0;
-  }
-
   .head {
     font-size: 90%;
     letter-spacing: 1.25px;
+    text-align: center;
+  }
+
+  .title {
+    margin-top: 1.5em;
+    font-size: 200%;
+    font-weight: 700;
+    text-align: center;
   }
 
   .blurb,
   .version {
     font-style: italic;
-  }
-
-  .title {
-    font-size: 200%;
-    font-weight: 700;
+    text-align: center;
   }
 
   .author {
     font-size: 180%;
+    text-align: center;
   }
 
   .edited {
     font-size: 120%;
+    text-align: center;
   }
 
   .page-break {
@@ -167,32 +167,49 @@ img.download-button {
 
   .hebrew {
     width: 45%;
-    white-space: normal;
-    text-align: right;
-    font-size: 0.9em;
-    direction: rtl;
+
+    p {
+      text-align: right;
+      font-size: 0.9em;
+      direction: rtl;
+    }
   }
 
   .transliteration {
     width: 45%;
-    white-space: normal;
-    font-size: 0.65em;
-    text-align: left;
+
+    p {
+      font-size: 0.65em;
+      text-align: left;
+    }
   }
 
-  .translation {
+  .pronunciation {
+    display: none; // hide for now
     width: 100%;
-    white-space: normal;
-    font-size: 0.7em;
-    text-align: left;
+    p {
+      font-size: .6em;
+    }
   }
 
-  .translation_credit {
-    white-space: normal;
-    font-size: 0.7em;
-    text-align: left;
-    font-style: italic;
+  .translation_block {
+    width: 100%;
+    p {
+      font-size: 0.65em;
+      text-align: left;
+    }
+    .credit {
+      font-style: italic;
+      margin-left: 0;
+      p {
+        font-size: .65em;
+        font-style: italic;
+        text-align: left;
+        margin: 0;
+      }
+    }
   }
+
 
   .footer {
     width: 100%;

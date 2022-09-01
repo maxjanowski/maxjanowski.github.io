@@ -6,6 +6,7 @@ layout: none
 <html>
 
 <head>
+  <meta charset="utf-8"/>
   <title>TMJS Cover Generator</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.js" defer></script>
   <script src="https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.min.js" defer></script>
@@ -24,29 +25,27 @@ layout: none
     <h1>Cover Page Generator</h1>
     <p>
       For internal use only.
-      </p>
+    </p>
     <p>
       When printing (or saving to PDF for insertion into sheet music):
-      <ul>
-        <li>
-          Paper size: U.S. Letter
-        </li>
-        <li>
-          Orientation: Portrait
-        </li>
-        <li>
-          Margins: None
-        </li>
-        <li>
-          Scaling: 100%
-        </li>
-        <li>
-          Headers/Footers: off
-        </li>
-      </ul>
-
     </p>
-    </p>
+    <ul>
+      <li>
+        Paper size: U.S. Letter
+      </li>
+      <li>
+        Orientation: Portrait
+      </li>
+      <li>
+        Margins: None
+      </li>
+      <li>
+        Scaling: 100%
+      </li>
+      <li>
+        Headers/Footers: off
+      </li>
+    </ul>
     <div id="errormsg"></div>
     <div id="dragdrop">Drop yaml file here!</div>
     Version:
@@ -56,8 +55,8 @@ layout: none
   </div>
   <div id="pages" class="">
     <div class="print-page cover-page break-after">
-      <p class="head">The Max Janowski Society · Performance Editions Series</p>
       <div>
+        <p class="head">The Max Janowski Society · Performance Editions Series</p>
         <p class="title"></p>
         <p class="version"></p>
       </div>
@@ -69,8 +68,8 @@ layout: none
       <img class="page-break" src="https://www.maxjanowski.org/images/pagebreak-300x87.png" alt="pagebreak" />
       <div class="footer">
         <div class="catalog">
-          <p class="catalog-number">TMJS Catalog Number: <span class='sku'></span< /p>
-              <p>© <span class="year"></span> The Max Janowski Society, NFP.</p>
+          <p class="catalog-number">TMJS Catalog Number: <span class='sku'></span></p>
+              <p>&copy; <span class="year"></span> The Max Janowski Society, NFP.</p>
               <p>Scan the QR code to download this document and related files in electronic form.</p>
               <p>www.maxjanowski.org</p>
         </div>
@@ -78,27 +77,28 @@ layout: none
       </div>
     </div>
     <div class="print-page cover-page">
-      <p class="head">The Max Janowski Society · Performance Editions Series</p>
       <div>
+        <p class="head">The Max Janowski Society · Performance Editions Series</p>
         <p class="title"></p>
         <p class="version"></p>
       </div>
+      <div class="pronunciation">
+        <p>
+          Note: Hebrew word accent is generally on the last syllable, except as
+          marked in <strong>bold</strong>.<br />
+          The “ch” is always pronounced as in German <i>Bach</i>.
+        </p>
+      </div>
       <div class="texts">
-        <p class="transliteration"></p>
-        <p class="hebrew"></p>
+        <div class="transliteration"></div>
+        <div class="hebrew"></div>
       </div>
-      <div>
-        <p class="translation"></p>
-        <p class="translation_credit"></p>
-      </div>
-      <div class="footer">
-        <div class="catalog">
-          <p class="catalog-number">TMJS Catalog Number: <span class='sku'></span< /p>
-              <p>© <span class="year"></span> The Max Janowski Society, NFP.</p>
-              <p>Scan the QR code to download this document and related files in electronic form.</p>
-              <p>www.maxjanowski.org</p>
+
+      <div class="translation_block">
+        <div class="translation"></div>
+        <div class="credit">
+          <p class="translation_credit"></p>
         </div>
-        <div class="qr-code"></div>
       </div>
     </div>
   </div>
