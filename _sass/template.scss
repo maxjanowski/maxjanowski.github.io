@@ -20,7 +20,8 @@ body {
   font-size: 12px !important;
 }
 
-a,a:visited {
+a,
+a:visited {
   font-weight: bold;
   color: $brand-color;
 }
@@ -28,24 +29,27 @@ a,a:visited {
 a:hover {
   color: lighten($brand-color,20%);
 }
-
 // navbar customization
 .site-header {
   font-family: Roboto;
 
   .page-link {
-    padding: 8px 5px;
+    padding: 5px 10px;
 
-    &:hover,&:focus {
+    &:not(:last-child) {
+      margin-right: 0;
+    }
+
+    &:focus,
+    &:hover {
       background: #eee;
       text-decoration: none;
     }
-    &:not(:last-child) {
-      margin-right: 10px;
-    }
+
     &:nth-child(3) {
       color: $brand-color;
     }
+
     &.current {
       background: #844;
       color: white;
