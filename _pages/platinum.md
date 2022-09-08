@@ -1,5 +1,5 @@
 ---
-title: Platinum Sponsors
+title: Become a Platinum Sponsor
 permalink: /platinum
 layout: default
 ---

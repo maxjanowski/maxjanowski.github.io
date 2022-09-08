@@ -21,4 +21,5 @@ We'd like to acknowledge the generous support of our current Platinum Sponsors. 
 - Cantor Cory Winter
 - Zamir Choral Foundation
 
-Become a [Platinum Supporter]({% link _pages/platinum.md %} "Become a platinum supporter today by making a tax deductible donation of $250 or more.") today!
+Become a [Platinum Sponsor]({% link _pages/platinum.md %} "Become a Platinum
+Sponsor today by making a tax deductible donation of $250 or more.") today!

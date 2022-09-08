@@ -43,9 +43,9 @@ We are just getting started.
 
   Sheet music and chorus preparation tracks will soon be available for our initial release of [new editions]({% link _pages/download.md %}).
 
-## [Become a Platinum Supporter Today]({% link _pages/platinum.md %})
+## [Become a Platinum Sponsor Today]({% link _pages/platinum.md %})
 
   To help us create additional recordings and editions in the coming year,
-  and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Supporter]({% link _pages/platinum.md %}).
+  and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Sponsor]({% link _pages/platinum.md %}).
 
 </div>
