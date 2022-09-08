@@ -1,14 +1,14 @@
 ---
-title: Thank You
+title: Platinum Sponsors
 permalink: /thanks
 layout: default
 sitemap: false
 ---
 
 Your support allows us to catalog, edit, distribute, and promote Jewish music.
-We'd like to acknowledge the generous support of our current donors, and appreciate your [donation](/donate), large or small.
+We'd like to acknowledge the generous support of our current Platinum Sponsors. We appreciate your [donation]({% link _pages/3_donate.md %}), large or small.
 
-## Platinum Supporters ($250+)
+## Platinum Sponsors ($250+)
 
 - Howard Gilbert
 - Jordan Goodman
@@ -22,17 +22,3 @@ We'd like to acknowledge the generous support of our current donors, and appreci
 - Zamir Choral Foundation
 
 Become a [Platinum Supporter](/platinum "Become a platinum supporter today by making a tax deductible donation of $250 or more.") today!
-
-## Individual Supporters
-
-- Abraham Cherrick
-- Gerald Pam
-
-## Help Making Things Happen
-
-- Holland & Knight, LLP
-- Rabbi Irwin Keller
-- Gabrielle Pescador
-- Margo Schwartz-Newton
-- Josh Wiczer
-- Daniel Zarb-Cousin
