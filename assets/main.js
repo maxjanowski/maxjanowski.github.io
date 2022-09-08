@@ -79,7 +79,10 @@ function loadEditionLinks(available, e) {
                   </a>
                 </td><td>released ${formatDate(e)}</td></tr>`;
             });
-          e.innerHTML = list.join('');
+          if (list.length>0) {
+            e.innerHTML = list.join('');
+            e.classList.add('ready');
+          }
         });
     })
     .catch( e => {

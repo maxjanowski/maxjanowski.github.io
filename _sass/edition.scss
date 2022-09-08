@@ -1,6 +1,10 @@
 .editions-list {
   width: 80%;
   margin: 0 auto 0.5in;
+  display: none;
+  &.ready {
+    display: table;
+  }
 
   &:nth-child(odd) {
     background: #ddd;

@@ -36,4 +36,4 @@ To receive notifications about updates and other news, [subscribe to our
 newsletter](/subscribe).
 
 For questions about commercial licensing, or any other concerns, please [contact
-us](/contact "Send a message to our office.").
+us]({% link _pages/5_contact.md %} "Send a message to our office.").

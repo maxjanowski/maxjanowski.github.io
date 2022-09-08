@@ -35,17 +35,17 @@ We are just getting started.
 
 # Latest Announcements!
 
-## [Max Janowski: The Great Works, Volume 1](/cd1)
+## [Max Janowski: The Great Works, Volume 1]({% link _pages/cd1.md %})
 
-  Our [latest recording](/cd1) is available in digital formats. Download the program booklet, and purchase or stream the album. Physical CDs are coming soon.
+  Our [latest recording]({% link _pages/cd1.md %}) is available in digital formats. Download the program booklet, and purchase or stream the album. Physical CDs are coming soon.
 
-## [Music Editions for Chorus](/download)
+## [Music Editions for Chorus]({% link _pages/download.md %})
 
-  Sheet music and chorus preparation tracks will soon be available for our initial release of [new editions](/download).
+  Sheet music and chorus preparation tracks will soon be available for our initial release of [new editions]({% link _pages/download.md %}).
 
-## [Become a Platinum Supporter Today](/platinum)
+## [Become a Platinum Supporter Today]({% link _pages/platinum.md %})
 
   To help us create additional recordings and editions in the coming year,
-  and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Supporter](/platinum).
+  and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Supporter]({% link _pages/platinum.md %}).
 
 </div>

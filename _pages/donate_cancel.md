@@ -11,4 +11,4 @@ Your support of the Max Janowski society allows us to continue developing, engra
 
 No amount is too small.  When the time is right, please consider making [a donation]({% link _pages/3_donate.md %}).
 
-If you have any suggestions or concerns, please do not hesitate to [contact us](/contact).
+If you have any suggestions or concerns, please do not hesitate to [contact us]({% link _pages/5_contact.md %}).

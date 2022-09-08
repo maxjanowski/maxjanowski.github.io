@@ -17,7 +17,7 @@ the general public about Janowski’s musical legacy; and to
 be the primary resource for information and discussion about
 Janowski’s scores, recordings and publications.
 
-Who makes the Max Janowski Society go?  [We do]({% link _pages/people.md %}).
+Who makes the Max Janowski Society go? [We do]({% link _pages/people.md %}).
 
 ## Contact Us
 
@@ -30,8 +30,11 @@ Downers Grove, IL 60515
 ```
 
 <div>
-  <a href="/contact" title="Send message to maxjanowski.org">
-    Send us a message online</a>, or send email to
-  <a href="mailto:{{ page.contact_email }}">
-    {{page.contact_email}}</a>.
+  <a href="{% link _pages/5_contact.md %}" title="Send message to maxjanowski.org">
+    Send us a message online
+  </a>
+  or send email to
+  <a href="mailto:{{page.contact_email}}?subject=Website%20Message">
+    {{page.contact_email}}
+  </a>.
 </div>
