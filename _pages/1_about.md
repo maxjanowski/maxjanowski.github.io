@@ -17,13 +17,7 @@ the general public about Janowski’s musical legacy; and to
 be the primary resource for information and discussion about
 Janowski’s scores, recordings and publications.
 
-## Board of Directors
-
-- Jonathan Miller, *president*
-- Brad Rubenstein, *treasurer*
-- Howard Gilbert, *secretary*
-- Jordan Goodman
-- Cantor Cory Winter
+Who makes the Max Janowski Society go?  [We do]({% link _pages/people.md %}).
 
 ## Contact Us
 
@@ -38,6 +32,6 @@ Downers Grove, IL 60515
 <div>
   <a href="/contact" title="Send message to maxjanowski.org">
     Send us a message online</a>, or send email to
-  <a href="mailto:&#105;&#110;&#102;&#111;&#064;maxjanowski.org">
-    &#105;&#110;&#102;&#111;&#064;maxjanowski.org</a>.
+  <a href="mailto:{{ page.contact_email }}">
+    {{page.contact_email}}</a>.
 </div>

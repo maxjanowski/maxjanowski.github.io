@@ -55,4 +55,4 @@ Downers Grove, IL 60515
 
 ## Thank You
 
-[A special thanks to our generous supporters!](/thanks "Donor Acknowledgements")
+[A special thanks to our generous supporters!]({% link _pages/thanks.md%})
