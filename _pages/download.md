@@ -26,7 +26,7 @@ Once you have downloaded the files, we encourage you to share them
 with your performers (you don't need to buy a copy for each person).
 
 If you'd like early access to the entire catalog containing ***all*** these
-editions, please become a [platinum supporter]({% link _pages/platinum.md %})!
+editions, please become a [platinum sponsor]({% link _pages/platinum.md %})!
 
 ## Instructions
 
