@@ -1,5 +1,5 @@
 ---
-title: The Great Works, Vol. 1
+title: "Recording: &ldquo;Max Janowski: The Great Works, Vol. 1&rdquo;"
 permalink: /cd1
 layout: default
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Music Editions
+title: Download Sheet Music Editions
 permalink: /download
 ---
 

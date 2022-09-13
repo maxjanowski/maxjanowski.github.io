@@ -1,5 +1,5 @@
 ---
-title: Platinum Sponsors
+title: Our Sponsors
 permalink: /thanks
 layout: default
 sitemap: false

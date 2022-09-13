@@ -1,11 +1,12 @@
 ---
-title: Terms of Use
+title: Licensing
+long_title: Music Performance Licensing
 permalink: /licensing
 layout: default
 sitemap: false
 ---
 
-# Terms of Use
+# Performance Licensing &mdash; Terms of Use
 
 By downloading or otherwise receiving digital files published by The Max
 Janowski Society, you agree to these Terms of Use.
@@ -37,3 +38,5 @@ newsletter](/subscribe).
 
 For questions about commercial licensing, or any other concerns, please [contact
 us]({% link _pages/5_contact.md %} "Send a message to our office.").
+
+_Last Updated: September 11, 2022_

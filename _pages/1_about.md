@@ -1,5 +1,6 @@
 ---
 title: About
+long_title: About the Max Janowski Society
 permalink: /about
 layout: default
 contact_email: "&#105;&#110;&#102;&#111;&#064;maxjanowski.org"

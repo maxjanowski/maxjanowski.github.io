@@ -1,5 +1,6 @@
 ---
 title: People
+long_title: Who We Are
 permalink: /people
 layout: default
 sitemap: false

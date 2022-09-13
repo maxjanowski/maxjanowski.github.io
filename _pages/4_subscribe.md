@@ -1,5 +1,6 @@
 ---
 title: Subscribe
+long_title: Subscribe to our Newsletter
 permalink: /subscribe
 layout: default
 ---
