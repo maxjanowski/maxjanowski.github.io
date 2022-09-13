@@ -32,7 +32,9 @@ Our thanks to the many contributors who are helping us achieve our mission.
 
 -   Holland & Knight, LLP
 -   Rabbi Irwin Keller
+-   Michael Mitzen
 -   Gabrielle Pescador
+-   Cantor Pavel Roytman
 -   Josh Wiczer
 -   Daniel Zarb-Cousin
 
