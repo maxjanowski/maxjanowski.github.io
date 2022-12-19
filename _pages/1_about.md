@@ -4,7 +4,7 @@ long_title: About the Max Janowski Society
 permalink: /about
 layout: default
 contact_email: "&#105;&#110;&#102;&#111;&#064;maxjanowski.org"
-description: "The mission of the Max Janowski Society is to increase audiences and enthusiasm for the music of Max Janowski (1912-1991)"
+description: "The mission of the Max Janowski Society is to increase audiences and enthusiasm for the music of Max Janowski (1912-1991)."
 ---
 
 # About Us
