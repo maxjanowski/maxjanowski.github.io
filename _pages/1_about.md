@@ -24,10 +24,11 @@ Who makes the Max Janowski Society go? [We do]({% link _pages/people.md %}).
 
 The Max Janowski Society, NFP is a 501(c)3 non-profit
 organization, EIN: 86-1484593.
+
 ```
 The Max Janowski Society
-628 36th St
-Downers Grove, IL 60515
+2515 Waukegan Road #351
+Deerfield, IL 60015
 ```
 
 <div>

@@ -49,8 +49,8 @@ Checks can be mailed to us at:
 
 ```
 The Max Janowski Society
-628 36th St
-Downers Grove, IL 60515
+2515 Waukegan Road #351
+Deerfield, IL 60015
 ```
 
 ## Thank You
