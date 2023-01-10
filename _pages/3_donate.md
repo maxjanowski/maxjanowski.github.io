@@ -17,30 +17,13 @@ and tradition.
 
 ## Donate Online
 
-<div style="margin-bottom: .25in;">
-  <p>Click the button to donate by credit card or PayPal:</p>
-  <div id="donate-button-container">
-    <div id="donate-button"></div>
-    <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-    <script>
-      PayPal.Donation.Button({
-        env: 'production',
-        hosted_button_id: 'FG9GJQ9PBZ86U',
-        image: {
-          src: 'https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif',
-          alt: 'Donate with PayPal button',
-          title: 'PayPal - The safer, easier way to pay online!',
-        }
-      }).render('#donate-button');
-    </script>
-    <noscript>
-      <form action="https://www.paypal.com/donate" method="post" target="_top" style="display: block; position: relative; left: 10px; top: 6px;">
-        <input type="hidden" name="hosted_button_id" value="FG9GJQ9PBZ86U" />
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-      </form>
-    </noscript>
-  </div>
+<div class="donate" style="margin-bottom: .25in;">
+Click the button to donate by credit card or PayPal:
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="FG9GJQ9PBZ86U" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
 </div>
 
 ## Donation by Check
