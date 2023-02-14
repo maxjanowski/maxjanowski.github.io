@@ -11,6 +11,7 @@ We'd like to acknowledge the generous support of our current Platinum Sponsors. 
 ## Platinum Sponsors ($250+)
 
 - Howard Gilbert
+- Alan Gingold
 - Jordan Goodman
 - Jonathan Miller
 - Brad Rubenstein

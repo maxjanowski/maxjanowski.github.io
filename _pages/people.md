@@ -18,15 +18,17 @@ Our thanks to the many contributors who are helping us achieve our mission.
 
 ## Board of Directors
 
--   Jonathan Miller
--   Brad Rubenstein
+-   Cantor David Berger
+-   Carole Fefferman
 -   Howard Gilbert
 -   Jordan Goodman
+-   Jim Harfield
+-   Brad Rubenstein
 -   Cantor Cory Winter
 
 ## Advisory Board
 
--   (coming soon)
+-   Jonathan Miller, President Emeritus
 
 ## Other Contributors
 
