@@ -49,8 +49,9 @@
 }
 
 @media print {
-  @page: { 
+  @page { 
     margin: 0;
+    size: 8.5in 11in;
   }
   #pageselect {
     display: none !important;
