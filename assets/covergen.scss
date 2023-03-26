@@ -49,6 +49,9 @@
 }
 
 @media print {
+  @page: { 
+    margin: 0;
+  }
   #pageselect {
     display: none !important;
   }
