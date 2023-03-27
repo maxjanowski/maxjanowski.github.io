@@ -72,7 +72,7 @@ function initItemFromQueryParms() {
     $coverGen[parm] = new URL(document.URL).searchParams.get(parm);
   });
   if (!$coverGen.id || !$coverGen.release) {
-    console.log('no query parameters for id and release')
+    console.error('no query parameters for id and release')
     return Promise.resolve();
   }
   $coverGen.id = fixid($coverGen.id);
@@ -87,7 +87,7 @@ function initItemFromQueryParms() {
     .catch(err => {
       const errorMsg = document.getElementById('errormsg');
       if (errorMsg) {
-        console.log(err);
+        console.error(err);
         errorMsg.innerHTML = `${$coverGen.filename} is not on web site.  Use drag-and-drop to upload local file.`;
         errorMsg.classList.add('active');
       } else {
@@ -205,4 +205,5 @@ function loadPage(wrapper) {
     }
   })
   wrapper.classList.add('ready')
+  console.log(`SUCCESS: ${item.title}-${item.version}-${item.release} generated. hebrew=${item.hebrew? 'yes':'no'} translation=${item.translation? 'yes':'no'}`);
 }
