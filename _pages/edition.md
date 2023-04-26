@@ -3,6 +3,7 @@ title: Edition Landing Page
 permalink: /edition
 layout: default
 ---
+<!-- markdownlint-disable html -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.js" defer></script>
 <script src="https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.min.js" defer></script>
 <script src="/assets/covergen.js"></script>
@@ -20,7 +21,6 @@ files for preparing the music for performance. You'll need a Google Account.
 1. You may need to "Request Permission".  If so, you'll get an email with a download link.
 1. Download the set of files by pressing Google's download button:
    <img class="download-button" src="/images/download-button.png"/>
-
 
 <div id="edition-wrapper" class="edition-wrapper">
   <img id="spinner" class="spinner" src="/images/spinner.gif" />

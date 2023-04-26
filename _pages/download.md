@@ -3,7 +3,7 @@ layout: default
 title: Download Sheet Music Editions
 permalink: /download
 ---
-
+<!-- markdownlint-disable html MD025 -->
 # Music Editions
 
 From the list below, you can see the compositions we have available for download.

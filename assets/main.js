@@ -67,14 +67,14 @@ function loadEditionLinks(available, e) {
       return fetch('/assets/release/index.json')
         .then( res => res.json())
         .then ( res => {
-          const list = Object.keys(res).map(id => ({id:id, ...res[id]}))
+          const list = Object.keys(res).map(filename => ({filename, ...res[filename]}))
             .filter( e => (!!available === !!folderMap[e.id]))
             .sort((a,b) => {
               return a['title'].toLowerCase().localeCompare(b['title'].toLowerCase());
             })
             .map( e => {
               return `<tr><td>
-                  <a href="/edition?id=${e.id}&amp;release=${e.release}" title="Access and download this piece.">
+                  <a href="/edition?filename=${e.filename}" title="Access and download this piece.">
                     ${e.title}
                   </a>
                 </td><td>released ${formatDate(e)}</td></tr>`;

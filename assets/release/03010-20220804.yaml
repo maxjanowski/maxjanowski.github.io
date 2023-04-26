@@ -1,11 +1,64 @@
 ---
-id: '03010'
-release: '20220804'
+id: "03010"
+release: "20220804"
 title: Bimey Matityahu
 version: for Solo, SSAATTBB Choir, and Piano
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 features:
-- Sheet music (PDF format) for you to share with your performers.
-- A synthesized audio file of the piece, to aid rehearsal preparation.
-- Additional synthesized audio files highlighting each choral part.
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - Additional synthesized audio files highlighting each choral part.
+recording_track: "Max Janowski: The Great Works, Volume 1/08 Bimey Matityahu.mp3"
+hebrew:
+  " בִּימֵי מַתִּתְיָֽהוּ בֶּן יוֹחָנָן כֹּהֵן גָּדוֹל חַשְׁמוֹנָאִי וּבָנָיו
+  כְּשֶׁעָמְ֒דָה מַלְכוּת יָוָן הָרְ֒שָׁעָה עַל־עַמְּ֒ךָ יִשְׂרָאֵל לְהַשְׁכִּיחָם
+  תּוֹרָתֶֽךָ וּלְהַעֲבִירָם מֵחֻקֵּי רְצוֹנֶֽךָ, וְאַתָּה בְּרַחֲמֶֽיךָ הָרַבִּים
+  עָמַֽדְתָּ לָהֶם בְּעֵת צָרָתָם רַֽבְתָּ אֶת־רִיבָם דַּֽנְתָּ אֶת־דִּינָם נָקַֽמְתָּ
+  אֶת־נִקְמָתָם מָסַֽרְתָּ גִבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד מְעַטִּים
+  וּטְמֵאִים בְּיַד טְהוֹרִים וּרְשָׁעִים בְּיַד צַדִּיקִים וְזֵדִים בְּיַד עוֹסְ֒קֵי
+  תוֹרָתֶֽךָ וּלְךָ עָשִֽׂיתָ שֵׁם גָּדוֹל וְקָדוֹשׁ בְּעוֹלָמֶֽךָ וּלְעַמְּ֒ךָ יִשְׂרָאֵל
+  עָשִֽׂיתָ תְּשׁוּעָה גְדוֹלָה וּפֻרְקָן כְּהַיּוֹם הַזֶּה וְאַחַר־כֵּן בָּֽאוּ בָנֶֽיךָ
+  לִדְבִיר בֵּיתֶֽךָ וּפִנּוּ אֶת־הֵיכָלֶֽךָ וְטִהֲרוּ אֶת־מִקְדָּשֶֽׁךָ וְהִדְלִֽיקוּ
+  נֵרוֹת בְּחַצְרוֹת קָדְשֶֽׁךָ וְקָבְ֒עוּ שְׁמוֹנַת יְמֵי חֲנֻכָּה אֵֽלּוּ לְהוֹדוֹת
+  וּלְהַלֵּל לְשִׁמְךָ הַגָּדוֹל:
+
+  "
+sefaria_url: https://www.sefaria.org/Siddur_Ashkenaz%2C_Weekday%2C_Shacharit%2C_Amidah%2C_Thanksgiving.7
+transliteration:
+  " Bi-mei Mat-tit-<strong>ya</strong>-hu ben Yo-cha-nan ko-hen ga-dol
+  chash-mo-na-’i u-va-nav ke-she-’a-<strong>me</strong>-dah mal-chut ya-van ha-re-sha-’ah
+  al-am-<strong>me</strong>-cha yis-ra-’el le-hash-ki-cham to-ra-<strong>te</strong>-cha
+  u-le-ha-’a-vi-ram me-chuk-kei re-tzo-<strong>ne</strong>-cha, ve-’at-tah be-ra-cha-<strong>mei</strong>-cha
+  ha-rab-bim a-<strong>mad</strong>-ta la-hem be-’et tza-ra-tam <strong>rav</strong>-ta
+  et-ri-vam <strong>dan</strong>-ta et-di-nam na-<strong>kam</strong>-ta et-nik-ma-tam
+  ma-<strong>sar</strong>-ta gib-bo-rim be-yad chal-la-shim ve-rab-bim be-yad me-’at-tim
+  u-te-me-’im be-yad te-ho-rim u-re-sha-’im be-yad tzad-di-kim ve-ze-dim be-yad o-<strong>se</strong>-kei
+  to-ra-<strong>te</strong>-cha u-le-cha a-<strong>si</strong>-ta shem ga-dol ve-ka-dosh
+  be-’o-la-<strong>me</strong>-cha u-le-’am-<strong>me</strong>-cha yis-ra-’el a-<strong>si</strong>-ta
+  te-shu-’ah ge-do-lah u-fur-kan ke-hay-yom haz-zeh ve-’a-char-ken <strong>ba</strong>-’u
+  va-<strong>nei</strong>-cha lid-vir bei-<strong>te</strong>-cha u-fin-nu et-hei-cha-<strong>le</strong>-cha
+  ve-ti-ha-ru et-mik-da-<strong>she</strong>-cha ve-hid-<strong>li</strong>-ku ne-rot
+  be-chatz-rot kod-<strong>she</strong>-cha ve-ka-<strong>ve</strong>-’u she-mo-nat
+  ye-mei cha-nuk-kah <strong>el</strong>-lu le-ho-dot u-le-hal-lel le-shim-cha hag-ga-dol:
+
+  "
+translation:
+  " In the days of Matisyahu, son of Yochanan the High Priest, the Hasmonean
+  and his sons, when the evil Greek kingdom rose up against Your people Israel to
+  make them forget Your Torah and to turn them away from the statutes of Your will—
+  You, in Your abundant mercy, stood by them in their time of distress, You defended
+  their cause, You judged their grievances, You avenged them. You delivered the mighty
+  into the hands of the weak, many into the hands of the few, defiled people into
+  the hands of the undefiled, the wicked into the hands of the righteous, and insolent
+  [sinners] into the hands of diligent students of Your Torah. And You made Yourself
+  a great and sanctified name in Your world. And for Your people, Israel, You performed
+  a great deliverance and redemption unto this very day. Afterwards, Your sons entered
+  the Holy of Holies of Your Abode, cleaned Your Temple, purified Your Sanctuary,
+  and kindled lights in the Courtyards of Your Sanctuary, and designated these eight
+  days of Chanukah to thank and praise Your great Name.
+
+  "
+translation_credit:
+  Translation based on the Metsudah linear siddur, by Avrohom Davis, 1981, Metsudah Publications,
+  New York (CC-BY) at www.sefaria.org. <br/>Transliteration courtesy of www.alittlehebrew.com.

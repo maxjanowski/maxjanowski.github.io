@@ -7,37 +7,37 @@ sitemap: false
 nav_parent: _pages/1_about.md
 nav_order: 1
 ---
-
+<!-- markdownlint-disable MD025 -->
 # People
 
 Our thanks to the many contributors who are helping us achieve our mission.
 
 ## Administration
 
--   Margo Schwartz-Newton
+- Margo Schwartz-Newton
 
 ## Board of Directors
 
--   Cantor David Berger
--   Carole Fefferman
--   Howard Gilbert
--   Jordan Goodman
--   Jim Harfield
--   Brad Rubenstein
--   Cantor Cory Winter
+- Cantor David Berger
+- Carole Fefferman
+- Howard Gilbert
+- Jordan Goodman
+- Jim Harfield
+- Brad Rubenstein
+- Cantor Cory Winter
 
 ## Advisory Board
 
--   Jonathan Miller, President Emeritus
+- Jonathan Miller, President Emeritus
 
 ## Other Contributors
 
--   Holland & Knight, LLP
--   Rabbi Irwin Keller
--   Michael Mitzen
--   Gabrielle Pescador
--   Cantor Pavel Roytman
--   Josh Wiczer
--   Daniel Zarb-Cousin
+- Holland & Knight, LLP
+- Rabbi Irwin Keller
+- Michael Mitzen
+- Gabrielle Pescador
+- Cantor Pavel Roytman
+- Josh Wiczer
+- Daniel Zarb-Cousin
 
 A special thanks to our [Platinum Sponsors](<{% link _pages/thanks.md%}>)!

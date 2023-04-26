@@ -19,11 +19,11 @@ function editionLandingInit() {
   const h1Elem = document.getElementById('h1')
   const editionWrapperElem = document.getElementById('edition-wrapper')
 
-  function setFolderLink(elem, id) {
+  function setFolderLink(elem, idAndPriceCode) {
     return getFolderMap()
       .then(folderMap => {
-        if (folderMap[id]) {
-          elem.href = `https://drive.google.com/drive/folders/${folderMap[id]}?usp=sharing`;
+        if (folderMap[idAndPriceCode]) {
+          elem.href = `https://drive.google.com/drive/folders/${folderMap[idAndPriceCode]}?usp=sharing`;
           elem.innerHTML = 'Download Performance Files';
         }
       })
@@ -63,25 +63,19 @@ function editionLandingInit() {
 }
 
 function initItemFromQueryParms() {
-  function fixid(id) {
-    // an id is a five character string always. add leading zeroes and convert
-    return `00000${id}`.slice(-5);
-  }
   // get $coverGen item based on query parameters
-  ['id', 'version', 'release'].forEach(parm => {
+  ['filename', 'version'].forEach(parm => {
     $coverGen[parm] = new URL(document.URL).searchParams.get(parm);
   });
-  if (!$coverGen.id || !$coverGen.release) {
-    console.error('no query parameters for id and release')
+  if (!$coverGen.filename ) {
+    console.error('no query parameter for filename')
     return Promise.resolve();
   }
-  $coverGen.id = fixid($coverGen.id);
-  $coverGen.filename = `${$coverGen.id}-${$coverGen.release}.yaml`;
+  $coverGen.version ||= '00';
   return fetch(`/assets/release/${$coverGen.filename}`)
     .then(res => res.text())
     .then(text => {
       $coverGen.item = jsyaml.load(text);
-      $coverGen.item.id = fixid($coverGen.item.id);
       return $coverGen.item;
     })
     .catch(err => {
