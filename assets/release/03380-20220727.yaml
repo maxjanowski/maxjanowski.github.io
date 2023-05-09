@@ -1,23 +1,24 @@
 ---
-id: '03380'
-release: '20220727'
+id: 03380
+release: "20220727"
 title: Un’taneh Tokef, Uv’shofar Gadol
 version: for Solo, SAATTBB Choir, and Piano
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 keywords: High Holidays, Yom Kippur, Rosh Hashanah
 versions:
-  '00':
+  "00":
     version: for Solo, SAATTBB Choir, and Piano (in B-flat Minor)
-  '01':
+  "01":
     version: for Solo, SAATTBB Choir, and Piano (in A Minor)
 features:
-- Sheet music (PDF format) for you to share with your performers.
-- A synthesized audio file of the piece, to aid rehearsal preparation.
-- Additional synthesized audio files highlighting each choral part.
-- 'Arrangements in multiple keys: b-flat minor, a-minor.'
-recording_track: 'Max Janowski: The Great Works, Volume 1/02 Unʼtaneh Tokef.mp3'
-hebrew: ' וּנְתַנֶּה תֹּקֶף קְדֻשַּׁת הַיּוֹם כִּי הוּא נוֹרָא וְאָיֹם וּבוֹ תִּנָּשֵׂא
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - Additional synthesized audio files highlighting each choral part.
+  - "Arrangements in multiple keys: b-flat minor, a-minor."
+recording_track: "Max Janowski: The Great Works, Volume 1/02 Unʼtaneh Tokef.mp3"
+hebrew:
+  " וּנְתַנֶּה תֹּקֶף קְדֻשַּׁת הַיּוֹם כִּי הוּא נוֹרָא וְאָיֹם וּבוֹ תִּנָּשֵׂא
   מַלְכוּתֶךָ וְיִכּוֹן בְּחֶסֶד כִּסְאֶךָ וְתֵשֵׁב עָלָיו בְּאֱמֶת אֱמֶת כִּי אַתָּה
   הוּא דַּיָּן וּמוֹכִיחַ וְיוֹדֵעַ וָעֵד וְכוֹתֵב וְחוֹתֵם וְסוֹפֵר וּמוֹנֶה וְתִזְכֹּר
   כָּל הַנִּשְׁכָּחוֹת וְתִפְתַּח אֶת סֵפֶר הַזִּכְרוֹנוֹת וּמֵאֵלָיו יִקָּרֵא וְחוֹתָם
@@ -28,9 +29,10 @@ hebrew: ' וּנְתַנֶּה תֹּקֶף קְדֻשַּׁת הַיּוֹם כ
   צֹאנוֹ תַּחַת שִׁבְטוֹ כֵּן תַּעֲבִיר וְתִסְפֹּר וְתִמְנֶה וְתִפְקֹד נֶפֶשׁ כָּל
   חָי וְתַחְתֹּךְ קִצְבָה לְכָל בְּרִיָּה וְתִכְתֹּב אֶת גְּזַר דִּינָם
 
-  '
+  "
 sefaria_url: https://www.sefaria.org/Unetaneh_Tokef.1
-transliteration: ' U-ne-tan-neh <strong>to</strong>-kef ke-du-shat hay-yom. Ki hu no-ra
+transliteration:
+  " U-ne-tan-neh <strong>to</strong>-kef ke-du-shat hay-yom. Ki hu no-ra
   ve-’a-yom. U-vo tin-na-se mal-chu-<strong>te</strong>-cha. Ve-yik-kon be-<strong>che</strong>-sed
   kis-<strong>’e</strong>-cha. Ve-te-shev a-lav be-’e-met. E-met ki at-tah hu day-yan
   u-mo-<strong>chi</strong>-ach ve-yo-<strong>de</strong>-a’ va-’ed. Ve-cho-tev ve-cho-tem
@@ -44,8 +46,8 @@ transliteration: ' U-ne-tan-neh <strong>to</strong>-kef ke-du-shat hay-yom. Ki h
   <strong>ne</strong>-fesh kol chai. Ve-tach-toch kitz-vah le-chol be-riy-yah ve-tich-tov
   et ge-zar di-nam.
 
-  '
-translation: '
+  "
+translation: "
 
   We lend power to the holiness of this day. For it is tremendous and awe filled,
   and on it your kingship will be exalted, your throne will be established in loving-kindness,
@@ -61,6 +63,6 @@ translation: '
   so do you shall pass, count, and record the souls of all living, and decree a limit
   to each persons days, and inscribe their final judgment.
 
-  '
-translation_credit: Translation from www.sefaria.org community. <br/>Transliteration
+  "
+translation_credit: Translation from www.sefaria.org community. Transliteration
   courtesy of www.alittlehebrew.com.
