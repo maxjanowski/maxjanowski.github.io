@@ -1,15 +1,114 @@
 ---
-id: '03430'
-release: '20220801'
+id: "03430"
+release: "20220728"
 title: Avinu Malkeynu
 version: for Solo, SSAATTBB Choir, and Piano
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 dedication: Dedicated to Rabbi Jacob J. Weinstein.
 features:
-- Sheet music (PDF format) for you to share with your performers.
-- A synthesized audio file of the piece, to aid rehearsal preparation.
-- 'Arrangements in multiple keys: d-minor, c-minor, f-minor.'
-- 'Multiple settings to accommodate variation in liturgy: machzors Leiv Shaleim, Mishkan
-  Hanefesh, and Machzor Chadash.'
-- Both solo and choral arrangements.
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - "Multiple settings to accommodate variation in liturgy: machzors Leiv Shaleim, Mishkan
+    Hanefesh, and Machzor Chadash."
+  - Both solo and choral arrangements.
+versions:
+  "00":
+    version: for Solo, SSAATTBB Chorus, and Piano
+    blurb: According to the liturgy of Machzor Leiv Shalem
+    hebrew:
+      "אָבִֽינוּ מַלְכֵּֽנוּ חָטָֽאנוּ לְפָנֶֽיךָ: אָבִֽינוּ מַלְכֵּֽנוּ אֵין
+      לָֽנוּ מֶֽלֶךְ אֶלָּא אָֽתָּה: אָבִֽינוּ מַלְכֵּֽנוּ עֲשֵׂה עִמָּֽנוּ לְמַֽעַן
+      שְׁמֶֽךָ: אָבִֽינוּ מַלְכֵּֽנוּ חַדֵּשׁ עָלֵֽינוּ שָׁנָה טוֹבָה: אָבִֽינוּ מַלְכֵּֽנוּ
+      בַּטֵּל מֵעָלֵֽינוּ כָּל גְּזֵרוֹת קָשׁוֹת: אָבִֽינוּ מַלְכֵּֽנוּ בַּטֵּל מַחְשְׁבוֹת
+      שׂוֹנְאֵֽינוּ: אָבִֽינוּ מַלְכֵּֽנוּ הָפֵר עֲצַת אוֹיְבֵֽינוּ: אָבִֽינוּ מַלְכֵּֽנוּ
+      כַּלֵּה כָּל צַר וּמַשְׂטִין מֵעָלֵֽינוּ: אָבִֽינוּ מַלְכֵּֽנוּ שְׁמַע קוֹלֵֽנוּ
+      חוּס וְרַחֵם עָלֵֽינוּ: "
+    transliteration:
+      "A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu cha-<strong>ta</strong>-nu
+      le-fa-<strong>nei</strong>-cha: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      ein <strong>la</strong>-nu <strong>me</strong>-lech el-la <strong>at</strong>-tah:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu a-seh im-<strong>ma</strong>-nu
+      le-<strong>ma</strong>-’an she-<strong>me</strong>-cha: A-<strong>vi</strong>-nu
+      mal-<strong>ke</strong>-nu chad-desh a-<strong>lei</strong>-nu sha-nah to-vah:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu bat-tel me-’a-<strong>lei</strong>-nu
+      kol ge-ze-rot ka-shot: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu bat-tel
+      mach-she-vot so-ne-<strong>’ei</strong>-nu: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      ha-fer a-tzat o-ye-<strong>vei</strong>-nu: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      kal-leh kol tzar u-mas-tin me-’a-<strong>lei</strong>-nu: A-<strong>vi</strong>-nu
+      mal-<strong>ke</strong>-nu she-ma ko-<strong>le</strong>-nu chus ve-ra-chem
+      a-<strong>lei</strong>-nu: "
+    translation:
+      Our Father, our King! we have sinned before You.<br/> Our Father
+      our King! we have no King except You.<br/> Our Father, our King! deal with us
+      [kindly] for the sake of Your Name.<br/> Our Father, our King! renew for us
+      a good year<br/> Our Father, our King! annul all harsh decrees concerning us.<br/>
+      Our Father, our King! annul the designs of those who hate us.<br/> Our Father,
+      our King! thwart the plans of our enemies.<br/> Our Father, our King! rid us
+      of every oppressor and adversary.<br/> Our Father, our King! hear our voice,
+      spare us and have compassion upon us.
+  "01":
+    version: for Solo, SSAATTBB Chorus, and Piano
+    blurb: According to the liturgy of Mishkan Hanefesh
+    hebrew:
+      " :אָבִֽינוּ מַלְכֵּֽנוּ שְׁמַע קוֹלֵֽנוּ: אָבִֽינוּ מַלְכֵּֽנוּ חָטָֽאנוּ
+      לְפָנֶֽיךָ: אָבִֽינוּ מַלְכֵּֽנוּ חֲמוֹל עָלֵֽינוּ וְעַל עוֹלָלֵֽינוּ וְטַפֵּֽנוּ:
+      אָבִֽינוּ מַלְכֵּֽנוּ כַּלֵּה דֶּֽבֶר וְחֶֽרֶב וְרָעָב מֵעָלֵֽינוּ: אָבִֽינוּ
+      מַלְכֵּֽנוּ כַּלֵּה כָּל צַר וּמַשְׂטִין מֵעָלֵֽינוּ: אָבִֽינוּ מַלְכֵּֽנוּ
+      כָּתְבֵֽנוּ בְּסֵֽפֶר חַיִּים טוֹבִים: אָבִֽינוּ מַלְכֵּֽנוּ חַדֵּשׁ עָלֵֽינוּ
+      שָׁנָה טוֹבָה: אָבִֽינוּ מַלְכֵּֽנוּ שְׁמַע קוֹלֵֽנוּ: "
+    transliteration:
+      " A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu she-ma
+      ko-<strong>le</strong>-nu: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      cha-<strong>ta</strong>-nu le-fa-<strong>nei</strong>-cha: A-<strong>vi</strong>-nu
+      mal-<strong>ke</strong>-nu cha-mol a-<strong>lei</strong>-nu ve-’al o-la-<strong>lei</strong>-nu
+      ve-tap-<strong>pe</strong>-nu: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      kal-leh <strong>de</strong>-ver ve-<strong>che</strong>-rev ve-ra-’av me-’a-<strong>lei</strong>-nu:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu kal-leh kol tzar u-mas-tin
+      me-’a-<strong>lei</strong>-nu: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      ka-te-<strong>ve</strong>-nu be-<strong>se</strong>-fer chay-yim to-vim: A-<strong>vi</strong>-nu
+      mal-<strong>ke</strong>-nu chad-desh a-<strong>lei</strong>-nu sha-nah to-vah:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu she-ma ko-<strong>le</strong>-nu:"
+    translation:
+      "Our Father, our King! hear our voice,<br/> Our Father, our King!
+      we have sinned before You.<br/> Our Father, our King! have compassion upon us,
+      and upon our children and infants.<br/> Our Father, our King! remove pestilence,
+      sword, famine from us.<br/> Our Father, our King! rid us of every oppressor
+      and adversary.<br/> Our Father, our King! inscribe us in the Book of Good Life.<br/>
+      Our Father, our King! renew for us a good year.<br/> Our Father, our King! hear
+      our voice. "
+  "02":
+    version: for Solo, SSAATTBB Chorus, and Piano
+    blurb: According to the liturgy of Machzor Chadash
+    hebrew:
+      " אָבִֽינוּ מַלְכֵּֽנוּ חָטָֽאנוּ לְפָנֶֽיךָ: אָבִֽינוּ מַלְכֵּֽנוּ אֵין
+      לָֽנוּ מֶֽלֶךְ אֶלָּא אָֽתָּה: אָבִֽינוּ מַלְכֵּֽנוּ הַחֲזִירֵֽנוּ בִּתְשׁוּבָה
+      שְׁלֵמָה לְפָנֶֽיךָ: אָבִֽינוּ מַלְכֵּֽנוּ חַדֵּשׁ עָלֵֽינוּ שָׁנָה טוֹבָה:
+      אָבִֽינוּ מַלְכֵּֽנוּ שְׁלַח רְפוּאָה שְׁלֵמָה לְחוֹלֵי עַמֶּֽךָ: אָבִֽינוּ
+      מַלְכֵּֽנוּ הָפֵר עֲצַת אוֹיְבֵֽינוּ: אָבִֽינוּ מַלְכֵּֽנוּ זָכְרֵֽנוּ בְּזִכָּרוֹן
+      טוֹב לְפָנֶֽיךָ: אָבִֽינוּ מַלְכֵּֽנוּ שְׁמַע קוֹלֵֽנוּ חוּס וְרַחֵם עָלֵֽינוּ:"
+    transliteration:
+      "A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu cha-<strong>ta</strong>-nu
+      le-fa-<strong>nei</strong>-cha: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      ein <strong>la</strong>-nu <strong>me</strong>-lech el-la <strong>at</strong>-tah:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu ha-cha-zi-<strong>re</strong>-nu
+      bit-shu-vah she-le-mah le-fa-<strong>nei</strong>-cha: A-<strong>vi</strong>-nu
+      mal-<strong>ke</strong>-nu chad-desh a-<strong>lei</strong>-nu sha-nah to-vah: A-<strong>vi</strong>-nu
+      mal-<strong>ke</strong>-nu she-lach re-fu-’ah she-le-mah le-cho-lei am-<strong>me</strong>-cha:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu ha-fer a-tzat o-ye-<strong>vei</strong>-nu:
+      A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu za-che-<strong>re</strong>-nu
+      be-zik-ka-ron tov le-fa-<strong>nei</strong>-cha: A-<strong>vi</strong>-nu mal-<strong>ke</strong>-nu
+      she-ma ko-<strong>le</strong>-nu chus ve-ra-chem a-<strong>lei</strong>-nu:"
+    translation: "Our Father, our King! we have sinned before You.<br/>
+      Our Father, our King! we have no King except You.<br/>
+      Our Father, our King! bring us back in wholehearted repentance before You.<br/>
+      Our Father, our King! renew for us a good year.<br/>
+      Our Father, our King! send complete healing to the sick among Your people.<br/>
+      Our Father, our King! thwart the plans of our enemies.<br/>
+      Our Father, our King! remember us favorably before You.<br/>
+      Our Father, our King! hear our voice, spare us and have compassion upon us."
+
+sefaria_url: https://www.sefaria.org/Machzor_Rosh_Hashanah_Ashkenaz%2C_Mincha%2C_Avinu_Malkenu.31?lang=he
+translation_credit:
+  Translation from The Metsudah Machzor, Metsudah Publications,
+  New York (CC-BY) at www.sefaria.org. <br/>Transliteration courtesy of www.alittlehebrew.com.

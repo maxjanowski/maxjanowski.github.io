@@ -1,93 +1,90 @@
 var $coverGen = {};
 
 function coverGenInit() {
-  return initItemFromQueryParms()
-    .then(item => {
-      document.title = `${item.id}-${item.release}-cover`;
+  return initItemFromQueryParms().then((item) => {
+    document.title = `${item.id}-${item.release}-cover`;
 
-      initDragDrop();
-      console.log('init complete')
-    })
+    initDragDrop();
+    console.log("init complete");
+  });
 }
 
 function editionLandingInit() {
-
-  const folderUrlElem = document.getElementById('folderUrl')
-  const previewImageElem = document.getElementById('preview-image')
-  const previewPdfElem = document.getElementById('preview-pdf')
-  const featureListElem = document.getElementById('feature-list')
-  const h1Elem = document.getElementById('h1')
-  const editionWrapperElem = document.getElementById('edition-wrapper')
+  const folderUrlElem = document.getElementById("folderUrl");
+  const previewImageElem = document.getElementById("preview-image");
+  const previewPdfElem = document.getElementById("preview-pdf");
+  const featureListElem = document.getElementById("feature-list");
+  const h1Elem = document.getElementById("h1");
+  const editionWrapperElem = document.getElementById("edition-wrapper");
 
   function setFolderLink(elem, idAndPriceCode) {
-    return getFolderMap()
-      .then(folderMap => {
-        if (folderMap[idAndPriceCode]) {
-          elem.href = `https://drive.google.com/drive/folders/${folderMap[idAndPriceCode]}?usp=sharing`;
-          elem.innerHTML = 'Download Performance Files';
-        }
-      })
+    return getFolderMap().then((folderMap) => {
+      if (folderMap[idAndPriceCode]) {
+        elem.href = `https://drive.google.com/drive/folders/${folderMap[idAndPriceCode]}?usp=sharing`;
+        elem.innerHTML = "Download Performance Files";
+      }
+    });
   }
 
   function setPreviewImage(elem, pdfElem, id) {
-    const promise = new Promise( (resolve, reject) => {
+    const promise = new Promise((resolve, reject) => {
       elem.onload = resolve;
       elem.onerror = resolve;
     });
-    elem.src = `/images/preview/${id}-620x800.png`;
-    pdfElem.href = `/download/preview/${id}.pdf`;
+    elem.src = `/images/preview/score-page-${id}-620x800.png`;
+    pdfElem.href = `/download/preview/score-page-${id}.pdf`;
     return promise;
   }
 
-  return initItemFromQueryParms()
-    .then(item => {
-      const p1 = setFolderLink(folderUrlElem, item.id);
-      const p2 = setPreviewImage(previewImageElem, previewPdfElem, item.id);
+  return initItemFromQueryParms().then((item) => {
+    const p1 = setFolderLink(folderUrlElem, item.id);
+    const p2 = setPreviewImage(previewImageElem, previewPdfElem, item.id);
 
-      document.title = item.title + ' | The Max Janowski Society';
-      h1Elem.innerHTML = item.title;
-      if (item.features) {
-        const featureList = item.features.map(e => `<li>${e}</li>`);
-        featureListElem.innerHTML =
-          `This downloadable edition includes:<ul>${featureList.join('')}</ul>`;
-      }
+    document.title = item.title + " | The Max Janowski Society";
+    h1Elem.innerHTML = item.title;
+    if (item.features) {
+      const featureList = item.features.map((e) => `<li>${e}</li>`);
+      featureListElem.innerHTML = `This downloadable edition includes:<ul>${featureList.join(
+        ""
+      )}</ul>`;
+    }
 
-      return Promise.all([p1, p2])
-        .then(res => {
-          loadPage(editionWrapperElem);
-        })
-        .catch(e => {
-          console.error("Unable to read editions file. " + e.message)
-        });
-    })
+    return Promise.all([p1, p2])
+      .then((res) => {
+        loadPage(editionWrapperElem);
+      })
+      .catch((e) => {
+        console.error("Unable to read editions file. " + e.message);
+      });
+  });
 }
 
 function initItemFromQueryParms() {
   // get $coverGen item based on query parameters
-  ['filename', 'version'].forEach(parm => {
+  ["filename", "version"].forEach((parm) => {
     $coverGen[parm] = new URL(document.URL).searchParams.get(parm);
   });
-  if (!$coverGen.filename ) {
-    console.error('no query parameter for filename')
+  if (!$coverGen.filename) {
+    console.error("no query parameter for filename");
     return Promise.resolve();
   }
-  $coverGen.version ||= '00';
+  $coverGen.version ||= "00";
   return fetch(`/assets/release/${$coverGen.filename}`)
-    .then(res => res.text())
-    .then(text => {
+    .then((res) => res.text())
+    .then((text) => {
       $coverGen.item = jsyaml.load(text);
       return $coverGen.item;
     })
-    .catch(err => {
-      const errorMsg = document.getElementById('errormsg');
+    .catch((err) => {
+      const errorMsg = document.getElementById("errormsg");
       if (errorMsg) {
         console.error(err);
         errorMsg.innerHTML = `${$coverGen.filename} is not on web site.  Use drag-and-drop to upload local file.`;
-        errorMsg.classList.add('active');
+        errorMsg.classList.add("active");
       } else {
-        location.href = '/404.html';
+        location.href = "/404.html";
       }
-    })
+    });
 }
 
 function initDragDrop() {
@@ -106,98 +103,101 @@ function initDragDrop() {
   function dragAccept(e) {
     stop(e);
     reader = new FileReader();
-    reader.onload = e => {
+    reader.onload = (e) => {
       $coverGen.item = jsyaml.load(e.target.result);
       dd.innerText = $coverGen.filename;
       buildVersions();
       loadPage(pages);
       return true;
-    }
-    reader.readAsText(e.dataTransfer.files[0], 'utf8');
+    };
+    reader.readAsText(e.dataTransfer.files[0], "utf8");
     $coverGen.filename = e.dataTransfer.files[0].name;
   }
 
   function changeVersion(e) {
-    pages.classList.remove('ready');
+    pages.classList.remove("ready");
     $coverGen.version = sd.value;
-    loadPage(pages)
+    loadPage(pages);
   }
 
   function buildVersions() {
     const item = $coverGen.item;
     let lst;
     if (item.versions) {
-      lst = Object.keys(item.versions).map(version => {
-        const sel = (version == $coverGen.version) ? ' selected' : '';
+      lst = Object.keys(item.versions).map((version) => {
+        const sel = version == $coverGen.version ? " selected" : "";
         const label = item.versions[version].version;
-        return `<option value="${version}"${sel}>${version}: ${label}</option>`
-      })
+        return `<option value="${version}"${sel}>${version}: ${label}</option>`;
+      });
     } else {
       lst = [`<option value="00" selected>00: ${item.version}</option>`];
-      $coverGen.version = '00';
+      $coverGen.version = "00";
     }
-    sd.innerHTML = lst.join('');
-    sd.classList.add('ready');
+    sd.innerHTML = lst.join("");
+    sd.classList.add("ready");
   }
-
 
   //get files element
   dd.ondragover = stop;
   dd.ondragleave = stop;
   document.ondrop = dragAccept;
   sd.onchange = changeVersion;
-  setTimeout(e => {
+  setTimeout((e) => {
     document.body.scrollTop = 0; // For Safari
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
   });
   if ($coverGen.item) {
-    buildVersions()
-    loadPage(pages)
+    buildVersions();
+    loadPage(pages);
     dd.innerText = $coverGen.filename;
   }
 }
 
 function loadPage(wrapper) {
-  wrapper.classList.remove('ready')
+  wrapper.classList.remove("ready");
   let item = $coverGen.item;
-  const version = $coverGen.version || '00';
-  item.sku = `${item.id}-${version}-${item.release}`
+  const version = $coverGen.version || "00";
+  item.sku = `${item.id}-${version}-${item.release}`;
   item.year = item.release.slice(0, 4);
   // version values override item values
   if (item.versions && item.versions[version]) {
     item = {
       ...item,
-      ...item.versions[version]
+      ...item.versions[version],
     };
   }
   const q = new URLSearchParams({
     id: item.id,
     release: item.release,
     version: version,
-    utm_source: 'sm',
-    utm_medium: 'qr',
+    utm_source: "sm",
+    utm_medium: "qr",
     utm_campaign: item.sku,
-  })
-  for (n of document.getElementsByClassName('qr-code')) {
-    n.innerHTML = '';
+  });
+  for (n of document.getElementsByClassName("qr-code")) {
+    n.innerHTML = "";
     new QRCode(n, {
       text: `https://www.maxjanowski.org/edition?${q.toString()}`,
       correctLevel: QRCode.CorrectLevel.M,
-      useSVG: true
+      useSVG: true,
     });
   }
-  Object.keys(item).forEach(k => {
+  Object.keys(item).forEach((k) => {
     const v = item[k];
     if (v) {
       for (n of document.getElementsByClassName(k)) {
-        if (['hebrew','translation','transliteration'].includes(k)) {
-          n.innerHTML = `<p>${v.replace("\n","</p><p>")}</p>`;
+        if (["hebrew", "translation", "transliteration"].includes(k)) {
+          n.innerHTML = `<p>${v.replace("\n", "</p><p>")}</p>`;
         } else {
           n.innerHTML = v;
         }
       }
     }
-  })
-  wrapper.classList.add('ready')
-  console.log(`SUCCESS: ${item.title}-${item.version}-${item.release} generated. hebrew=${item.hebrew? 'yes':'no'} translation=${item.translation? 'yes':'no'}`);
+  });
+  wrapper.classList.add("ready");
+  console.log(
+    `SUCCESS: ${item.title}-${item.version}-${item.release} generated. hebrew=${
+      item.hebrew ? "yes" : "no"
+    } translation=${item.translation ? "yes" : "no"}`
+  );
 }
