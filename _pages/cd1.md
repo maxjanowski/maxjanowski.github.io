@@ -26,7 +26,6 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
 </div>
 </div>
 
-
 <div class="button-wrapper image-buttons">
   <a href="/download/cd-janowski-vol-1-program-booklet.pdf" target="_blank">
     <span>Download<br />Program<br />Booklet</span>
@@ -34,8 +33,8 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
   <a href="/subscribe" target="_blank" >
     <span>Subscribe<br />to get<br />Updates</span>
   </a>
-  <a href="/contact?msg=cd1" title="Not yet available" >
-    <span>Buy Our CD<br/>[available soon]</span>
+  <a href="https://www.cantors.org/product/mjs-max-janowski-the-great-works-volume-1/" title="Not yet available" _target="_blank">
+    <span>Buy Our CD<br/>from the<br/>Cantors Assembly</span>
   </a>
 </div>
 
@@ -47,4 +46,3 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
 <a href="https://open.spotify.com/album/3TTkr1B6Gp4yPXwSxMNP4y" title="Listen on Spotify" target="_blank">Spotify<img src="/images/logo-spotify-50x50.jpg"/></a>
 <a href="https://www.pandora.com/artist/the-max-janowski-society/max-janowski-the-great-works-volume-1/ALm75Xkfp9J66p6" title="Listen on Pandora" target="_blank">Pandora<img src="/images/logo-pandora-50x50.jpg"/></a>
 </div>
-Note: Physical CDs (with printed program booklets) will be available soon.

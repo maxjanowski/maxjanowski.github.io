@@ -35,17 +35,17 @@ We are just getting started.
 
 # Latest Announcements!
 
-## [Max Janowski: The Great Works, Volume 1]({% link _pages/cd1.md %})
+## Performance Editions now available from the Cantors Assembly
 
-  Our [latest recording]({% link _pages/cd1.md %}) is available in digital formats. Download the program booklet, and purchase or stream the album. Physical CDs are coming soon.
+Visit the [Cantors Assembly online store](https://www.cantors.org/janowski/) to get our new editions of Max Janowski music.
 
-## [Music Editions for Chorus]({% link _pages/download.md %})
+## Max Janowski: The Great Works, Volume 1
 
-  Sheet music and chorus preparation tracks will soon be available for our initial release of [new editions]({% link _pages/download.md %}).
+Our [latest recording]({% link _pages/cd1.md %}) is available in digital formats. Download the program booklet, and purchase or stream the album. Physical CDs are available from the Cantors Assembly online store.
 
-## [Become a Platinum Sponsor Today]({% link _pages/platinum.md %})
+## Become a Platinum Sponsor Today
 
-  To help us create additional recordings and editions in the coming year,
-  and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Sponsor]({% link _pages/platinum.md %}).
+To help us create additional recordings and editions in the coming year,
+and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Sponsor]({% link _pages/platinum.md %}).
 
 </div>
