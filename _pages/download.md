@@ -2,8 +2,11 @@
 layout: default
 title: Download Sheet Music Editions
 permalink: /download
+sitemap: false
 ---
+
 <!-- markdownlint-disable html MD025 -->
+
 # Music Editions
 
 From the list below, you can see the compositions we have available for download.
@@ -19,13 +22,13 @@ If you want to hear when new editions become available, sign up for our [mailing
 For each of the Max Janowski compositions in our catalog, we have created
 performance packages that contain tools for your performers:
 
-* Sheet music in one or more keys.
-* Audio files of the piece for rehearsal preparation, including audio that highlights each choral part.
+- Sheet music in one or more keys.
+- Audio files of the piece for rehearsal preparation, including audio that highlights each choral part.
 
 Once you have downloaded the files, we encourage you to share them
 with your performers (you don't need to buy a copy for each person).
 
-If you'd like early access to the entire catalog containing ***all*** these
+If you'd like early access to the entire catalog containing **_all_** these
 editions, please become a [platinum sponsor]({% link _pages/platinum.md %})!
 
 ## Instructions
