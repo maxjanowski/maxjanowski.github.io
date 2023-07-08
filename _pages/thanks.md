@@ -10,9 +10,11 @@ We'd like to acknowledge the generous support of our current Platinum Sponsors. 
 
 ## Platinum Sponsors ($250+)
 
+- Carole Fefferman
 - Howard Gilbert
 - Alan Gingold
 - Jordan Goodman
+- Jim Harfield
 - Jonathan Miller
 - Brad Rubenstein
 - Elizabeth Skavish and Michael Rubenstein
