@@ -27,11 +27,21 @@ a:visited {
 }
 
 a:hover {
-  color: lighten($brand-color,20%);
+  color: lighten($brand-color, 20%);
 }
 // navbar customization
 .site-header {
   font-family: Roboto;
+
+  img {
+    display: inline-block;
+    width: 80px;
+    padding: 4px 0px;
+  }
+
+  .nobreak {
+    white-space: nowrap;
+  }
 
   .page-link {
     padding: 5px 10px;
@@ -63,10 +73,10 @@ a:hover {
   }
 }
 
-.donate  {
+.donate {
   form {
     display: inline-block;
-    margin-left: .25in;  
+    margin-left: 0.25in;
     vertical-align: top;
   }
 }

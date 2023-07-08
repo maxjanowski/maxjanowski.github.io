@@ -33,8 +33,8 @@ _Just released:_ Max Janowski, The Great Works, Volume 1.
   <a href="/subscribe" target="_blank" >
     <span>Subscribe<br />to get<br />Updates</span>
   </a>
-  <a href="https://www.cantors.org/product/mjs-max-janowski-the-great-works-volume-1/" title="Not yet available" _target="_blank">
-    <span>Buy Our CD<br/>from the<br/>Cantors Assembly</span>
+  <a href="https://www.cantors.org/product/mjs-max-janowski-the-great-works-volume-1/" target="_blank">
+    <span>Buy Our CD<br/>at the<br/>Cantors Assembly</span>
   </a>
 </div>
 

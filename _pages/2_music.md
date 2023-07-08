@@ -27,4 +27,6 @@ now available on digital platforms (Apple, Amazon, Spotify, Pandora).
 ## Our Music Catalog
 
 We are constantly adding new editions of Janowski compositions to our catalog.
-The current list can be found [in our online store at the Cantors Assembly](https://www.cantors.org/janowski/).
+
+<!-- prettier-ignore -->
+The current list can be found [in our online store at the Cantors Assembly](https://www.cantors.org/janowski/){:target="_blank"}.

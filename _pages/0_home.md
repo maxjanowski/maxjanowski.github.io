@@ -37,13 +37,16 @@ We are just getting started.
 
 ## Performance Editions now available from the Cantors Assembly
 
-Visit the [Cantors Assembly online store](https://www.cantors.org/janowski/) to get our new editions of Max Janowski music.
+<!-- prettier-ignore -->
+Visit the
+[Cantors Assembly online store](https://www.cantors.org/janowski/){:target="_blank"}
+to get our new editions of Max Janowski music.
 
-## Max Janowski: The Great Works, Volume 1
+## New recording now available on CD and streaming services
 
-Our [latest recording]({% link _pages/cd1.md %}) is available in digital formats. Download the program booklet, and purchase or stream the album. Physical CDs are available from the Cantors Assembly online store.
+Our latest recording, [Max Janowski: The Great Works, Volume 1]({% link _pages/cd1.md %}) is available in all formats. Download the program booklet, and purchase or stream the album. Physical CDs are available from the Cantors Assembly online store.
 
-## Become a Platinum Sponsor Today
+## Become a Platinum Sponsor today!
 
 To help us create additional recordings and editions in the coming year,
 and secure the legacy of Janowski's music, we invite you or your synagogue to become a [Platinum Sponsor]({% link _pages/platinum.md %}).
