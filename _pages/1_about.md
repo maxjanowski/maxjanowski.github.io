@@ -19,14 +19,14 @@ the general public about Janowski’s musical legacy; and to
 be the primary resource for information and discussion about
 Janowski’s scores, recordings and publications.
 
-Who makes the Max Janowski Society go? [We do]({% link _pages/people.md %}).
+Who We Are: [Board, Staff, Volunteers]({% link _pages/people.md %}).
 
 ## Contact Us
 
 The Max Janowski Society, NFP is a 501(c)3 non-profit
 organization, EIN: 86-1484593.
 
-```
+```text
 The Max Janowski Society
 2515 Waukegan Road #351
 Deerfield, IL 60015

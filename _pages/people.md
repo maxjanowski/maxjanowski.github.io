@@ -7,8 +7,10 @@ sitemap: false
 nav_parent: _pages/1_about.md
 nav_order: 1
 ---
+
 <!-- markdownlint-disable MD025 -->
-# People
+
+# Who We Are
 
 Our thanks to the many contributors who are helping us achieve our mission.
 
@@ -28,15 +30,21 @@ Our thanks to the many contributors who are helping us achieve our mission.
 
 ## Advisory Board
 
-- Jonathan Miller, President Emeritus
+_Affiliations are noted for identification purposes only._
+
+- Rachel Brook (Senior Cantor, Anshe Emet Synagogue)
+- Marcus Feldman (Senior Cantor, Sinai Temple)
+- Kurt Hansen (Professor of Music, Northwestern University)
+- Mati Lazar (Founder and Director, Zamir Choral Foundation)
+- Andrea Rae Markowicz (Senior Cantor, Am Shalom)
+- Jonathan Miller (President Emeritus, The Max Janowski Society)
+- Pavel Roytman (Cantor, Beth Hillel Bnai Emunah)
 
 ## Other Contributors
 
 - Holland & Knight, LLP
 - Rabbi Irwin Keller
 - Michael Mitzen
-- Gabrielle Pescador
-- Cantor Pavel Roytman
 - Josh Wiczer
 - Daniel Zarb-Cousin
 
