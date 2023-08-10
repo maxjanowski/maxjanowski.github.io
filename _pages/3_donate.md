@@ -18,19 +18,14 @@ and tradition.
 ## Donate Online
 
 <div class="donate" style="margin-bottom: .25in;">
-Click the button to donate by credit card or PayPal:
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="FG9GJQ9PBZ86U" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+{% include paypal-button.html %}
 </div>
 
 ## Donation by Check
 
 Checks can be mailed to us at:
 
-```
+```text
 The Max Janowski Society
 2515 Waukegan Road #351
 Deerfield, IL 60015
