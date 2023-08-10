@@ -39,7 +39,7 @@ We are just getting started.
 
 <!-- prettier-ignore -->
 Visit the
-[Cantors Assembly online store](https://www.cantors.org/janowski/){:target="_blank"}
+[Cantors Assembly online store]({% link _pages/store-redirect.md %}){:target="_blank"}
 to get our new editions of Max Janowski music.
 
 ## New recording now available on CD and streaming services
