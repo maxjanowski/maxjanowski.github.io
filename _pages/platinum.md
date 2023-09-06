@@ -28,5 +28,5 @@ We are pleased to share with our Platinum Sponsors:
 
 ## Platinum Sponsor Access Portal
 
-If you are already a platinum sponsor, you can access our catalog [here]({% link _pages/platinum-downloads-redirect.md %}){:target="\_blank"}. For any questions about finding or accessing scores,
+If you are already a platinum sponsor, you can access our catalog [here]({% link _pages/platinum-downloads-redirect.md %}){:target="\_blank"}. It is hosted on Google Drive, so you'll need a Google account if you don't already have one. For any questions about finding or accessing scores,
 [contact us]({% link _pages/5_contact.md %}).
