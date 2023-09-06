@@ -10,6 +10,7 @@ We'd like to acknowledge the generous support of our current Platinum Sponsors. 
 
 ## Platinum Sponsors ($250+)
 
+- Cantor Ida Rae Cahana, Congregation Beth Israel, Portland, OR
 - Carole Fefferman
 - Howard Gilbert
 - Alan Gingold
@@ -19,7 +20,7 @@ We'd like to acknowledge the generous support of our current Platinum Sponsors. 
 - Brad Rubenstein
 - Elizabeth Skavish and Michael Rubenstein
 - Rochelle Rubenstein
-- Cantor Steve Stoehr, Congregation Beth Shalom
+- Cantor Steve Stoehr, Congregation Beth Shalom, Northbrook, IL
 - Bernadette Winter
 - Cantor Cory Winter
 - Zamir Choral Foundation
