@@ -2,7 +2,9 @@
 title: Edition Landing Page
 permalink: /edition
 layout: default
+sitemap: false
 ---
+
 <!-- markdownlint-disable html -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.js" defer></script>
 <script src="https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.min.js" defer></script>
@@ -18,7 +20,7 @@ files for preparing the music for performance. You'll need a Google Account.
 
 1. Click the Download button below to head over to our Google Drive.
 1. Log in to Google using your email address (if you're not already logged in).
-1. You may need to "Request Permission".  If so, you'll get an email with a download link.
+1. You may need to "Request Permission". If so, you'll get an email with a download link.
 1. Download the set of files by pressing Google's download button:
    <img class="download-button" src="/images/download-button.png"/>
 
