@@ -109,23 +109,28 @@ img.download-button {
 }
 
 .break-after {
-  break-after: always;
+  page-break-after: always;
+  break-after: page;
 }
 
 .print-page {
   font-size: 24px;
-  width: 8.5in;
-  height: 11in;
   padding: 0.375in;
+  width: 7.75in; // subtract margin*2
+  height: 10.25in; // subtract margin*2
+  overflow: hidden;
 }
 
 .cover-page {
-  box-sizing: border-box;
-  font-family: 'Noto Serif';
+  font-family: "Times New Roman", "Noto Serif", "Noto Music";
   display: flex;
   flex-flow: column nowrap;
   justify-content: space-between;
   align-items: center;
+
+  span.accidental {
+    vertical-align: super;
+  }
 
   .head {
     font-size: 90%;
@@ -146,6 +151,13 @@ img.download-button {
     text-align: center;
   }
 
+  .blurb {
+    font-size: 85%;
+    font-style: italic;
+    text-align: left;
+    padding: 2em 3em 0 3em;
+  }
+
   .author {
     font-size: 180%;
     text-align: center;
@@ -158,8 +170,8 @@ img.download-button {
 
   .page-break {
     width: 50%;
+    margin-top: auto;
     display: block;
-    padding-top: 5em;
   }
 
   .texts {
@@ -192,7 +204,7 @@ img.download-button {
     display: none; // hide for now
     width: 100%;
     p {
-      font-size: .6em;
+      font-size: 0.6em;
     }
   }
 
@@ -206,7 +218,7 @@ img.download-button {
       font-style: italic;
       margin-left: 0;
       p {
-        font-size: .65em;
+        font-size: 0.65em;
         font-style: italic;
         text-align: left;
         margin: 0;
@@ -214,8 +226,8 @@ img.download-button {
     }
   }
 
-
   .footer {
+    margin-top: 1em;
     width: 100%;
     display: flex;
     flex-flow: row;
@@ -233,4 +245,8 @@ img.download-button {
       width: 3.6em;
     }
   }
+}
+
+@page {
+  size: letter;
 }

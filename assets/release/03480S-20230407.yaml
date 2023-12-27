@@ -1,24 +1,28 @@
 ---
-id: 03480
+id: "03480"
 priceCode: S
-release: '20230407'
+ca_batch_id: B20231101
+release: "20230407"
 title: Shabbat Hamalka
 version: for Solo, Congregation (Unison), and Piano
 author: Music by Max Janowski<br/>Lyrics by Chayim Bialik
 edited: edited by Cantor Cory Winter and Jordan Goodman
 dedication: Dedicated to my friend, Louise Groffman.
 versions:
-  '00':
-    version: for Solo, Congregation (Unison), and Piano (D-flat Major)
-  '01':
+  "00":
+    version: for Solo, Congregational Unison, and Piano (D-flat Major)
+  "01":
     version: for 2 voices and Piano (D-flat Major)
-  '02':
+  "02":
     version: for 2 voices and Piano (E-flat Major)
 features:
-- Sheet music (PDF format) for you to share with your performers.
-- A synthesized audio file of the piece, to aid rehearsal preparation.
-recording_track: 'Max Janowski: The Great Works, Volume 1/06 Shabbat Hamalkah.mp3'
-hebrew: ' הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה -<br/> בּוֹאוּ וְנֵצֵא לִקְרַאת
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - Versions for congregational unison and for duet, in D-flat and E-flat
+recording_track: "Max Janowski: The Great Works, Volume 1/06 Shabbat Hamalkah.mp3"
+blurb: "This duet for two low voices and keyboard is an intimate setting of the Bialik poem that conjures up the atmosphere of peacefully arriving home to celebrate Shabbat. A simple and effective composition, in a major key."
+hebrew:
+  " הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה -<br/> בּוֹאוּ וְנֵצֵא לִקְרַאת
   שַׁבָּת הַמַּלְכָּה.<br/> הִנֵה הִיא יוֹרֶדֶת הַקְּדוֹשָׁה, הַבְּרוּכָה,<br/> וְעִמָּהּ
   מַלְאָכִים צְבָא שָׁלוֹם וּמְנוּחָה.<br/> בּוֹאִי, בּוֹאִי, הַמַּלְכָּה!<br/> שָׁלוֹם
   עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁלוֹם!<br/><br/> קִבַּלְנוּ פְּנֵי שַׁבָּת בִּרְנָנָה וּתְפִלָּה,<br/>
@@ -26,9 +30,10 @@ hebrew: ' הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּ�
   יָאִירוּ,<br/> כָּל-פִּנוֹת הַבַּיִת יִזְרָחוּ, יַזְהִירוּ.<br/> שַׁבַּת שָׁלוֹם
   וּמְבֹרָךְ!<br/> בּוֹאֲכֶם לְשָׁלוֹם מַלְאֲכֵי הַשָּׁלוֹם!
 
-  '
+  "
 sefaria_url: https://www.sefaria.org/sheets/216623
-transliteration: ' <span style="font-size: 96%">Ha-cham-mah me-rosh ha-’i-la-not nis-tal-le-kah -<br/> <strong>bo</strong>-’u
+transliteration:
+  ' <span style="font-size: 96%">Ha-cham-mah me-rosh ha-’i-la-not nis-tal-le-kah -<br/> <strong>bo</strong>-’u
   ve-ne-tze lik-rat shab-bat ham-mal-kah.<br/> hi-neh hi yo-<strong>re</strong>-det
   hak-ke-do-shah, hab-be-ru-chah,<br/> ve-’im-mah mal-’a-chim tze-va sha-lom u-me-nu-chah.<br/>
   bo-’i, bo-’i, ham-mal-kah!<br/> sha-lom a-lei-chem, mal-’a-chei ha-sha-lom!<br/><br/>
@@ -38,12 +43,14 @@ transliteration: ' <span style="font-size: 96%">Ha-cham-mah me-rosh ha-’i-la-n
   shab-bat sha-lom u-me-vo-rach!<br/> bo-’a-chem le-sha-lom mal-’a-chei ha-sha-lom!</span>
 
   '
-translation: '
-The sun over the treetops has departed, / Come, let us welcome the Sabbath Queen! / Behold! She is approaching, 
-holy and blessed, / and with her, a host of angels bringing peace and 
-rest. / Come, O Queen! / Peace unto you, you angels of peace! <br/><br/> We have welcomed Shabbat with song and prayer. /
-We return to our houses with hearts filled with joy. / The tables are set, the candles are lit. / Every corner of the 
-house is aglow. / Sabbath peace and blessing! / Come in peace, you angels of peace!
-'
-translation_credit: Translation by Cantor Cory Winter for the Max Janowski Society. Transliteration
+translation:
+  "The sun over the treetops has departed, / Come, let us welcome the Sabbath Queen! / Behold! She is approaching,
+  holy and blessed, / and with her, a host of angels bringing peace and
+  rest. / Come, O Queen! / Peace unto you, you angels of peace!
+
+  We have welcomed Shabbat with song and prayer. /
+  We return to our houses with hearts filled with joy. / The tables are set, the candles are lit. / Every corner of the
+  house is aglow. / Sabbath peace and blessing! / Come in peace, you angels of peace!"
+translation_credit:
+  Translation by Cantor Cory Winter for the Max Janowski Society. Transliteration
   courtesy of www.alittlehebrew.com.

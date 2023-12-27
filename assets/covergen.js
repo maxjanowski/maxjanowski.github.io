@@ -2,7 +2,9 @@ var $coverGen = {};
 
 function coverGenInit() {
   return initItemFromQueryParms().then((item) => {
-    document.title = `${item.id}-${item.release}-cover`;
+    release = item.versions[$coverGen.version].release || item.release;
+    $coverGen.sku = `${item.id}-${$coverGen.version}-${release}`;
+    document.title = `${$coverGen.sku}-cover`;
 
     initDragDrop();
     console.log("init complete");
@@ -157,8 +159,6 @@ function loadPage(wrapper) {
   wrapper.classList.remove("ready");
   let item = $coverGen.item;
   const version = $coverGen.version || "00";
-  item.sku = `${item.id}-${version}-${item.release}`;
-  item.year = item.release.slice(0, 4);
   // version values override item values
   if (item.versions && item.versions[version]) {
     item = {
@@ -166,10 +166,11 @@ function loadPage(wrapper) {
       ...item.versions[version],
     };
   }
+  item.sku = `${item.id}-${version}-${item.release}`;
+  item.year = item.release.slice(0, 4);
   const q = new URLSearchParams({
     id: item.id,
-    release: item.release,
-    version: version,
+    productRelease: item.productRelease,
     utm_source: "sm",
     utm_medium: "qr",
     utm_campaign: item.sku,
@@ -183,9 +184,10 @@ function loadPage(wrapper) {
     });
   }
   Object.keys(item).forEach((k) => {
-    const v = item[k];
+    let v = item[k];
     if (v) {
       for (n of document.getElementsByClassName(k)) {
+        v = v.replace(/([A-G])([♭♯♮])/, '$1<span class="accidental">$2</span>'); // mark accidentals
         if (["hebrew", "translation", "transliteration"].includes(k)) {
           n.innerHTML = `<p>${v.replace("\n", "</p><p>")}</p>`;
         } else {

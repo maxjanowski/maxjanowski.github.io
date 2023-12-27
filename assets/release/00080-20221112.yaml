@@ -1,34 +1,39 @@
 ---
 id: 00080
-release: '20221112'
+release: "20221112"
+ca_batch_id: B202308
 title: Hal’luyah
 version: for Solo, SSAATTBB Choir, and Piano
-blurb: Psalm 150
+blurb: This setting of Hal'luyah from Psalm 150 for solo and chorus and is a true showpiece. It begins in A minor and concludes in brilliant A major ending.
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 dedication: Dedicated to Karen and Mortin Levy in friendship.
-recording_track: 'Max Janowski: The Great Works, Volume 1/01 Halʼluyah.mp3'
+recording_track: "Max Janowski: The Great Works, Volume 1/01 Halʼluyah.mp3"
 features:
-- Sheet music (PDF format) for you to share with your performers.
-- A synthesized audio file of the piece, to aid rehearsal preparation.
-- Additional synthesized audio files highlighting each choral part.
-hebrew: ' <br/>הַ֥לְלוּ־יָ֨הּ ׀ הַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - Additional synthesized audio files highlighting each choral part.
+hebrew:
+  " <br/>הַ֥לְלוּ־יָ֨הּ ׀ הַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃
   הַלְל֥וּהוּ בִגְבוּרֹתָ֑יו הַ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃<br/> הַ֭לְלוּהוּ בְּתֵ֣קַע
   שׁוֹפָ֑ר הַ֝לְל֗וּהוּ בְּנֵ֣בֶל וְכִנּֽוֹר׃ הַ֭לְלוּהוּ בְּתֹ֣ף וּמָח֑וֹל הַֽ֝לְל֗וּהוּ
   בְּמִנִּ֥ים וְעֻגָֽב׃ <br/>הַלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע הַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י
-  תְרוּעָֽה׃ כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃ '
+  תְרוּעָֽה׃ כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃ "
 sefaria_url: https://www.sefaria.org/Psalms.150
-transliteration: ' <strong>Hal</strong>-lu-yah  <br/><strong>Hal</strong>-lu-el be-kod-sho
+transliteration:
+  " <strong>Hal</strong>-lu-yah  <br/><strong>Hal</strong>-lu-el be-kod-sho
   <br/>Hal-<strong>lu</strong>-hu bir-<strong>ki</strong>-a’ uz-zo. <br/>Hal-<strong>lu</strong>-hu
   vig-vu-ro-tav <br/>Hal-<strong>lu</strong>-hu ke-rov gud-lo. <br/>Hal-lu-hu be-<strong>te</strong>-ka
   sho-far <br/>Hal-<strong>lu</strong>-hu be-<strong>ne</strong>-vel ve-chin-nor. <br/>Hal-lu-hu
   be-tof u-ma-chol <br/>Hal-<strong>lu</strong>-hu be-min-nim ve-’u-gav. <br/>Hal-<strong>lu</strong>-hu
   ve-tzil-tze-lei-<strong>sha</strong>-ma <br/>Hal-<strong>lu</strong>-hu be-tzil-tze-lei
-  te-ru-’ah. <br/>Kol han-ne-sha-mah te-hal-lel yah <br/><strong>Hal</strong>-lu-yah. '
-translation: ' Hallelujah. Praise God in His sanctuary; praise Him in the sky, His
+  te-ru-’ah. <br/>Kol han-ne-sha-mah te-hal-lel yah <br/><strong>Hal</strong>-lu-yah. "
+translation:
+  " Hallelujah. Praise God in His sanctuary; praise Him in the sky, His
   stronghold. Praise Him for His mighty acts; praise Him for His exceeding greatness.
   Praise Him with blasts of the horn; praise Him with harp and lyre. Praise Him with
   timbrel and dance; praise Him with lute and pipe. Praise Him with resounding cymbals;
-  praise Him with loud-clashing cymbals. Let all that breathes praise the LORD. Hallelujah. '
-translation_credit: 'Translation from Tanakh: The Holy Scriptures, published by JPS
-  (CC-BY-NC) at www.sefaria.org. <br/>Transliteration courtesy of www.alittlehebrew.com.'
+  praise Him with loud-clashing cymbals. Let all that breathes praise the LORD. Hallelujah. "
+translation_credit:
+  "Translation from Tanakh: The Holy Scriptures, published by JPS
+  (CC-BY-NC) at www.sefaria.org. <br/>Transliteration courtesy of www.alittlehebrew.com."

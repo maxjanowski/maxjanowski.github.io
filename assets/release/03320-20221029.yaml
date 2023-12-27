@@ -1,11 +1,12 @@
 ---
 id: "03320"
-release: "20221029"
+productRelease: "20230801"
+originalRelease: "20230801"
 title: Al Hanisim
-version: for Solo, Unison Choir, and Piano
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
-keywords: Chanukah
+keywords: Hanukkah, Chanukah
+blurb: A different take on a well-known Hanukkah prayer. It is easy to sing, with an engaging congregational melody that has a Chasidic feeling.
 features:
   - Sheet music (PDF format) for you to share with your performers.
   - A synthesized audio file of the piece, to aid rehearsal preparation.
@@ -15,17 +16,17 @@ features:
 recording_track: "Max Janowski: The Great Works, Volume 1/09 Al Hanisim.mp3"
 versions:
   "00":
-    version: for Solo, Congregation, and Piano
-    blurb: In F Minor
+    release: "20221029"
+    version: for Solo, Congregation, and Piano (in F Minor)
   "01":
-    version: for Solo, SATB Choir, and Piano
-    blurb: In A Minor
+    release: "20221029"
+    version: for Solo, SATB Choir, and Piano (in A Minor)
   "02":
-    version: for Solo, SATB Choir, and Piano
-    blurb: In F Minor
+    release: "20221029"
+    version: for Solo, SATB Choir, and Piano (in F Minor)
   "03":
-    version: for Solo, SATB Choir, and Piano
-    blurb: In G Minor
+    release: "20221029"
+    version: for Solo, SATB Choir, and Piano (in G Minor)
 hebrew:
   "עַל הַנִּסִּים וְעַל הַפֻּרְקָן וְעַל הַגְּ֒בוּרוֹת וְעַל הַתְּ֒שׁוּעוֹת
   וְעַל הַמִּלְחָמוֹת שֶׁעָשִֽׂיתָ לַאֲבוֹתֵֽינוּ בַּיָּמִים הָהֵם בִּזְּ֒מַן הַזֶּה:

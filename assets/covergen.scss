@@ -1,5 +1,6 @@
 ---
 ---
+
 #pageselect {
   border-bottom: 2px dashed blue;
   padding: 3em;
@@ -11,11 +12,11 @@
   }
 
   #dragdrop {
-    margin: .25in;
-    padding: .25in;
+    margin: 0.25in;
+    padding: 0.25in;
     display: inline-block;
     width: 2in;
-    height: .5in;
+    height: 0.5in;
     background: #844;
     color: white;
     font-weight: bold;
@@ -49,10 +50,6 @@
 }
 
 @media print {
-  @page { 
-    margin: 0;
-    size: 8.5in 11in;
-  }
   #pageselect {
     display: none !important;
   }
