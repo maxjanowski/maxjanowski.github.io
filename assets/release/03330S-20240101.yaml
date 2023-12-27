@@ -1,0 +1,30 @@
+---
+id: "03330"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+status: in progress (missing text and translations)
+title: Mʼzogt Es Iz a Land Do
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: A poem by the great Hebrew poet, Shaul Tchernichovksy, set to a simple, moving melody.
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    release: "20231205"
+    version: for Solo and Piano (in B♭ Major)
+  "01":
+    release: "20231205"
+    version: for Solo and Piano (in A♭ Major)
+  "02":
+    release: "20231205"
+    version: for Solo and Piano (in F Major)
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:

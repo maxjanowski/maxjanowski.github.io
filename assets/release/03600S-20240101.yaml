@@ -1,0 +1,24 @@
+---
+id: "03600"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+status: in progress (missing text and translations)
+title: Es Brent
+author: arr. Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: "This song was written by Mordechai Gebirtig in 1937. It is one of his best-known compositions, for which Janowski has created a powerful arrangement."
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "02":
+    release: "20231208"
+    version: for Solo and Piano (in A Minor)
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:

@@ -1,0 +1,33 @@
+---
+id: "03670"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+status: in progress (missing text and translations)
+title: Two Psalms of Comfort and Consolation
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: 
+  Two beautiful compositions — Adonai Roi is a setting of Psalm 23, “The Lord is my shepherd.”
+  Its pastoral music complements the text. This folio includes arrangements for
+  use with or without piano accompaniment. 
+  The second selection, Esa Eynai, is a setting of Psalm 121, “I will lift my eyes.” 
+  By contrast, it is composed in a more stately, “maestoso” style.
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    release: "20231223"
+    version: for High or Medium Voice and Piano (in A♭ Major)
+  "01":
+    release: "20231223"
+    version: for Low or Medium Voice and Piano (in F Major)
+
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:

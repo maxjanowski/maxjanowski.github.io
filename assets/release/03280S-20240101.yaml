@@ -1,0 +1,55 @@
+---
+id: 03280
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+title: Nachamu, Nachamu Ami
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: "From the haftarah for Vaʼetchanan: Take comfort, my people."
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - Additional synthesized audio files highlighting each choral part.
+versions:
+  "01":
+    release: "20231207"
+    version: Duet for High and Medium Voice and Piano (in C Minor)
+hebrew:
+  "נַחֲמ֥וּ נַחֲמ֖וּ עַמִּ֑י יֹאמַ֖ר אֱלֹֽהֵיכֶֽם׃ דַּבְּר֞וּ עַל־לֵ֤ב יְרוּשָׁלַ֙͏ִם֙
+  וְקִרְא֣וּ אֵלֶ֔יהָ כִּ֤י מָֽלְאָה֙ צְבָאָ֔הּ כִּ֥י נִרְצָ֖ה עֲוֺנָ֑הּ כִּ֤י לָֽקְחָה֙
+  מִיַּ֣ד יְהֹוָ֔ה כִּפְלַ֖יִם בְּכׇל־חַטֹּאתֶֽיהָ׃ ק֣וֹל קוֹרֵ֔א בַּמִּדְבָּ֕ר
+  פַּנּ֖וּ דֶּ֣רֶךְ יְהֹוָ֑ה יַשְּׁרוּ֙ בָּעֲרָבָ֔ה מְסִלָּ֖ה לֵאלֹהֵֽינוּ׃ כׇּל־גֶּיא֙
+  יִנָּשֵׂ֔א וְכׇל־הַ֥ר וְגִבְעָ֖ה יִשְׁפָּ֑לוּ וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישׁ֔וֹר וְהָרְכָסִ֖ים
+  לְבִקְעָֽה׃ וְנִגְלָ֖ה כְּב֣וֹד יְהֹוָ֑ה וְרָא֤וּ כׇל־בָּשָׂר֙ יַחְדָּ֔ו כִּ֛י פִּ֥י
+  יְהֹוָ֖ה דִּבֵּֽר׃ <br/><br/> עַ֣ל הַר־גָּבֹ֤הַּ עֲלִי־לָךְ֙ מְבַשֶּׂ֣רֶת צִיּ֔וֹן
+  הָרִ֤ימִי בַכֹּ֙חַ֙ קוֹלֵ֔ךְ מְבַשֶּׂ֖רֶת יְרוּשָׁלָ֑͏ִם הָרִ֙ימִי֙ אַל־תִּירָ֔אִי
+  אִמְרִי֙ לְעָרֵ֣י יְהוּדָ֔ה הִנֵּ֖ה אֱלֹהֵיכֶֽם׃ "
+sefaria_url: https://www.sefaria.org/Isaiah.40.1
+transliteration:
+  "Na-cha-mu na-cha-mu am-mi yo-mar e-lo-hei-chem. Dab-be-ru al-lev
+  ye-ru-sha-la͏im ve-kir-’u e-<strong>lei</strong>-ha ki ma-le-’ah tze-va-’ah ki nir-tzah
+  a-vo-nah ki la-ke-chah miy-yad A-do-nai kif-<strong>la</strong>-yim be-chol-chat-to-<strong>tei</strong>-ha.
+  Kol ko-re bam-mid-bar pan-nu <strong>de</strong>-rech A-do-nai ya-she-ru ba-’a-ra-vah
+  me-sil-lah le-lo-<strong>hei</strong>-nu. Kol-gei yin-na-se ve-chol-har ve-giv-’ah
+  yish-<strong>pa</strong>-lu ve-ha-yah he-’a-kov le-mi-shor ve-ha-re-cha-sim le-vik-’ah.
+  Ve-nig-lah ke-vod A-do-nai ve-ra-’u chol-ba-sar yach-dav ki pi A-do-nai dib-ber.
+  <br/><br/> Al har-ga-<strong>vo</strong>-ah a-li-lach me-vas-<strong>se</strong>-ret
+  tziy-yon ha-<strong>ri</strong>-mi vak-<strong>ko</strong>-ach ko-lech me-vas-<strong>se</strong>-ret
+  ye-ru-sha-la͏im ha-<strong>ri</strong>-mi al-ti-<strong>ra</strong>-’i im-ri le-’a-rei
+  ye-hu-dah hin-neh e-lo-hei-chem. "
+translation:
+  " Comfort, oh comfort My people, Says your God. Speak tenderly to Jerusalem,
+  And declare to her That her term of service is over, That her iniquity is expiated;
+  For she has received at the hand of the LORD Double for all her sins. A voice rings
+  out: “Clear in the desert A road for the LORD! Level in the wilderness A highway
+  for our God! Let every valley be raised, Every hill and mount made low. Let the
+  rugged ground become level And the ridges become a plain. The Presence of the LORD
+  shall appear, And all flesh, as one, shall behold— For the LORD Himself has spoken.”
+  <br/><br/> Ascend a lofty mountain, O herald of joy to Zion; Raise your voice with
+  power, O herald of joy to Jerusalem — Raise it, have no fear; Announce to the cities
+  of Judah: Behold your God! "
+translation_credit:
+  "Translation from Tanakh: The Holy Scriptures, published by JPS
+  (CC-BY-NC) at www.sefaria.org. Transliteration courtesy of www.alittlehebrew.com."

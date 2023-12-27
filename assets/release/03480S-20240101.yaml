@@ -1,0 +1,63 @@
+---
+id: "03480"
+productRelease: "20240101"
+originalRelease: "20230407"
+releaseNotes: change page from choral to solo pricing
+priceCode: S
+title: Shabbat Hamalka
+author: Music by Max Janowski<br/>Lyrics by Chayim Bialik
+edited: edited by Cantor Cory Winter and Jordan Goodman
+dedication: Dedicated to my friend, Louise Groffman.
+versions:
+  "00":
+    release: "20230407"
+    version: for Solo, Congregational Unison, and Piano (D♭ Major)
+  "01":
+    release: "20230407"
+    version: for 2 voices and Piano (D♭ Major)
+  "02":
+    release: "20230407"
+    version: for 2 voices and Piano (E♭ Major)
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+  - Versions for congregational unison and for duet, in D♭ and E♭
+recording_track: "Max Janowski: The Great Works, Volume 1/06 Shabbat Hamalkah.mp3"
+blurb: 
+  This duet for two low voices and keyboard is an intimate setting
+  of the Bialik poem that conjures up the atmosphere of peacefully
+  arriving home to celebrate Shabbat. A simple and effective composition, 
+  in a major key.
+hebrew:
+  " הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה -<br/> בּוֹאוּ וְנֵצֵא לִקְרַאת
+  שַׁבָּת הַמַּלְכָּה.<br/> הִנֵה הִיא יוֹרֶדֶת הַקְּדוֹשָׁה, הַבְּרוּכָה,<br/> וְעִמָּהּ
+  מַלְאָכִים צְבָא שָׁלוֹם וּמְנוּחָה.<br/> בּוֹאִי, בּוֹאִי, הַמַּלְכָּה!<br/> שָׁלוֹם
+  עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁלוֹם!<br/><br/> קִבַּלְנוּ פְּנֵי שַׁבָּת בִּרְנָנָה וּתְפִלָּה,<br/>
+  הַבַּיְתָה נָשׁוּבָה, בְּלֵב מָלֵא גִּילָה.<br/> שָׁם עֲרוּךְ הַשֻׁלְחָן, הַנֵּרוֹת
+  יָאִירוּ,<br/> כָּל-פִּנוֹת הַבַּיִת יִזְרָחוּ, יַזְהִירוּ.<br/> שַׁבַּת שָׁלוֹם
+  וּמְבֹרָךְ!<br/> בּוֹאֲכֶם לְשָׁלוֹם מַלְאֲכֵי הַשָּׁלוֹם!
+
+  "
+sefaria_url: https://www.sefaria.org/sheets/216623
+transliteration:
+  ' <span style="font-size: 96%">Ha-cham-mah me-rosh ha-’i-la-not nis-tal-le-kah -<br/> <strong>bo</strong>-’u
+  ve-ne-tze lik-rat shab-bat ham-mal-kah.<br/> hi-neh hi yo-<strong>re</strong>-det
+  hak-ke-do-shah, hab-be-ru-chah,<br/> ve-’im-mah mal-’a-chim tze-va sha-lom u-me-nu-chah.<br/>
+  bo-’i, bo-’i, ham-mal-kah!<br/> sha-lom a-lei-chem, mal-’a-chei ha-sha-lom!<br/><br/>
+  Kib-<strong>bal</strong>-nu pe-nei shab-bat bir-na-nah u-te-fil-lah,<br/> hab-<strong>bay</strong>-tah
+  na-shu-vah, be-lev ma-le gi-lah.<br/> sham a-ruch ha-shul-chan, han-ne-rot ya-<strong>’i</strong>-ru,<br/>
+  kol-pi-not hab-<strong>ba</strong>-yit yiz-<strong>ra</strong>-chu, yaz-<strong>hi</strong>-ru.<br/>
+  shab-bat sha-lom u-me-vo-rach!<br/> bo-’a-chem le-sha-lom mal-’a-chei ha-sha-lom!</span>
+
+  '
+translation:
+  "The sun over the treetops has departed, / Come, let us welcome the Sabbath Queen! / Behold! She is approaching,
+  holy and blessed, / and with her, a host of angels bringing peace and
+  rest. / Come, O Queen! / Peace unto you, you angels of peace!
+
+  We have welcomed Shabbat with song and prayer. /
+  We return to our houses with hearts filled with joy. / The tables are set, the candles are lit. / Every corner of the
+  house is aglow. / Sabbath peace and blessing! / Come in peace, you angels of peace!"
+translation_credit:
+  Translation by Cantor Cory Winter for the Max Janowski Society. Transliteration
+  courtesy of www.alittlehebrew.com.

@@ -1,0 +1,30 @@
+---
+id: "03170"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+status: in progress (missing text and translations)
+title: Lʼchu Nʼranʼna
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "01":
+    release: "20231207"
+    version: for Solo and Piano (in G Minor)
+  "02":
+    release: "20231207"
+    version: for Solo and Piano (in A Minor)
+  "03":
+    release: "20231207"
+    version: for Solo and Piano (in E Minor)
+blurb: "This setting of Psalm 95 has a lovely melody that may be performed with or without the piano accompaniment."
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:

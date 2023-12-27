@@ -1,0 +1,30 @@
+---
+id: "03660"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+status: in progress (missing text and translations)
+title: Tʼfilah Lishʼlom Mʼdinat Yisraeyl
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+# https://www.timesofisrael.com/mystery-over-who-wrote-the-prayer-for-the-state-of-israel-is-finally-solved/
+blurb: 
+  This prayer for peace for the state of Israel 
+  was originally written in 1948 by Rabbi Isaac Halevi Herzog, 
+  Israelʼs first chief Ashkenazi Rabbi, and edited by S.Y. Agnon.  
+  In its sensitive musical setting, Janowski includes quotes from 
+  Hatikvah, the Israeli national anthem.
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    release: "20231211"
+    version: for Solo and Piano (in G Minor)
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:

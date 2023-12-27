@@ -1,0 +1,43 @@
+---
+id: "03590"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+title: Two Short Meditations
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb:
+  Two short meditations, Yih'yu L'ratson and Oseh Shalom, are arranged for medium
+  or high voice with keyboard accompaniment, and can be used to conclude the silent
+  Amida at any service. Both are on the contemplative side.
+keywords: Amidah
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+versions:
+  "00":
+    version: for Solo and Piano (in F minor)
+    release: '20231205'
+hebrew:
+  " יִ֥הְיֽוּ־לְרָצ֨וֹן אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ יְ֝הֹוָ֗ה
+  צוּרִ֥י וְגֹאֲלִֽי׃
+
+  עֹשֶׂ֥ה שָׁלוֹם בִּמְרוֹמָיו, הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ וְעַל כָּל יִשְׂרָאַל
+  וְאִמְרוּ, אָמֵן:"
+sefaria_url: https://www.sefaria.org/Psalms.19.15, https://www.sefaria.org/Siddur_Ashkenaz%252C_Kaddish%252C_Kaddish_d%27Rabbanan.14
+
+transliteration:
+  " <strong>Yih</strong>-yu-le-ra-tzon im-rei-fi ve-heg-yon lib-bi
+  le-fa-<strong>nei</strong>-cha A-do-nai tzu-ri ve-go-’a-li.
+
+  O-seh sha-lom bim-ro-mav,
+  hu ya-’a-seh sha-lom a-lei-nu ve-’al kol yis-ra-’al ve-’im-ru, a-men:"
+translation: "
+  May the words of my mouth, and the meditations of my heart be acceptable to you, Lord, my rock and my redeemer. (Psalm 19:15)
+
+  He who makes the peace in the heavens, may He make peace for us and or all Yisrael, and let us say, Amen. (Kaddish)
+  "
+translation_credit:
+  "Translation from Tanakh: The Holy Scriptures, published by JPS
+  (CC-BY-NC) at www.sefaria.org. <br/>Transliteration courtesy of www.alittlehebrew.com."

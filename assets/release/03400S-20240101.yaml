@@ -1,0 +1,61 @@
+---
+id: "03400"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+title: Hashkiveinu
+ca_batch_id: B20231101
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: This is one of Janowskiʼs finest cantorial pieces, and can be sung with keyboard accompaniment or a cappella.
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio file of the piece, to aid rehearsal preparation.
+  - Arranged using the traditional text in F Minor and D Minor.
+  - Arranged for the Reform liturgy of Mishkan Tʼfilah in F Minor.
+versions:
+  "04":
+    release: "20231211"
+    version: for Solo and Piano (Traditional Text, in F Minor)
+  "07":
+    release: "20231211"
+    version: for Solo and Piano (for Mishkan Tʼfilah, in F Minor)
+hebrew:
+  "הַשְׁכִּיבֵֽנוּ יְהֹוָה אֱלֹהֵֽינוּ לְשָׁלוֹם וְהַעֲמִידֵֽנוּ מַלְכֵּֽנוּ
+  לְחַיִּים וּפְרוֹשׂ עָלֵֽינוּ סֻכַּת שְׁלוֹמֶֽךָ וְתַקְּ֒נֵֽנוּ בְּעֵצָה טוֹבָה
+  מִלְּ֒פָנֶֽיךָ וְהוֹשִׁיעֵֽנוּ לְמַֽעַן שְׁמֶֽךָ וְהָגֵן בַּעֲדֵֽנוּ וְהָסֵר מֵעָלֵֽינוּ
+  אוֹיֵב דֶּֽבֶר וְחֶֽרֶב וְרָעָב וְיָגוֹן וְהָסֵר שָׂטָן מִלְּ֒פָנֵֽינוּ וּמֵאַחֲרֵֽינוּ
+  וּבְצֵל כְּנָפֶֽיךָ תַּסְתִּירֵֽנוּ כִּי אֵל שׁוֹמְ֒רֵֽנוּ וּמַצִּילֵֽנוּ אָֽתָּה
+  כִּי אֵל מֶֽלֶךְ חַנּוּן וְרַחוּם אָֽתָּה וּשְׁמוֹר צֵאתֵֽנוּ וּבוֹאֵֽנוּ לְחַיִּים
+  וּלְשָׁלוֹם מֵעַתָּה וְעַד עוֹלָם: בָּרוּךְ אַתָּה יְהֹוָה הַפּוֹרֵס סֻכַּת שָׁלוֹם
+  עָלֵינוּ וְעַל כָּל עַמוֹ יִשְׂרָאֵל וְעַל יְרוּשלָיִם: "
+sefaria_url: https://www.sefaria.org/Siddur_Ashkenaz%2C_Weekday%2C_Maariv%2C_Blessings_of_the_Shema%2C_Second_Blessing_after_Shema.2
+transliteration:
+  "Hash-ki-<strong>ve</strong>-nu A-do-nai e-lo-<strong>hei</strong>-nu
+  le-sha-lom ve-ha-’a-mi-<strong>de</strong>-nu mal-<strong>ke</strong>-nu le-chay-yim
+  u-fe-ros a-<strong>lei</strong>-nu suk-kat she-lo-<strong>me</strong>-cha ve-tak-ke-<strong>ne</strong>-nu
+  be-’e-tzah to-vah mil-le-fa-<strong>nei</strong>-cha ve-ho-shi-<strong>’e</strong>-nu
+  le-<strong>ma</strong>-’an she-<strong>me</strong>-cha ve-ha-gen ba-’a-<strong>de</strong>-nu
+  ve-ha-ser me-’a-<strong>lei</strong>-nu o-yev <strong>de</strong>-ver ve-<strong>che</strong>-rev
+  ve-ra-’av ve-ya-gon ve-ha-ser sa-tan mil-le-fa-<strong>nei</strong>-nu u-me-’a-cha-<strong>rei</strong>-nu
+  u-ve-tzel ke-na-<strong>fei</strong>-cha tas-ti-<strong>re</strong>-nu ki el sho-me-<strong>re</strong>-nu
+  u-ma-tzi-<strong>le</strong>-nu <strong>at</strong>-tah ki el <strong>me</strong>-lech
+  chan-nun ve-ra-chum <strong>at</strong>-tah u-she-mor tze-<strong>te</strong>-nu
+  u-vo-<strong>’e</strong>-nu le-chay-yim u-le-sha-lom me-’at-tah ve-’ad o-lam: Ba-ruch
+  at-tah A-do-nai hap-po-res suk-kat sha-lom a-lei-nu ve-’al kol a-mo yis-ra-’el ve-’al
+  ye-ru-sh-la-yim: "
+translation:
+  Adonoy our God; make us lie down in peace, our King, raise us again to
+  life Spread over us the shelter of Your peace, and direct us to better ourselves
+  through Your good counsel; and deliver us for Your Name’s sake. Shield us, and remove
+  from us enemies, pestilence, sword, famine and sorrow. Remove the adversary from
+  before us and from behind us, and shelter us in the shadow of Your wings. For, Almighty,
+  You are our Protector and Rescuer, For, Almighty You are a gracious and merciful
+  King. Guard our going out and our coming in for life and peace for now forever.
+  Blessed are You, Adonoy, who spreads the shelter of peace upon us, and upon all
+  your people Israel, and upon Jerusalem.
+translation_credit:
+  Translation based on the Metsudah linear siddur, by Avrohom Davis,
+  1981, Metsudah Publications, New York (CC-BY) at www.sefaria.org. Transliteration
+  courtesy of www.alittlehebrew.com.

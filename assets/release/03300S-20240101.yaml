@@ -1,0 +1,37 @@
+---
+id: "03300"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+title: Vay’chulu
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: "This beautiful and lyrical melody, from the Erev Shabbat liturgy, is a wonderful way to introduce the kiddush. The biblical verses are from Genesis 2:1-3."
+versions:
+  "01":    
+    release: "20231206"
+    version: Duet for High and Medium Voice (in A Minor)
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+hebrew:
+  " וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכׇל־צְבָאָֽם׃ וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם
+  הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י
+  מִכׇּל־מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה׃ וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י
+  וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכׇּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים
+  לַעֲשֽׂוֹת׃
+
+  "
+sefaria_url: https://www.sefaria.org/Genesis.2.3
+transliteration:
+  " Vay-chul-lu ha-sha-<strong>ma</strong>-yim ve-ha-<strong>’a</strong>-retz
+  ve-chol-tze-va-’am. Vay-chal e-lo-him bay-yom ha-she-vi-’i me-lach-to a-sher a-sah
+  vay-yish-bot bay-yom ha-she-vi-’i mik-kol-me-lach-to a-sher a-sah. Vay-<strong>va</strong>-rech
+  e-lo-him et-yom ha-she-vi-’i vay-kad-desh o-to ki vo sha-vat mik-kol-me-lach-to
+  a-sher-ba-ra e-lo-him la-’a-sot.
+
+  "
+
+translation: "The heaven and the earth were finished, and all their array. On the seventh day God finished the work that had been undertaken, and ceased on the seventh day from doing any of the work. And God blessed the seventh day and declared it holy, having ceased on it from all the work of creation that God had done. "
+translation_credit: "Translation from The Contemporary Torah, published by JPS (CC-BY-NC) at www.sefaria.org. Transliteration courtesy of www.alittlehebrew.com."

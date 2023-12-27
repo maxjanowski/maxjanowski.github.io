@@ -1,0 +1,30 @@
+---
+id: "00060"
+productRelease: "20240101"
+originalRelease: "20240101"
+releaseNotes: For 20240108 presentation
+priceCode: S
+status: in progress (missing text and translations)
+title: Der Rebbe Elimelech
+author: arr. Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    release: "20220728"
+    version: Trio for TTB soli and Piano (in B♭ Minor)
+  "01":
+    release: "20220728"
+    version: Trio for TTB soli and Piano (in C Minor)
+  "02":
+    release: "20230507"
+    version: Trio for SSA soli and Piano (in B♭ Minor)
+blurb: "A delightful arrangement of a traditional yiddish folk tune."
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:
