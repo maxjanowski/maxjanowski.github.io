@@ -11,7 +11,7 @@ function coverGenInit() {
   });
 }
 
-function editionLandingInit() {
+async function editionLandingInit() {
   const folderUrlElem = document.getElementById("folderUrl");
   const previewImageElem = document.getElementById("preview-image");
   const previewPdfElem = document.getElementById("preview-pdf");
@@ -38,55 +38,70 @@ function editionLandingInit() {
     return promise;
   }
 
-  return initItemFromQueryParms().then((item) => {
-    const p1 = setFolderLink(folderUrlElem, item.id);
-    const p2 = setPreviewImage(previewImageElem, previewPdfElem, item.id);
+  item = await initItemFromQueryParms();
 
-    document.title = item.title + " | The Max Janowski Society";
-    h1Elem.innerHTML = item.title;
-    if (item.features) {
-      const featureList = item.features.map((e) => `<li>${e}</li>`);
-      featureListElem.innerHTML = `This downloadable edition includes:<ul>${featureList.join(
-        ""
-      )}</ul>`;
-    }
+  if (!item) {
+    location.href = "/404.html";
+    return;
+  }
+  const p1 = setFolderLink(folderUrlElem, item.id);
+  const p2 = setPreviewImage(previewImageElem, previewPdfElem, item.id);
 
-    return Promise.all([p1, p2])
-      .then((res) => {
-        loadPage(editionWrapperElem);
-      })
-      .catch((e) => {
-        console.error("Unable to read editions file. " + e.message);
-      });
-  });
+  document.title = item.title + " | The Max Janowski Society";
+  h1Elem.innerHTML = item.title;
+  if (item.features) {
+    const featureList = item.features.map((e) => `<li>${e}</li>`);
+    featureListElem.innerHTML = `This downloadable edition includes:<ul>${featureList.join(
+      ""
+    )}</ul>`;
+  }
+
+  return Promise.all([p1, p2])
+    .then((res) => {
+      loadPage(editionWrapperElem);
+    })
+    .catch((e) => {
+      console.error("Unable to read editions file. " + e.message);
+    });
 }
 
-function initItemFromQueryParms() {
+async function getFileNameFromId(id) {
+  res = await fetch(`/assets/release/index.json`);
+  fileSet = await res.json();
+  for (fileName of Object.keys(fileSet)) {
+    if (fileName.startsWith(id)) {
+      return ($coverGen.filename = fileName);
+    }
+  }
+}
+
+async function initItemFromQueryParms() {
   // get $coverGen item based on query parameters
-  ["filename", "version"].forEach((parm) => {
+  ["filename", "version", "id"].forEach((parm) => {
     $coverGen[parm] = new URL(document.URL).searchParams.get(parm);
   });
+  if (!$coverGen.filename && $coverGen.id) {
+    $coverGen.filename = await getFileNameFromId($coverGen.id);
+  }
   if (!$coverGen.filename) {
     console.error("no query parameter for filename");
-    return Promise.resolve();
+    return;
   }
   $coverGen.version ||= "00";
-  return fetch(`/assets/release/${$coverGen.filename}`)
-    .then((res) => res.text())
-    .then((text) => {
-      $coverGen.item = jsyaml.load(text);
-      return $coverGen.item;
-    })
-    .catch((err) => {
-      const errorMsg = document.getElementById("errormsg");
-      if (errorMsg) {
-        console.error(err);
-        errorMsg.innerHTML = `${$coverGen.filename} is not on web site.  Use drag-and-drop to upload local file.`;
-        errorMsg.classList.add("active");
-      } else {
-        location.href = "/404.html";
-      }
-    });
+  try {
+    res = await fetch(`/assets/release/${$coverGen.filename}`);
+    text = await res.text();
+    return ($coverGen.item = jsyaml.load(text));
+  } catch {
+    const errorMsg = document.getElementById("errormsg");
+    if (errorMsg) {
+      console.error(errorMsg);
+      errorMsg.innerHTML = `${$coverGen.filename} is not on web site.  Use drag-and-drop to upload local file.`;
+      errorMsg.classList.add("active");
+    } else {
+      location.href = "/404.html";
+    }
+  }
 }
 
 function initDragDrop() {
