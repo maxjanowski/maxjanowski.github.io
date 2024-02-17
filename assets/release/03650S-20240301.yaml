@@ -1,8 +1,8 @@
 ---
 id: "03650"
-productRelease: "20240101"
+productRelease: "20240301"
 originalRelease: "20240101"
-releaseNotes: For 20240108 presentation
+releaseNotes: corrections
 priceCode: S
 title: Two Wedding Songs
 author: by Max Janowski
@@ -17,10 +17,10 @@ features:
   - A synthesized audio file of the piece, to aid rehearsal preparation.
 versions:
   "00":
-    release: "20231205"
+    release: "20240102"
     version: for Low or Medium Voice and Piano
   "01":
-    release: "20231205"
+    release: "20240102"
     version: for High or Medium Voice and Piano
 hebrew:
   "וְאֵרַשְׂתִּ֥יךְ לִ֖י לְעוֹלָ֑ם וְאֵרַשְׂתִּ֥יךְ לִי֙ בְּצֶ֣דֶק וּבְמִשְׁפָּ֔ט

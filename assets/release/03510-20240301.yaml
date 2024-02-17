@@ -1,8 +1,8 @@
 ---
 id: "03510"
-release: "20220804"
+productRelease: "20240301"
+originalRelease: "20220804"
 title: Kol Nidrey
-version: for Solo, SAATBB Choir, and Piano
 author: traditional, arr. Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 features:
@@ -10,11 +10,17 @@ features:
   - "Arrangements in multiple keys: g-minor, e-minor"
   - A synthesized audio file of the piece, to aid rehearsal preparation.
   - Additional synthesized audio files highlighting each choral part.
+  - Includes a version for solo and piano in g-minor.
 versions:
   "00":
+    release: "20240103"
     version: for Solo, SAATBB Choir, and Piano (in G Minor)
   "01":
+    release: "20240103"
     version: for Solo, SAATBB Choir, and Piano (in E Minor)
+  "02":
+    release: "20240103"
+    version: for Solo and Piano (in G Minor)
 recording_track: "Max Janowski: The Great Works, Volume 1/03 Kol Nidrey.mp3"
 hebrew:
   "כָּל נִדְרֵי וֶאֱסָרֵי וַחֲרָמֵי. וְקוֹנָמֵי וְכִנּוּיֵי. וְקִנּוּסֵי וּשְׁבוּעוֹת.

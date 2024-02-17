@@ -1,6 +1,6 @@
 ---
 id: "03660"
-productRelease: "20240101"
+productRelease: "20240301"
 originalRelease: "20240101"
 releaseNotes: For 20240108 presentation
 priceCode: S
@@ -20,7 +20,7 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20231211"
+    release: "20240103"
     version: for Solo and Piano (in G Minor)
 # hebrew: ""
 # sefaria_url: ""

@@ -1,6 +1,6 @@
 ---
 id: "03670"
-productRelease: "20240101"
+productRelease: "20240301"
 originalRelease: "20240101"
 releaseNotes: For 20240108 presentation
 priceCode: S
@@ -19,10 +19,10 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20231223"
+    release: "20240102"
     version: for High or Medium Voice and Piano (in A♭ Major)
   "01":
-    release: "20231223"
+    release: "20240102"
     version: for Low or Medium Voice and Piano (in F Major)
 
 # hebrew: ""

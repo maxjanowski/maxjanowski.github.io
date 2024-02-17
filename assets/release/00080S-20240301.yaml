@@ -1,14 +1,19 @@
 ---
 id: 00080
-release: "20221112"
-ca_batch_id: B202308
+productRelease: "20240301"
+originalRelease: "20221112" 
+priceCode: S
 title: Hal’luyah
-version: for Solo, SSAATTBB Choir, and Piano
-blurb: This setting of Hal'luyah from Psalm 150 for solo and chorus and is a true showpiece. It begins in A minor and concludes in brilliant A major ending.
+version: for two solo voices and piano
+blurb: This setting of Hal’luyah from Psalm 150 is a duet setting for two high voices and keyboard and is a true showpiece. It begins in A minor and concludes in brilliant A major ending.
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 dedication: Dedicated to Karen and Mortin Levy in friendship.
 recording_track: "Max Janowski: The Great Works, Volume 1/01 Halʼluyah.mp3"
+versions:
+  "01":
+    release: "20221112"
+    version: "For Soprano and Tenor Duet, and Piano"
 features:
   - Sheet music (PDF format) for you to share with your performers.
   - A synthesized audio file of the piece, to aid rehearsal preparation.

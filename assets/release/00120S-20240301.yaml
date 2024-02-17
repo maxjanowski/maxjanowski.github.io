@@ -1,0 +1,26 @@
+---
+id: "00120"
+productRelease: "20240301"
+originalRelease: "20240101"
+releaseNotes: corrections to egalitarian version
+priceCode: S
+title: Tavo Lʼfanecha
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    release: "20240102"
+    version: for Solo, SATBB Choir, and Piano (Egalitarian Text)
+  "01":
+    release: "20210615"
+    version: for Solo, SATBB Choir, and Piano (Traditional Text)
+blurb: "This setting of Tavo Lʼfanecha, dating from 1980, has a beautiful melody that can be performed with or without choir, or simply recited a capella."
+# hebrew: ""
+# sefaria_url: ""
+# recording_track: ""
+# transliteration: ""
+# translation:
+# translation_credit:

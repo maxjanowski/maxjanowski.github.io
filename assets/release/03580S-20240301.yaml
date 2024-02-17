@@ -1,24 +1,21 @@
 ---
-id: "00090"
-productRelease: "20240101"
+id: "03580"
+productRelease: "20240301"
 originalRelease: "20240101"
-releaseNotes: For 20240108 presentation
+releaseNotes: corrections
 priceCode: S
 status: in progress (missing text and translations)
-title: Leyl Shimurim
+title: Ki Sarita Im Elohim
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 features:
   - Sheet music (PDF format) for you to share with your performers.
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
-  "01":
-    release: "20231206"
-    version: for Solo and Piano (in D Minor)
-  "02":
-    release: "20231206"
-    version: for Solo and Piano (in F Minor)
-blurb: "The lyrics for Leyl Shimurim are taken from Exodus, Parashat Bo, “It is a night of watchfulness to Adonai...”"
+  "00":
+    release: "20240102"
+    version: For Solo and Piano
+blurb: "From Parshat Vayishlach, Genesis 32:25-29, an evocative musical depiction of the story of Jacob wrestling with an angel."
 # hebrew: ""
 # sefaria_url: ""
 # recording_track: ""

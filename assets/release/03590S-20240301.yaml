@@ -1,9 +1,10 @@
 ---
-id: 03590
-release: "20230612"
+id: "03590"
+productRelease: "20240301"
+originalRelease: "20240101"
+releaseNotes: corrections
 priceCode: S
 title: Two Short Meditations
-ca_batch_id: B20231101
 author: by Max Janowski
 edited: edited by Cantor Cory Winter and Jordan Goodman
 blurb:
@@ -17,6 +18,7 @@ features:
 versions:
   "00":
     version: for Solo and Piano (in F minor)
+    release: '20240102'
 hebrew:
   " יִ֥הְיֽוּ־לְרָצ֨וֹן אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ יְ֝הֹוָ֗ה
   צוּרִ֥י וְגֹאֲלִֽי׃
