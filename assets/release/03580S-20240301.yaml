@@ -13,7 +13,7 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20240102"
+    revision: "20240102"
     version: For Solo and Piano
 blurb: "From Parshat Vayishlach, Genesis 32:25-29, an evocative musical depiction of the story of Jacob wrestling with an angel."
 # hebrew: ""

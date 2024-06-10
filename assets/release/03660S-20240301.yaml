@@ -20,7 +20,7 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20240103"
+    revision: "20240103"
     version: for Solo and Piano (in G Minor)
 # hebrew: ""
 # sefaria_url: ""

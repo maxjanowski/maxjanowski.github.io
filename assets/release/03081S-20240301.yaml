@@ -13,16 +13,16 @@ features:
   - Arrangements for use with Siddur Sim Shalom, Siddur Hadash, Mishkan T’filah, and an ecumenical version.
 versions:
   "04":
-    release: "20230104"
+    revision: "20230104"
     version: for Solo and Piano (in D Minor, Ecumenical text)
   "05":
-    release: "20230104"
+    revision: "20230104"
     version: for Solo and Piano (in D Minor, Siddur Sim Shalom)
   "06":
-    release: "20230104"
+    revision: "20230104"
     version: for Solo and Piano (in D Minor, Siddur Ḥadash)
   "07":
-    release: "20230104"
+    revision: "20230104"
     version: for Solo and Piano (in D Minor, Siddur Mishkan T’filah)
 hebrew: "
   שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חֵן וָחֶֽסֶד וְרַחֲמִים עָלֵֽינוּ וְעַל כָּל

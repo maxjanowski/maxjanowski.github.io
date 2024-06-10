@@ -12,5 +12,5 @@ features:
   - Additional synthesized audio files highlighting each choral part.
 versions: 
   "00":
-    release: '20231027'
+    revision: '20231027'
     version: for Solo, SAATB Choir, and Piano

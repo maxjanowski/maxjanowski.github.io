@@ -13,13 +13,13 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "01":
-    release: "20231207"
+    revision: "20231207"
     version: for Solo and Piano (in G Minor)
   "02":
-    release: "20231207"
+    revision: "20231207"
     version: for Solo and Piano (in A Minor)
   "03":
-    release: "20231207"
+    revision: "20231207"
     version: for Solo and Piano (in E Minor)
 blurb: "This setting of Psalm 95 has a lovely melody that may be performed with or without the piano accompaniment."
 # hebrew: ""

@@ -16,7 +16,7 @@ features:
   - A synthesized audio file of the piece, to aid rehearsal preparation.
 versions:
   "00":
-    release: "20231028"
+    revision: "20231028"
     version: for Solo, SSATTBB Chorus, and Piano (in F Major)
 hebrew:
   " מִי יְמַלֵּל גְּבוּרוֹת יִשְׂרָאֵל.<br/> אוֹתָן מִי יִמְנֶה?<br/> הֵן בְּכָל

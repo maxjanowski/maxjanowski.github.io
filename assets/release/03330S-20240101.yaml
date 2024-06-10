@@ -14,13 +14,13 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20231205"
+    revision: "20231205"
     version: for Solo and Piano (in B♭ Major)
   "01":
-    release: "20231205"
+    revision: "20231205"
     version: for Solo and Piano (in A♭ Major)
   "02":
-    release: "20231205"
+    revision: "20231205"
     version: for Solo and Piano (in F Major)
 # hebrew: ""
 # sefaria_url: ""

@@ -12,10 +12,10 @@ features:
   - Additional synthesized audio files highlighting each choral part.
 versions:
   "00":
-    release: "20231207"
+    revision: "20231207"
     version: for Alto and Tenor Solo, SATB Choir, and Piano (in C Minor)
   "01":
-    release: "20231207"
+    revision: "20231207"
     version: Duet for High and Medium Voice and Piano (in C Minor)
 hebrew:
   "נַחֲמ֥וּ נַחֲמ֖וּ עַמִּ֑י יֹאמַ֖ר אֱלֹֽהֵיכֶֽם׃ דַּבְּר֞וּ עַל־לֵ֤ב יְרוּשָׁלַ֙͏ִם֙

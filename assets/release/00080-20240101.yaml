@@ -14,10 +14,10 @@ features:
   - Additional synthesized audio files highlighting each choral part.
 versions:
   "00": 
-    release: "20221112"
+    revision: "20221112"
     version: for Solo, SSAATTBB Choir, and Piano
   "01":
-    release: "20221112"
+    revision: "20221112"
     version: "For Soprano and Tenor Duet, and Piano"
 hebrew:
   " <br/>הַ֥לְלוּ־יָ֨הּ ׀ הַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃

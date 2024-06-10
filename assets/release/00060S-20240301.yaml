@@ -13,13 +13,13 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20240103"
+    revision: "20240103"
     version: Trio for TTB soli and Piano (in B♭ Minor)
   "01":
-    release: "20240103"
+    revision: "20240103"
     version: Trio for TTB soli and Piano (in C Minor)
   "02":
-    release: "20240103"
+    revision: "20240103"
     version: Trio for SSA soli and Piano (in B♭ Minor)
 blurb: "A delightful arrangement of a traditional yiddish folk tune."
 # hebrew: ""

@@ -14,7 +14,7 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "02":
-    release: "20231208"
+    revision: "20231208"
     version: for Solo and Piano (in A Minor)
 # hebrew: ""
 # sefaria_url: ""

@@ -16,10 +16,10 @@ blurb:
   and uses a broad range of (often quickly) changing dynamics and articulation.
 versions:
   "02":
-    release: '20231210'
+    revision: '20231210'
     version: for Solo and Piano (in B♭ Minor)
   "03":
-    release: '20231210'
+    revision: '20231210'
     version: for Solo and Piano (in A Minor)
 features:
   - Sheet music (PDF format) for you to share with your performers.

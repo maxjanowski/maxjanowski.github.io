@@ -2,8 +2,8 @@ var $coverGen = {};
 
 function coverGenInit() {
   return initItemFromQueryParms().then((item) => {
-    release = item.versions[$coverGen.version].release || item.release;
-    $coverGen.sku = `${item.id}-${$coverGen.version}-${release}`;
+    revision = item.versions[$coverGen.version].revision;
+    $coverGen.sku = `${item.id}-${$coverGen.version}-${revision}`;
     document.title = `${$coverGen.sku}-cover`;
 
     initDragDrop();
@@ -181,8 +181,8 @@ function loadPage(wrapper) {
       ...item.versions[version],
     };
   }
-  item.sku = `${item.id}-${version}-${item.release}`;
-  item.year = item.release.slice(0, 4);
+  item.sku = `${item.id}-${version}-${item.revision}`;
+  item.year = item.revision.slice(0, 4);
   const q = new URLSearchParams({
     id: item.id,
     productRelease: item.productRelease,
@@ -203,8 +203,10 @@ function loadPage(wrapper) {
     if (v) {
       for (n of document.getElementsByClassName(k)) {
         v = v.replace(/([A-G])([♭♯♮])/, '$1<span class="accidental">$2</span>'); // mark accidentals
-        if (["hebrew", "translation", "transliteration"].includes(k)) {
-          n.innerHTML = `<p>${v.replace("\n", "</p><p>")}</p>`;
+        if (["text_style"].includes(k)) {
+          n.textContent = v;
+        } else if (["version", "hebrew", "translation", "transliteration", "translation_credit"].includes(k)) {
+          n.innerHTML = `${v.replace(/\n/g, "<br/>")}`;
         } else {
           n.innerHTML = v;
         }
@@ -213,7 +215,7 @@ function loadPage(wrapper) {
   });
   wrapper.classList.add("ready");
   console.log(
-    `SUCCESS: ${item.title}-${item.version}-${item.release} generated. hebrew=${
+    `SUCCESS: ${item.title}-${item.version}-${item.revision} generated. hebrew=${
       item.hebrew ? "yes" : "no"
     } translation=${item.translation ? "yes" : "no"}`
   );

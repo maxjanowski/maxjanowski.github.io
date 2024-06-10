@@ -11,7 +11,7 @@ features:
   - Synthesized audio files of the piece, highlighting each part, to aid rehearsal preparation.
 versions:
   "00":
-    release: '20231027'
+    revision: '20231027'
     version: for Soli, SSAATTBB Choir, and Piano
 hebrew:
   " וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה

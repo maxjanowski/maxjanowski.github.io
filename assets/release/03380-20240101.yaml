@@ -13,16 +13,16 @@ blurb:
   and uses a broad range of (often quickly) changing dynamics and articulation.
 versions:
   "00":
-    release: '20230823'
+    revision: '20230823'
     version: for Solo, SAATTBB Choir, and Piano (in B♭ Minor)
   "01":
-    release: '20230823'
+    revision: '20230823'
     version: for Solo, SAATTBB Choir, and Piano (in A Minor)
   "02":
-    release: '20231210'
+    revision: '20231210'
     version: for Solo, SAATTBB Choir, and Piano (in B♭ Minor)
   "03":
-    release: '20231210'
+    revision: '20231210'
     version: for Solo, SAATTBB Choir, and Piano (in A Minor)
 features:
   - Sheet music (PDF format) for you to share with your performers.

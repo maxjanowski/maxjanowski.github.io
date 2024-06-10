@@ -13,13 +13,13 @@ features:
   - Includes a version for solo and piano in g-minor.
 versions:
   "00":
-    release: "20240103"
+    revision: "20240103"
     version: for Solo, SAATBB Choir, and Piano (in G Minor)
   "01":
-    release: "20240103"
+    revision: "20240103"
     version: for Solo, SAATBB Choir, and Piano (in E Minor)
   "02":
-    release: "20240103"
+    revision: "20240103"
     version: for Solo and Piano (in G Minor)
 recording_track: "Max Janowski: The Great Works, Volume 1/03 Kol Nidrey.mp3"
 hebrew:

@@ -12,16 +12,16 @@ features:
   - Additional synthesized audio files highlighting each choral part.
 versions:
   "00":
-    release: "20231205"
+    revision: "20231205"
     version: for Solo or Soprano and Tenor Duet, SATB Choir, and Piano (in A Minor)
   "01":
-    release: "20231207"
+    revision: "20231207"
     version: for Soprano and Tenor Duet, and Piano (in A Minor)
   "02":
-    release: "20231207"
+    revision: "20231207"
     version: for Soprano and Tenor Duet, and Piano (in E Minor)
   "03":
-    release: "20231207"
+    revision: "20231207"
     version: for Soprano and Tenor Duet, and Piano (in D Minor)
 recording_track: "Max Janowski: The Great Works, Volume 1/05 Shiru Ladonai.mp3"
 hebrew:

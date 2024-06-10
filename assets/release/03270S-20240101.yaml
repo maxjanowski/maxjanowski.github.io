@@ -14,13 +14,13 @@ features:
   - Additional synthesized audio files highlighting each choral part.
 versions:
   "01":
-    release: "20231207"
+    revision: "20231207"
     version: for Soprano and Tenor Duet, and Piano (in A Minor)
   "02":
-    release: "20231207"
+    revision: "20231207"
     version: for Soprano and Tenor Duet, and Piano (in E Minor)
   "03":
-    release: "20231207"
+    revision: "20231207"
     version: for Soprano and Tenor Duet, and Piano (in D Minor)
 hebrew:
   " שִׁ֤ירוּ לַיהֹוָ֨ה ׀ שִׁ֣יר חָ֭דָשׁ כִּֽי־נִפְלָא֣וֹת עָשָׂ֑ה הוֹשִׁיעָה־לּ֥וֹ

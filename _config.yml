@@ -14,6 +14,9 @@ header_pages:
 plugins:
   - jekyll-sitemap
 
+sass:
+  quiet_deps: true
+
 navbar:
   About:
     - _pages/1_about.md
@@ -29,3 +32,4 @@ navbar:
   Contact:
     - _pages/4_subscribe.md
     - _pages/5_contact.md
+

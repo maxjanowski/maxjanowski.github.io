@@ -11,7 +11,7 @@ features:
   - A synthesized audio file of the piece, to aid rehearsal preparation.
 versions:
   "02":
-    release: "20240103"
+    revision: "20240103"
     version: for Solo and Piano (in G Minor)
 hebrew:
   "כָּל נִדְרֵי וֶאֱסָרֵי וַחֲרָמֵי. וְקוֹנָמֵי וְכִנּוּיֵי. וְקִנּוּסֵי וּשְׁבוּעוֹת.

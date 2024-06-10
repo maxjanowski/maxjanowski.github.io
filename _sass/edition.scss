@@ -152,7 +152,7 @@ img.download-button {
   }
 
   .blurb {
-    font-size: 85%;
+    font-size: 0.85em;
     font-style: italic;
     text-align: left;
     padding: 2em 3em 0 3em;
@@ -171,59 +171,50 @@ img.download-button {
   .page-break {
     width: 50%;
     margin-top: auto;
+    margin-bottom: 1in;
     display: block;
   }
 
   .texts {
+    margin-top: 0.5in;
     width: 100%;
     display: flex;
-    flex-flow: row;
+    flex-flow: row nowrap;
     justify-content: space-between;
-  }
-
-  .hebrew {
-    width: 45%;
-
-    p {
-      text-align: right;
-      font-size: 0.9em;
-      direction: rtl;
-    }
-  }
-
-  .transliteration {
-    width: 45%;
-
-    p {
-      font-size: 0.65em;
-      text-align: left;
-    }
   }
 
   .pronunciation {
     display: none; // hide for now
     width: 100%;
-    p {
-      font-size: 0.6em;
-    }
+    font-size: 0.6em;
   }
 
-  .translation_block {
+  .transliteration {
+    font-size: 0.65em;
+    text-align: left;
+    margin-right: 0.5in;
+  }
+
+  .hebrew {
+    direction: rtl;
+    text-align: right;
+    font-size: 0.9em;
+  }
+
+  .translation {
+    font-size: 0.85em;
+    margin-top: 0.5in;
     width: 100%;
-    p {
-      font-size: 0.65em;
-      text-align: left;
-    }
-    .credit {
-      font-style: italic;
-      margin-left: 0;
-      p {
-        font-size: 0.65em;
-        font-style: italic;
-        text-align: left;
-        margin: 0;
-      }
-    }
+  }
+
+  .translation_credit {
+    width: 100%;
+    font-style: italic;
+    margin-top: auto;
+    margin-left: 0;
+    font-size: 0.65em;
+    font-style: italic;
+    text-align: left;
   }
 
   .footer {
@@ -249,4 +240,9 @@ img.download-button {
 
 @page {
   size: letter;
+}
+@media screen {
+  body {
+    width: 8.5in;
+  }
 }

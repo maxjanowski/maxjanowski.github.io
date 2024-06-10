@@ -12,10 +12,10 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    release: "20240102"
+    revision: "20240102"
     version: for Solo, SATBB Choir, and Piano (Egalitarian Text)
   "01":
-    release: "20210615"
+    revision: "20210615"
     version: for Solo, SATBB Choir, and Piano (Traditional Text)
 blurb: "This setting of Tavo Lʼfanecha, dating from 1980, has a beautiful melody that can be performed with or without choir, or simply recited a capella."
 # hebrew: ""

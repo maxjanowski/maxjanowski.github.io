@@ -14,7 +14,7 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "01":
-    release: "20231210"
+    revision: "20231210"
     version: for Congregation, Solo and Piano (in F Minor)
 # hebrew: ""
 # sefaria_url: ""

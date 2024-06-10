@@ -14,7 +14,7 @@ features:
   - A synthesized audio file of the piece, to aid rehearsal preparation.
 versions:
   "00":
-    release: '20221029'
+    revision: '20221029'
     version: for Solo, Congregation, and Piano
 hebrew:
   "עַל הַנִּסִּים וְעַל הַפֻּרְקָן וְעַל הַגְּ֒בוּרוֹת וְעַל הַתְּ֒שׁוּעוֹת
