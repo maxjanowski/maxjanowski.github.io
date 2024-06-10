@@ -1,0 +1,69 @@
+---
+id: "03610"
+productRelease: "20240601"
+originalRelease: "20240601"
+title: Yaʼaleh
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: "A well-known melody with a congregational refrain, used during the High Holy Day service."
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    revision: "20240508"
+    version: for Solo, SATBB Choir, and Piano (in F Minor)
+  "01":
+    revision: "20231210"
+    version: for Congregation, Solo and Piano (in F Minor)
+sefaria_url: https://www.sefaria.org/Machzor_Yom_Kippur_Ashkenaz%2C_Maariv_Service_for_Yom_Kippur_Eve%2C_Yaaleh.3-4
+text_style: |
+  .cover-page .transliteration { font-size: .66em }
+  .cover-page .hebrew { font-size: .7em }
+  .cover-page .translation { font-size: .54em; margin-top: .25in; }
+hebrew: |
+  יַעֲלֶה תַחֲנוּנֵֽנוּ מֵעֶֽרֶב. וְיָבֹא שַׁוְעָתֵֽנוּ מִבֹּֽקֶר. 
+  וְיֵרָאֶה רִנּוּנֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה קוֹלֵֽנוּ מֵעֶֽרֶב. וְיָבֹא צִדְקָתֵֽנוּ מִבֹּֽקֶר. 
+  וְיֵרָאֶה פִדְיוֹנֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה עִנּוּיֵֽנוּ מֵעֶֽרֶב. וְיָבֹא סְלִיחָתֵֽנוּ מִבֹּֽקֶר. 
+  וְיֵרָאֶה נַאֲקָתֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה מְנוּסֵֽנוּ מֵעֶֽרֶב. וְיָבֹא לְמַעֲנוֹ מִבֹּֽקֶר. 
+  וְיֵרָאֶה כִפּוּרֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה יִשְׁעֵֽנוּ מֵעֶֽרֶב. וְיָבֹא טָהֳרֵֽנוּ מִבֹּֽקֶר. 
+  וְיֵרָאֶה חִנּוּנֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה זִכְרוֹנֵֽנוּ מֵעֶֽרֶב. וְיָבֹא וִעוּדֵֽנוּ מִבֹּֽקֶר. 
+  וְיֵרָאֶה הַדְרָתֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה דָפְקֵֽנוּ מֵעֶֽרֶב. וְיָבֹא גִילֵֽנוּ מִבֹּֽקֶר. 
+  וְיֵרָאֶה בַקָּשָׁתֵֽנוּ עַד עָֽרֶב:  
+  יַעֲלֶה אֶנְקָתֵֽנוּ מֵעֶֽרֶב. וְיָבֹא אֵלֶֽיךָ מִבֹּֽקֶר. 
+  וְיֵרָאֶה אֵלֵֽינוּ עַד עָֽרֶב:
+transliteration: |
+  Ya-’a-leh ta-cha-nu-<strong>ne</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo shav-’a-<strong>te</strong>-nu mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh rin-nu-<strong>ne</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh ko-<strong>le</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo tzid-ka-<strong>te</strong>-nu mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh fid-yo-<strong>ne</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh in-nu-<strong>ye</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo se-li-cha-<strong>te</strong>-nu mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh na-’a-ka-<strong>te</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh me-nu-<strong>se</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo le-ma-’a-no mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh chip-pu-<strong>re</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh yish-<strong>’e</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo to-ho-<strong>re</strong>-nu mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh chin-nu-<strong>ne</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh zich-ro-<strong>ne</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo vi-’u-<strong>de</strong>-nu mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh had-ra-<strong>te</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh da-fe-<strong>ke</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo gi-<strong>le</strong>-nu mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh vak-ka-sha-<strong>te</strong>-nu ad <strong>a</strong>-rev:  
+  Ya-’a-leh en-ka-<strong>te</strong>-nu me-<strong>’e</strong>-rev. Ve-ya-vo e-<strong>lei</strong>-cha mib-<strong>bo</strong>-ker. 
+  Ve-ye-ra-’eh e-<strong>lei</strong>-nu ad <strong>a</strong>-rev:
+translation: |
+  May our supplication ascend from the evening, and may our cry come from the morning, and may our song appear till evening.
+  May our voice ascend from the evening, and may our righteousness come from the morning, and may our redemption appear till evening.
+  May our affliction ascend from the evening, and may our pardon come from the morning, and may our groaning appear till evening.
+  May our refuge ascend from the evening, and may it come for His sake, from the morning, and may our atonement appear till evening.
+  May our deliverance ascend from the evening, and may our purification come from the morning, and may our supplication appear till evening.
+  May our remembrance ascend from the evening, and may our gathering come from the morning, and may our splendor appear till evening.
+  May our knocking ascend from the evening, and may our exultation come from the morning, and may our petition appear till evening.
+  May our sighing ascend from the evening, and may it come before You from the morning, and may its effect appear to us till evening.
+translation_credit: |
+  Translation from The Metsudah Machzor, Metsudah Publications, New York (CC-BY) at www.sefaria.org.
+  Transliteration courtesy of www.alittlehebrew.com.

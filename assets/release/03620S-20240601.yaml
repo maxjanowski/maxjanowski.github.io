@@ -1,0 +1,60 @@
+---
+id: "03620"
+productRelease: "20240601"
+originalRelease: "20240601"
+priceCode: S
+title: Eyl Melech Yosheyv Al Kisey Rachamim
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+blurb: >-
+  “God and sovereign, enthroned on a seat of mercy!”,
+  a powerful prayer recited during the High Holy Days.
+  This piece may be presented with Piano accompaniment or a cappella.
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "01":
+    revision: "20240513"
+    version: for Solo and Piano (in G Minor)
+sefaria_url: https://www.sefaria.org/Machzor_Yom_Kippur_Ashkenaz%2C_Maariv_Service_for_Yom_Kippur_Eve%2C_Yaaleh.19
+text_style: |
+  .cover-page .transliteration { font-size: .59em; width: 50%; }
+  .cover-page .hebrew { font-size: .72em }
+  .cover-page .translation { font-size: .7em;  }
+hebrew: |-
+  אֵל מֶֽלֶךְ. יוֹשֵׁב עַל כִּסֵּא רַחֲמִים. מִתְנַהֵג בַּחֲסִידוּת.
+  מוֹחֵל עֲו‍ֹנוֹת עַמּוֹ. מַעֲבִיר רִאשׁוֹן רִאשׁוֹן.
+  מַרְבֶּה מְחִילָה לְחַטָּאִים וּסְלִיחָה לְפוֹשְׁעִים.
+  עוֹשֶׂה צְדָקוֹת עִם כָּל בָּשָׂר וָרֽוּחַ.
+  לֹא כְרָעָתָם תִּגְמוֹל:
+  אֵל הוֹרֵיתָ לָנוּ לוֹמַר שְׁלשׁ עֶשְׂרֵה.
+  וּזְכָר לָֽנוּ הַיּוֹם בְּרִית שְׁלשׁ עֶשְׂרֵה.
+  כְּמוֹ שֶׁהוֹדַֽעְתָּ לֶעָנָו מִקֶּֽדֶם. כְּמוֹ שֶׁכָּתוּב
+  וַיֵּרֶד יְהֹוָה בֶּֽעָנָן וַיִּתְיַצֵּב עִמּוֹ שָׁם וַיִּקְרָא בְשֵׁם יְהֹוָה:
+transliteration: |-
+  El <strong>me</strong>-lech. Yo-shev al kis-se ra-cha-mim.
+  Mit-na-heg ba-cha-si-dut. 
+  Mo-chel a-vo-not am-mo. Ma-’a-vir ri-shon ri-shon. 
+  Mar-beh me-chi-lah le-chat-ta-’im u-se-li-chah le-fo-she-’im. 
+  O-seh tze-da-kot im kol ba-sar va-<strong>ru</strong>-ach. 
+  Lo che-ra-’a-tam tig-mol: 
+  El ho-rei-ta la-nu lo-mar she-losh es-reh. 
+  U-ze-char <strong>la</strong>-nu hay-yom be-rit she-losh es-reh. 
+  Ke-mo she-ho-<strong>da’</strong>-ta le-’a-nav mik-<strong>ke</strong>-dem. Ke-mo shek-ka-tuv, 
+  vay-ye-red A-do-nai be-’a-nan vay-yit-ya-tzev im-mo sham
+  vay-yik-ra ve-shem A-do-nai:
+translation: |-
+  Almighty sovereign who sits on the throne of mercy, governs with kindness,
+  forgives the iniquities of His people.  He removes their sins one by one, 
+  increasing forgiveness to sinners, and pardon to transgressors. 
+  Acting righteously with all who are of flesh and spirit; 
+  not according to their wickedness does He repay them. 
+  Almighty! You instructed us to recite the thirteen Divine attributes; 
+  and remember unto us this day the covenant of thirteen Divine attributes, 
+  as You revealed them then, as it is written, 
+  “And Adonai descended in the cloud, and stood with him there,
+  and proclaimed the Name, Adonai.”
+translation_credit: |-
+  Translation from The Metsudah Machzor, Metsudah Publications, New York (CC-BY) at www.sefaria.org.
+  Transliteration courtesy of www.alittlehebrew.com.

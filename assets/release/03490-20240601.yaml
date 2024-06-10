@@ -1,0 +1,71 @@
+---
+id: 03490
+productRelease: "20240601"
+originalRelease: "20240601"
+title: Y’rushalayim
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+blurb:
+  This is a stunning setting of the famous poem by Avigdor Hameiri, and one of
+  Max Janowski's favorite compositions.
+versions:
+  "00":
+    revision: "20240510"
+    version: for Solo, SSAAATTBBB Choir, and Piano (in A Minor)
+  "01":
+    revision: "20240510"
+    version: for Solo and Piano (in A Minor)
+  "06":
+    revision: "20240510"
+    version: for Solo, SSAAATTBBB Choir, and Piano (in G Minor)
+  "07":
+    revision: "20240510"
+    version: for Solo and Piano (in A Minor)
+text_style: |-
+  .cover-page .transliteration { font-size: .63em;max-width: 60%;margin-right: 0; line-height: 1.65; }
+  .cover-page .hebrew { font-size: .7em; }
+  .cover-page .translation { font-size: .65em; }
+hebrew: |
+  מֵעַל פִּסְגַּת הַר הַצּוֹפִים אֶשְׁתַּחֲוֶה לָךְ אַפַּיִם,
+  מֵעַל פִּסְגַּת הַר הַצּוֹפִים שָׁלוֹם לָךְ, יְרוּשָׁלַיִם!
+  אַלְפֵי דּוֹרוֹת חָלַמְתִּי עָלַיִךְ, לִרְאוֹת, לִזְכּוֹת, בְּאוֹר פָּנַיִךְ!
+  יְרוּשָׁלַיִם, יְרוּשָׁלַיִם הָאִירִי פָּנַיִךְ לִבְנֵךְ!
+  יְרוּשָׁלַיִם, יְרוּשָׁלַיִם מֵחָרְבוֹתַיִךְ אֶבְנֵךְ!
+
+  מֵעַל פִּסְגַּת הַר הַצּוֹפִים אֶשְׁתַּחֲוֶה לָךְ אַפַּיִם,
+  מֵעַל פִּסְגַּת הַר הַצּוֹפִים שָׁלוֹם לָךְ, יְרוּשָׁלַיִם!
+  בְּאַלְפֵי בְּרָכוֹת הֲיִי בְּרוּכָה! מִקְדַּשׁ מֶלֶךְ, עִיר מְלוּכָה!
+  יְרוּשָׁלַיִם, יְרוּשָׁלַיִם אֲנִי לֹא אָזוּז מִפֹּה!
+  יְרוּשָׁלַיִם, יְרוּשָׁלַיִם יָבוֹא הַמָּשִׁיחַ, יָבוֹא!
+sefaria_url: https://www.jyrics.com/lyrics/meal-pisgat-har-hatzofim-%D7%9E%D7%A2%D7%9C-%D7%A4%D7%A1%D7%92%D7%AA-%D7%94%D7%A8-%D7%94%D7%A6%D7%95%D7%A4%D7%99%D7%9D/
+transliteration: |
+  Me-’al pis-gat har ha-tzo-fim esh-ta-cha-veh lach ap-<strong>pa</strong>-yim,
+  Me-’al pis-gat har ha-tzo-fim sha-lom lach, ye-ru-sha-<strong>la</strong>-yim!
+  Al-fei do-rot cha-<strong>lam</strong>-ti a-<strong>la</strong>-yich, lir-’ot, liz-kot, be-’or pa-<strong>na</strong>-yich!
+  Ye-ru-sha-<strong>la</strong>-yim, ye-ru-sha-<strong>la</strong>-yim, ha-’i-ri pa-<strong>na</strong>-yich liv-nech!
+  Ye-ru-sha-<strong>la</strong>-yim, ye-ru-sha-<strong>la</strong>-yim, me-cha-re-vo-<strong>ta</strong>-yich ev-nech!
+
+  Me-’al pis-gat har ha-tzo-fim esh-ta-cha-veh lach ap-<strong>pa</strong>-yim,
+  me-’al pis-gat har ha-tzo-fim sha-lom lach, ye-ru-sha-<strong>la</strong>-yim!
+  Be-’al-fei be-ra-chot ha-yi be-ru-chah! Mik-dash <strong>me</strong>-lech, ir me-lu-chah!
+  Ye-ru-sha-<strong>la</strong>-yim, ye-ru-sha-<strong>la</strong>-yim a-ni lo a-zuz mip-poh!
+  Ye-ru-sha-<strong>la</strong>-yim, ye-ru-sha-<strong>la</strong>-yim ya-vo ham-ma-<strong>shi</strong>-ach, ya-vo!
+translation: |-
+  From the summit of Mount Scopus, O Jerusalem, peace unto you. 
+  For a hundred generations I have dreamt of you,  
+  To merit and behold the light of your countenance. 
+  Jerusalem, Jerusalem, light up your face to your son, 
+  Jerusalem, Jerusalem from your ruins will I build you. 
+
+  From the summit of Mount Scopus, O Jerusalem, peace unto you. 
+  Thousands of exiles around the world raise up their eyes to you.  
+  In thousands of blessings may you be blessed,  
+  Kingly sanctuary, royal city.  
+  Jerusalem, Jerusalem, I shall not move away, 
+  Jerusalem, Jerusalem, the Messiah will surely come, one day.</div>
+translation_credit: |-
+  Translation from Tanakh: The Holy Scriptures, published by JPS (CC-BY-NC) at www.sefaria.org.
+  Transliteration courtesy of www.alittlehebrew.com.

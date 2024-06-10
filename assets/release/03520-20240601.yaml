@@ -1,0 +1,66 @@
+---
+id: "03520"
+productRelease: "20240601"
+originalRelease: "20240601"
+title: L’chu N’ranana (S’lichot)
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - A synthesized audio file of the piece, to aid rehearsal preparation.
+blurb: This version of L’chu N’ranana is arranged for use on S’lichot.  It may be performed with piano accompaniment or a cappella.
+versions:
+  "00":
+    revision: "20230812"
+    version: for Solo, SATBB Choir, and Piano (in G Minor)
+  "01":
+    revision: "20230812"
+    version: for Solo, SATBB Choir, and Piano (in A Minor)
+text_style: |
+  .cover-page .hebrew { font-size: .6em; }
+  .cover-page .transliteration { font-size: .6em; }
+  .cover-page .translation { font-size: .7em; }
+hebrew: |-
+  לְכוּ נְרַנְּנָה לַייָ נָרִיעָה לְצוּר יִשְׁעֵנוּ:
+  נְקַדְּמָה פָנָיו בְּתוֹדָה בִּזְמִרוֹת נָרִיעַ לוֹ:
+  צֶדֶק וּמִשְׁפָּט מְכוֹן כִּסְאֶךָ
+  חֶסֶד וֶאֱמֶת יְקַדְּמוּ פָנֶיךָ:
+  אֲשֶׁר יַחְדָּו נַמְתִּיק סוֹד
+  בְּבֵית אֱלֹהִים נְהַלֵּךְ בְּרָגֶשׁ:
+  אֲשֶׁר לוֹ הַיָּם וְהוּא עָשָׂהוּ וְיַבֶּשֶׁת יָדָיו יָצָרוּ:
+  אֲשֶׁר בְּיָדוֹ נֶפֶשׁ כָּל חָי וְרוּחַ כָּל בְּשַׂר אִישׁ:
+  הַנְּשָׁמָה לָךְ וְהַגּוּף פָּעֳלָך חוּסָה עַל עֲמָלָךְ:
+  הַנְּשָׁמָה לָךְ וְהַגּוּף שֶׁלָּךְ יְיָ עֲשֵׂה לְמַעַן שְׁמֶךָ:
+  אָתָאנוּ עַל שִׁמְךָ־יְיָ עֲשֵׂה לְמַעַן שְׁמֶךָ.
+  בַּעֲבוּר כְּבוֹד שִׁמְךָ כִּי אֵל חַנּוּן וְרַחוּם שְׁמֶךָ:
+  לְמַעַן שִׁמְךָ יְיָ וְסָלַחְתָּ לַעֲווֹנֵנוּ כִּי רַב־הוּא:
+sefaria_url: https://www.sefaria.org/Siddur_Ashkenaz%252C_Festivals%252C_Selichot%252C_Fast_of_Gedalia.133-135
+transliteration: |-
+  Le-chu ne-ran-ne-nah l’A-do-nai na-ri-’ah le-tzur yish-<strong>’e</strong>-nu:
+  Ne-kad-de-mah fa-nav be-to-dah biz-mi-rot na-<strong>ri</strong>-a’ lo:
+  <strong>Tze</strong>-dek u-mish-pat me-chon kis-<strong>’e</strong>-cha
+  <strong>che</strong>-sed ve-’e-met ye-kad-de-mu fa-<strong>nei</strong>-cha:
+  A-sher yach-dav nam-tik sod
+  be-veit e-lo-him ne-hal-lech be-<strong>ra</strong>-gesh:
+  A-sher lo hay-yam ve-hu a-<strong>sa</strong>-hu ve-yab-<strong>be</strong>-shet ya-dav ya-<strong>tza</strong>-ru:
+  A-sher be-ya-do <strong>ne</strong>-fesh kol chai ve-<strong>ru</strong>-ach kol be-sar ish:
+  Han-ne-sha-mah lach ve-hag-guf po-’o-lach chu-sah al a-ma-lach:
+  Han-ne-sha-mah lach ve-hag-guf shel-lach A-do-nai a-seh le-<strong>ma</strong>-’an she-<strong>me</strong>-cha:
+  A-<strong>ta</strong>-nu al shim-cha-A-do-nai a-seh le-<strong>ma</strong>-’an she-<strong>me</strong>-cha.
+  Ba-’a-vur ke-vod shim-cha ki el chan-nun ve-ra-chum she-<strong>me</strong>-cha:
+  Le-<strong>ma</strong>-’an shim-cha A-do-nai ve-sa-<strong>lach</strong>-ta la-’a-vo-<strong>ne</strong>-nu ki rav-hu:
+translation: |-
+  Come, let us sing joyously to the LORD, raise a shout for our rock and deliverer;
+  let us come into His presence with praise; let us raise a shout for Him in song! 
+  Righteousness and justice are the base of Your throne; steadfast love and faithfulness stand before You.
+  Sweet was our fellowship; we walked together in God’s house. 
+  His is the sea, He made it; and the land, which His hands fashioned.
+  In His hand is every living soul and the breath of all mankind. 
+  The soul is Yours, and the body is Your doing, have pity on Your work. 
+  The soul is Yours, and the body is Yours, Adonoy! Act for the sake of Your Name. 
+  We have come in Your Name, Adonoy! Act for the sake of Your Name. 
+  For the sake of the glory of Your Name, for gracious and merciful Almighty is Your Name, 
+  For the sake of Your Name, Adonoy, pardon our iniquity, for it is great.
+translation_credit: |-
+  From Daat Siddur Ashkenaz (CC-BY-NC) at www.sefaria.org.
+  Transliteration courtesy of www.alittlehebrew.com.

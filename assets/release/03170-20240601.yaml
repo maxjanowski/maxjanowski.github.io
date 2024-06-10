@@ -1,0 +1,73 @@
+---
+id: "03170"
+productRelease: "20240601"
+originalRelease: "20240601"
+title: Lʼchu Nʼranʼna
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    revision: "20231207"
+    version: for Solo, SATB Choir, and optional Piano (in G Minor)
+  "01":
+    revision: "20231207"
+    version: for Solo and Piano (in G Minor)
+  "02":
+    revision: "20231207"
+    version: for Solo and Piano (in A Minor)
+  "03":
+    revision: "20231207"
+    version: for Solo and Piano (in E Minor)
+blurb:
+  Come, let us sing to the Lord! This setting of Psalm 95 has a lovely melody that may be performed with or
+  without the piano accompaniment.
+text_style: |
+  .cover-page .transliteration { max-width: 50%; }
+  .cover-page .hebrew { font-size: .8em; }
+  .cover-page .translation { font-size: .7em; }
+hebrew: >-
+  לְ֭כוּ נְרַנְּנָ֣ה לַיהֹוָ֑ה נָ֝רִ֗יעָה לְצ֣וּר יִשְׁעֵֽנוּ׃ נְקַדְּמָ֣ה
+  פָנָ֣יו בְּתוֹדָ֑ה בִּ֝זְמִר֗וֹת נָרִ֥יעַֽ לֽוֹ׃ כִּ֤י אֵ֣ל גָּד֣וֹל יְהֹוָ֑ה וּמֶ֥לֶךְ
+  גָּ֝ד֗וֹל עַל־כׇּל־אֱלֹהִֽים׃ אֲשֶׁ֣ר בְּ֭יָדוֹ מֶחְקְרֵי־אָ֑רֶץ וְתוֹעֲפֹ֖ת הָרִ֣ים
+  לֽוֹ׃ אֲשֶׁר־ל֣וֹ הַ֭יָּם וְה֣וּא עָשָׂ֑הוּ וְ֝יַבֶּ֗שֶׁת יָדָ֥יו יָצָֽרוּ׃ בֹּ֭אוּ
+  נִשְׁתַּחֲוֶ֣ה וְנִכְרָ֑עָה נִ֝בְרְכָ֗ה לִֽפְנֵי־יְהֹוָ֥ה עֹשֵֽׂנוּ׃ כִּ֘י ה֤וּא
+  אֱלֹהֵ֗ינוּ וַאֲנַ֤חְנוּ עַ֣ם מַ֭רְעִיתוֹ וְצֹ֣אן יָד֑וֹ הַ֝יּ֗וֹם אִֽם־בְּקֹל֥וֹ
+  תִשְׁמָֽעוּ׃ אַל־תַּקְשׁ֣וּ לְ֭בַבְכֶם כִּמְרִיבָ֑ה כְּי֥וֹם מַ֝סָּ֗ה בַּמִּדְבָּֽר׃
+  אֲשֶׁ֣ר נִ֭סּוּנִי אֲבֽוֹתֵיכֶ֑ם בְּ֝חָנ֗וּנִי גַּם־רָא֥וּ פׇעֳלִֽי׃ אַרְבָּ֘עִ֤ים
+  שָׁנָ֨ה ׀ אָ֘ק֤וּט בְּד֗וֹר וָאֹמַ֗ר עַ֤ם תֹּעֵ֣י לֵבָ֣ב הֵ֑ם וְ֝הֵ֗ם לֹא־יָדְע֥וּ
+  דְרָכָֽי׃ אֲשֶׁר־נִשְׁבַּ֥עְתִּי בְאַפִּ֑י אִם־יְ֝בֹא֗וּן אֶל־מְנוּחָתִֽי׃
+sefaria_url: https://www.sefaria.org/Psalms.95.1
+transliteration: >-
+  <strong>Le</strong>-chu ne-ran-ne-nah l’A-do-nai na-<strong>ri</strong>-’ah
+  le-tzur yish-<strong>’e</strong>-nu. Ne-kad-de-mah fa-nav be-to-dah biz-mi-rot na-<strong>ri</strong>-a’
+  lo. Ki el ga-dol A-do-nai u-<strong>me</strong>-lech <strong>ga</strong>-dol al-kol-e-lo-him.
+  A-sher be-ya-do mech-ke-rei-<strong>a</strong>-retz ve-to-’a-fot ha-rim lo. A-sher-lo
+  <strong>hay</strong>-yam ve-hu a-<strong>sa</strong>-hu ve-yab-<strong>be</strong>-shet
+  ya-dav ya-<strong>tza</strong>-ru. <strong>Bo</strong>-’u nish-ta-cha-veh ve-nich-<strong>ra</strong>-’ah
+  niv-re-chah <strong>lif</strong>-nei-A-do-nai o-<strong>se</strong>-nu. Ki hu e-lo-<strong>hei</strong>-nu
+  va-’a-<strong>nach</strong>-nu am mar-’i-to ve-tzon ya-do <strong>hay</strong>-yom
+  im-be-ko-lo tish-<strong>ma</strong>-’u. Al-tak-shu le-vav-chem kim-ri-vah ke-yom
+  <strong>mas</strong>-sah bam-mid-bar. A-sher nis-su-ni a-vo-tei-chem be-cha-<strong>nu</strong>-ni
+  gam-ra-’u fo-’o-li. Ar-<strong>ba</strong>-’im sha-nah  <strong>a</strong>-kut be-dor
+  va-’o-mar am to-’ei le-vav hem <strong>ve</strong>-hem lo-ya-de-’u de-ra-chai. A-sher-nish-<strong>ba’</strong>-ti
+  ve-’ap-pi im-ye-vo-’un el-me-nu-cha-ti.
+translation: >-
+  Come, let us sing joyously to the LORD, raise a shout for our rock and deliverer;
+  let us come into His presence with praise; let us raise a shout for Him in song!
+  For the LORD is a great God, the great king of all divine beings. 
+  In His hand are the depths of the earth; the peaks of the mountains are His. 
+  His is the sea, He made it; and the land, which His hands fashioned.
+  Come, let us bow down and kneel, bend the knee before the LORD our maker, 
+  for He is our God, and we are the people He tends, the flock in His care.
+  O, if you would but heed His charge this day: 
+  Do not be stubborn as at Meribah, as on the day of Massah, in the wilderness, 
+  when your fathers put Me to the test, tried Me, though they had seen My deeds. 
+  Forty years I was provoked by that generation; I thought, “They are a senseless people;
+  they would not know My ways.” Concerning them I swore in anger, 
+  “They shall never come to My resting-place!”
+translation_credit: |-
+  Translation from Tanakh: The Holy Scriptures, published by JPS (CC-BY-NC) at www.sefaria.org.
+  Transliteration courtesy of www.alittlehebrew.com."

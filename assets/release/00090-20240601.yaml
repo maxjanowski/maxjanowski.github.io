@@ -1,0 +1,38 @@
+---
+id: 00090
+productRelease: "20240601"
+originalRelease: "20240601"
+title: Leyl Shimurim
+author: by Max Janowski
+edited: edited by Cantor Cory Winter and Jordan Goodman
+features:
+  - Sheet music (PDF format) for you to share with your performers.
+  - Synthesized audio files of the piece, for rehearsal preparation.
+versions:
+  "00":
+    revision: "20231206"
+    version: for Solo, Choir and Piano (in D Minor)
+  "01":
+    revision: "20240102"
+    version: for Solo and Piano (in D Minor)
+  "02":
+    revision: "20240102"
+    version: for Solo and Piano (in F Minor)
+blurb:
+  The lyrics for Leyl Shimurim are taken from Exodus, Parashat Bo, “It is a night
+  of watchfulness to Adonai...”
+hebrew:
+  לֵ֣יל שִׁמֻּרִ֥ים הוּא֙ לַֽיהֹוָ֔ה לְהוֹצִיאָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם הֽוּא־הַלַּ֤יְלָה
+  הַזֶּה֙ לַֽיהֹוָ֔ה שִׁמֻּרִ֛ים לְכׇל־בְּנֵ֥י יִשְׂרָאֵ֖ל לְדֹרֹתָֽם׃
+sefaria_url: https://www.sefaria.org/Jeremiah.31.15
+transliteration:
+  Leil shim-mu-rim hu l’A-do-nai le-ho-tzi-’am me-<strong>’e</strong>-retz
+  mitz-<strong>ra</strong>-yim hu-hal-<strong>lay</strong>-lah haz-zeh l’A-do-nai shim-mu-rim
+  le-chol-be-nei yis-ra-’el le-do-ro-tam.
+translation:
+  That was for the LORD a night of vigil to bring them out of the land
+  of Egypt; that same night is the LORD’s, one of vigil for all the children of Israel
+  throughout the ages.
+translation_credit: |-
+  Translation from Tanakh: The Holy Scriptures, published by JPS (CC-BY-NC) at www.sefaria.org.
+  Transliteration courtesy of www.alittlehebrew.com.
