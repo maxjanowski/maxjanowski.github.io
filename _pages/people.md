@@ -25,7 +25,6 @@ Our thanks to the many contributors who are helping us achieve our mission.
 - Howard Gilbert
 - Jordan Goodman
 - Jim Harfield
-- Brad Rubenstein
 - Cantor Cory Winter
 
 ## Advisory Board
@@ -45,6 +44,7 @@ _Affiliations are noted for identification purposes only._
 - Holland & Knight, LLP
 - Rabbi Irwin Keller
 - Michael Mitzen
+- Brad Rubenstein
 - Josh Wiczer
 - Daniel Zarb-Cousin
 
