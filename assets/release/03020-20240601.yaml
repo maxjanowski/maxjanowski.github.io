@@ -10,12 +10,24 @@ features:
   - Synthesized audio files of the piece, for rehearsal preparation.
 versions:
   "00":
-    revision: "20231027"
+    revision: "20240511"
     version: for Solo, SATB Choir, and Piano (in F Minor)
-blurb: ""
-# hebrew: ""
-# sefaria_url: ""
-# recording_track: ""
-# transliteration: ""
-# translation:
-# translation_credit:
+blurb: "These bible verses are taken from Parshat Toldot in the book of Genesis, where Adonai tells Rebecca of the future of her two sons Esau and Jacob."
+hebrew: |-
+  וַיִּתְרֹֽצְצ֤וּ הַבָּנִים֙ בְּקִרְבָּ֔הּ וַתֹּ֣אמֶר אִם־כֵּ֔ן לָ֥מָּה זֶּ֖ה אָנֹ֑כִי וַתֵּ֖לֶךְ לִדְרֹ֥שׁ אֶת־יְהֹוָֽה׃
+  וַיֹּ֨אמֶר יְהֹוָ֜ה לָ֗הּ שְׁנֵ֤י גוֹיִם֙ בְּבִטְנֵ֔ךְ וּשְׁנֵ֣י לְאֻמִּ֔ים מִמֵּעַ֖יִךְ יִפָּרֵ֑דוּ וּלְאֹם֙ מִלְאֹ֣ם יֶֽאֱמָ֔ץ וְרַ֖ב יַעֲבֹ֥ד צָעִֽיר׃
+sefaria_url: "https://www.sefaria.org/Genesis.25.22"
+transliteration: |
+  Vay-yit-ro-tze-tzu hab-ba-nim be-kir-bah vat-<strong>to</strong>-mer im-ken <strong>lam</strong>-mah zeh a-<strong>no</strong>-chi vat-<strong>te</strong>-lech lid-rosh et-A-do-nai. 
+  Vay-<strong>yo</strong>-mer A-do-nai lah she-nei go-yim be-vit-nech u-she-nei le-’um-mim mim-me-<strong>’a</strong>-yich yip-pa-<strong>re</strong>-du u-le-’om mil-’om ye-’e-matz ve-rav ya-’a-vod tza-’ir.
+
+translation: |-
+  But the children struggled in her womb, and she said, “If so, why do I exist?” She went to inquire of Adonai, and Adonai answered her,
+  “Two nations are in your womb,
+  Two separate peoples shall issue from your body;
+  One people shall be mightier than the other,
+  And the older shall serve the younger.”
+translation_credit: |-
+  Translation from The Contemporary Torah, Jewish Publication Society,
+  2006, published by JPS (CC-BY-NC) at www.sefaria.org. 
+  Transliteration courtesy of www.alittlehebrew.com.

@@ -23,7 +23,7 @@ versions:
     version: for Solo, SSAAATTBBB Choir, and Piano (in G Minor)
   "07":
     revision: "20240510"
-    version: for Solo and Piano (in A Minor)
+    version: for Solo and Piano (in G Minor)
 text_style: |-
   .cover-page .transliteration { font-size: .63em;max-width: 60%;margin-right: 0; line-height: 1.65; }
   .cover-page .hebrew { font-size: .7em; }
