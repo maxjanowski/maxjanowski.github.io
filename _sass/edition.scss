@@ -242,7 +242,7 @@ img.download-button {
   size: letter;
 }
 @media screen {
-  body {
+  body.has(.cover-page) {
     width: 8.5in;
   }
 }
