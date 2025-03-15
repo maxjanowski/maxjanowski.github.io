@@ -6,7 +6,8 @@ layout: post
 Thanks to Jordan Goodman from our Board of Directors, for finding an old vinyl
 recording of a 1960 concert at Congregation Rodfei Sholom-Oir Chodosh, in
 Chicago.  The recording features fourteen of Max Janowski's works, and includes
-stellar performances by Cantor Maurice Levy and soprano Beatrice Horwitz.
+stellar performances by Cantor Maurice Levy and soprano Beatrice Horwitz. 
+Jordan was in the children's choir at the time.
 
 The original performance includes, along with Levy and Horwitz, the voices of
 the Adult and Children's Choirs of Congration Rodfei Sholom — Oir Chodosh.  It
