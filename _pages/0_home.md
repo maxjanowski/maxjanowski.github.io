@@ -35,6 +35,12 @@ We are just getting started.
 
 # Latest Announcements!
 
+## New from the Archives
+
+We recently received a [historical recording](/2025/03/15/rodfei-sholom) from one of our members containing
+a recording of the adult and children's choirs of Rodfei Sholom in Chicago from 1960 singing Max's music
+including some wonderful solos by the inimitable soprano Bea Horowitz and Cantor Maurice Levy.
+
 ## Performance Editions now available from the Cantors Assembly
 
 <!-- prettier-ignore -->
